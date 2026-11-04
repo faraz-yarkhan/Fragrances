@@ -41,6 +41,11 @@ open(os.path.join(B,'CHANGES.md'),'w').write('\n'.join(L)+'\n')
 # 4. pages
 run('python3','rank/patch3.py'); run('python3','ar5/combine.py')
 shutil.copy(os.path.join(B,'share/fragrance-shortlists.html'),os.path.join(ROOT,'index.html'))
+# 4b. full-document copies for republishing the private Claude artifacts
+os.makedirs(os.path.join(B,'out'),exist_ok=True)
+PRE='<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>html,body{margin:0;padding:0}</style></head><body>'
+for f in ('fragrance-shortlist.html','arabian-houses.html'):
+    open(os.path.join(B,'out',f),'w').write(PRE+open(os.path.join(B,f)).read()+'</body></html>')
 # 5. syntax check
 for f in ('fragrance-shortlist.html','arabian-houses.html','share/fragrance-shortlists.html'):
     s=open(os.path.join(B,f)).read();i=s.rfind('<script>');j=s.rfind('</script>')

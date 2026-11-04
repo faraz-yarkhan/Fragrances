@@ -1,3 +1,4 @@
 build/share/
 build/__pycache__/
 build/*/__pycache__/
+build/out/

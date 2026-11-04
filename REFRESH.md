@@ -16,7 +16,7 @@ How to refresh the ratings on https://faraz-yarkhan.github.io/Fragrances/ . A sc
 5. Run `python3 build/smoke.py`. Every line must say OK.
 6. Look over `build/CHANGES.md`. A rating jump of more than 0.5 on a scent with hundreds of ratings is almost certainly a misread, so re-check it.
 7. Commit and push to `main`. GitHub Pages republishes within about a minute.
-8. Optionally, republish the private Claude artifacts: `build/fragrance-shortlist.html` to https://claude.ai/artifact/XqKN8b4nbday2quHyj8wmi and `build/arabian-houses.html` to https://claude.ai/artifact/1fF2ky1j8tFFDcFwx1nSC3.
+8. Optionally, republish the private Claude artifacts from the full-document copies: `build/out/fragrance-shortlist.html` to https://claude.ai/artifact/XqKN8b4nbday2quHyj8wmi and `build/out/arabian-houses.html` to https://claude.ai/artifact/1fF2ky1j8tFFDcFwx1nSC3.
 
 ## Scoring
 Score = (count × rating + 100 × 7.8) / (count + 100). Men's tabs show men's, unisex and unconfirmed scents; women's tabs show women's and unisex.

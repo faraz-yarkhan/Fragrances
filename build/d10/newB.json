@@ -1,0 +1,6016 @@
+[
+{
+"id": "ysl",
+"name": "Yves Saint Laurent",
+"tag": "Designer · France",
+"src": [
+[
+"Parfumo brand list",
+"https://www.parfumo.com/Perfumes/Yves_Saint_Laurent"
+],
+[
+"WhatScent: Libre vs Black Opium",
+"https://whatscent.app/magazine/libre-vs-black-opium-2026"
+]
+],
+"note": "<b>Unisex picks:</b> Tuxedo and Babycat are from YSL's unisex Le Vestiaire range, so they appear on the men's tab with a unisex label.",
+"men": [
+{
+"n": "La Nuit de L'Homme Bleu Électrique",
+"c": "2021",
+"img": "p_e8e7db",
+"d": "8.5 (2,135)",
+"notes": [
+"cardamom",
+"lavender",
+"incense",
+"vetiver"
+],
+"s": "The highest-rated La Nuit. Keeps the cardamom DNA but adds a cooler, smoky edge and lasts better than the original.",
+"w": [
+"evening",
+"date",
+"winter"
+]
+},
+{
+"n": "Tuxedo",
+"c": "EDP · 2015 · unisex",
+"img": "p_d8f66a",
+"d": "8.5 (1,682)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "La Nuit de L'Homme",
+"c": "EDT · 2009",
+"img": "p_1287ba",
+"d": "8.4 (5,396)",
+"notes": [
+"cardamom",
+"bergamot",
+"lavender",
+"cedar",
+"vetiver"
+],
+"s": "The most-rated YSL and still one of the best date scents. Its weakness is performance: it sits close to the skin and fades in a few hours.",
+"w": [
+"date",
+"evening"
+]
+},
+{
+"n": "Opium pour Homme",
+"c": "EDP · 1995",
+"img": "p_b511ea",
+"d": "8.4 (633)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Babycat",
+"c": "2022 · unisex",
+"img": "p_b9b144",
+"d": "8.3 (2,151)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Opium pour Homme",
+"c": "EDT · 1995",
+"img": "p_59d105",
+"d": "8.2 (786)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "M7",
+"c": "EDT · 2002",
+"img": "p_c77afd",
+"d": "8.2 (417)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Rive Gauche pour Homme",
+"c": "2011",
+"img": "p_faae87",
+"d": "8.2 (346)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "La Nuit de L'Homme Frozen Cologne",
+"c": "2012",
+"img": "p_2a3b14",
+"d": "8.2 (320)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "L'Homme",
+"c": "EDT · 2006",
+"img": "p_129c54",
+"d": "8.1 (1,619)",
+"notes": [
+"ginger",
+"bergamot",
+"white pepper",
+"cedar",
+"tonka"
+],
+"s": "Clean, gingery and easy. A safe office scent that nobody will object to.",
+"w": [
+"office",
+"everyday"
+]
+}
+],
+"women": [
+{
+"n": "Manifesto L'Elixir",
+"c": "2013 · women",
+"img": "p_9cbf87",
+"d": "8.5 (547)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Libre Le Parfum",
+"c": "2022 · women",
+"img": "p_608990",
+"d": "8.4 (739)",
+"notes": [
+"ginger",
+"lavender",
+"orange blossom",
+"honey",
+"vanilla"
+],
+"s": "The highest-rated Libre. Warmer and honeyed, with the lavender softened. Best in cool weather.",
+"w": [
+"evening",
+"winter"
+]
+},
+{
+"n": "Black Opium Le Parfum",
+"c": "2022 · women",
+"img": "p_9816d6",
+"d": "8.4 (673)",
+"notes": [
+"vanilla",
+"coffee",
+"white florals"
+],
+"s": "A deeper, more vanilla-heavy Black Opium. Rated well above the original EDP.",
+"w": [
+"evening",
+"date",
+"winter"
+]
+},
+{
+"n": "Muse",
+"c": "EDP · 2025 · women",
+"img": "p_8c12e4",
+"d": "8.3 (479)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Libre",
+"c": "EDP Intense · 2020 · women",
+"img": "p_89f28f",
+"d": "8.1 (1,455)",
+"notes": [
+"mandarin",
+"lavender",
+"orange blossom",
+"jasmine",
+"vanilla",
+"musk"
+],
+"s": "The original. Bright lavender and orange blossom over vanilla. WhatScent rates it 7 to 9 hours and office-friendly.",
+"w": [
+"office",
+"everyday"
+]
+},
+{
+"n": "Cinéma",
+"c": "EDP · 2004 · women",
+"img": "p_120e48",
+"d": "8.0 (1,121)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Opium Parfum",
+"c": "1977 · women",
+"img": "p_b3cd02",
+"d": "8.0 (509)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Black Opium Eau de Parfum Over Red",
+"c": "2024 · women",
+"img": "p_27b11b",
+"d": "7.9 (644)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Elle",
+"c": "EDP · 2007 · women",
+"img": "p_f7c836",
+"d": "7.8 (316)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Paris",
+"c": "EDT · 1983 · women",
+"img": "p_4dc5ff",
+"d": "7.7 (448)",
+"notes": [],
+"s": "",
+"w": []
+}
+]
+},
+{
+"id": "jc",
+"name": "Jimmy Choo",
+"tag": "Designer · UK",
+"src": [
+[
+"Parfumo brand list",
+"https://www.parfumo.com/Perfumes/Jimmy_Choo"
+],
+[
+"Osmoz: best Jimmy Choo",
+"https://www.osmoz.com/inspiration/osmoz-magazine/628/best-jimmy-choo-perfume"
+]
+],
+"note": "<b>Small men's line:</b> only three Jimmy Choo men's scents score 6.5 or more on Parfumo, so the men's tab is short.",
+"men": [
+{
+"n": "Man Ice",
+"c": "2017",
+"img": "p_6fde13",
+"d": "7.5 (239)",
+"notes": [],
+"s": "The best-rated men's Jimmy Choo. A cool, fresh flanker for warm days. Notes not confirmed.",
+"w": [
+"summer",
+"everyday"
+]
+},
+{
+"n": "Man Aqua",
+"c": "2022",
+"img": "p_0cdb36",
+"d": "7.2 (75)",
+"notes": [],
+"s": "Aquatic flanker with few ratings. Notes not confirmed.",
+"w": [
+"summer"
+]
+},
+{
+"n": "Man Intense",
+"c": "2016",
+"img": "p_8aee78",
+"d": "7.0 (75)",
+"notes": [],
+"s": "Warmer take on the original Man (which rates only 6.2). Notes not confirmed.",
+"w": [
+"evening"
+]
+}
+],
+"women": [
+{
+"n": "Vanilla Love",
+"c": "2020 · women",
+"img": "p_faaeaf",
+"d": "8.2 (102)",
+"notes": [
+"vanilla"
+],
+"s": "The highest-rated Jimmy Choo overall, though from a small number of ratings. A vanilla-led scent.",
+"w": [
+"evening",
+"winter"
+]
+},
+{
+"n": "Iris Crush",
+"c": "2020 · women",
+"img": "p_3488e3",
+"d": "7.9 (196)",
+"notes": [
+"freesia",
+"pink pepper",
+"heliotrope",
+"vanilla",
+"tonka"
+],
+"s": "Powdery iris and heliotrope over vanilla. Soft and polished.",
+"w": [
+"everyday",
+"office"
+]
+},
+{
+"n": "Illicit",
+"c": "2015 · women",
+"img": "p_8f6fa8",
+"d": "7.4 (200)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Rose Passion",
+"c": "2023 · women",
+"img": "p_1f25af",
+"d": "7.0 (64)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Floral",
+"c": "2019 · women",
+"img": "p_5588b6",
+"d": "7.1 (85)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Fever",
+"c": "2018 · women",
+"img": "p_c1b762",
+"d": "7.2 (175)",
+"notes": [
+"black plum",
+"heliotrope",
+"tonka",
+"vanilla"
+],
+"s": "Dark plum and tonka. A cosy cold-weather option.",
+"w": [
+"winter",
+"evening"
+]
+},
+{
+"n": "I Want Choo Forever",
+"c": "2022 · women",
+"img": "p_76db19",
+"d": "7.1 (130)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Jimmy Choo",
+"c": "EDT · 2012 · women",
+"img": "p_f4df3b",
+"d": "6.9 (102)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "I Want Choo",
+"c": "2020 · women",
+"img": "p_46a3f6",
+"d": "7.2 (318)",
+"notes": [
+"peach",
+"mandarin",
+"jasmine sambac",
+"red lily",
+"vanilla"
+],
+"s": "Juicy peach and jasmine on vanilla. Fun and sweet.",
+"w": [
+"evening",
+"date"
+]
+},
+{
+"n": "Jimmy Choo",
+"c": "EDP · 2011 · women",
+"img": "p_f339df",
+"d": "7.1 (345)",
+"notes": [],
+"s": "",
+"w": []
+}
+]
+},
+{
+"id": "armani",
+"name": "Giorgio Armani",
+"tag": "Designer · Italy",
+"src": [
+[
+"Parfumo brand list",
+"https://www.parfumo.com/Perfumes/Giorgio_Armani"
+]
+],
+"note": "<b>Short women's tab:</b> only Armani's 20 most popular scents could be read from Parfumo, and five of them are for women or unisex. Acqua di Giò Profumo has been replaced by Acqua di Giò Parfum, so it may be hard to find.",
+"men": [
+{
+"n": "Stronger With You Intensely",
+"c": "2018",
+"img": "p_0a5fd7",
+"d": "8.3 (5,309)",
+"notes": [
+"pink pepper",
+"cinnamon",
+"toffee",
+"vanilla",
+"amber"
+],
+"s": "Armani's most-rated scent. Sweet, warm and a reliable compliment-getter in cool weather.",
+"w": [
+"winter",
+"evening",
+"date"
+]
+},
+{
+"n": "Acqua di Giò Profumo",
+"c": "2015",
+"img": "p_246f49",
+"d": "8.3 (5,055)",
+"notes": [
+"aquatic",
+"incense",
+"patchouli"
+],
+"s": "Darker aquatic with incense. Many still rate it the best ADG.",
+"w": [
+"everyday",
+"office",
+"summer"
+]
+},
+{
+"n": "Acqua di Giò Parfum",
+"c": "2023",
+"img": "p_2560fe",
+"d": "8.3 (1,813)",
+"notes": [
+"bergamot",
+"sea notes",
+"clary sage",
+"patchouli",
+"incense"
+],
+"s": "Profumo's replacement, and rated just as highly.",
+"w": [
+"everyday",
+"office",
+"summer"
+]
+},
+{
+"n": "Stronger With You Absolutely",
+"c": "2021",
+"img": "p_21016b",
+"d": "8.2 (2,039)",
+"notes": [
+"rum",
+"lavender",
+"vanilla",
+"patchouli"
+],
+"s": "Boozy, darker SWY. Better for nights than the office.",
+"w": [
+"evening",
+"winter"
+]
+},
+{
+"n": "Armani Privé Rouge Malachite",
+"c": "2016 · unisex",
+"img": "p_b95fef",
+"d": "8.1 (807)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Armani Code Absolu pour Homme",
+"c": "2019",
+"img": "p_9fdf59",
+"d": "8.0 (834)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Armani Code Profumo",
+"c": "2016",
+"img": "p_fd3732",
+"d": "7.8 (1,082)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Acqua di Giò",
+"c": "EDT · 1996",
+"img": "p_0be6c4",
+"d": "7.8 (3,001)",
+"notes": [
+"bergamot",
+"neroli",
+"marine"
+],
+"s": "The classic fresh aquatic. Lighter and shorter-lived than the newer versions.",
+"w": [
+"summer",
+"office"
+]
+},
+{
+"n": "Armani Code Parfum",
+"c": "2022",
+"img": "p_298968",
+"d": "7.8 (1,266)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Power of You",
+"c": "2026",
+"img": "p_8b9c86",
+"d": "7.8 (831)",
+"notes": [],
+"s": "",
+"w": []
+}
+],
+"women": [
+{
+"n": "Emporio Armani Lei/She",
+"c": "1998 · women",
+"img": "p_6fbb8b",
+"d": "7.6 (708)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Armani Code pour Femme",
+"c": "EDP · 2006 · women",
+"img": "p_d4824c",
+"d": "7.6 (939)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Sì",
+"c": "EDP · 2013 · women",
+"img": "p_91ffff",
+"d": "7.3 (1,265)",
+"notes": [
+"blackcurrant",
+"rose",
+"freesia",
+"vanilla",
+"patchouli"
+],
+"s": "The best-selling women's Armani. Blackcurrant chypre with vanilla. Crowd-pleasing.",
+"w": [
+"everyday",
+"evening"
+]
+},
+{
+"n": "Acqua di Gioia",
+"c": "EDP · 2010 · women",
+"img": "p_0ab74c",
+"d": "7.0 (934)",
+"notes": [
+"mint",
+"lemon",
+"jasmine",
+"pink pepper",
+"cedar"
+],
+"s": "Fresh, minty and aquatic. A summer daytime pick.",
+"w": [
+"summer",
+"office"
+]
+},
+{
+"n": "Armani Privé Rouge Malachite",
+"c": "2016 · unisex",
+"img": "p_b95fef",
+"d": "8.1 (807)",
+"notes": [],
+"s": "",
+"w": []
+}
+]
+},
+{
+"id": "lv",
+"name": "Louis Vuitton",
+"tag": "Luxury · France",
+"src": [
+[
+"Parfumo brand list",
+"https://www.parfumo.com/Perfumes/Louis_Vuitton"
+],
+[
+"The Modest Man",
+"https://www.themodestman.com/louis-vuitton-colognes/"
+],
+[
+"Scento",
+"https://www.scento.com/hu/blog/best-louis-vuitton-perfumes-2026"
+]
+],
+"note": "<b>Mostly unisex:</b> Louis Vuitton markets most of its range to everyone. The women's tab lists its women's scents first. Prices are high, around twice Tom Ford Private Blend.",
+"men": [
+{
+"n": "Imagination",
+"c": "2021",
+"img": "p_b5a991",
+"d": "8.9 (10,033)",
+"notes": [
+"bergamot",
+"Sicilian orange",
+"ginger",
+"cinnamon",
+"black tea",
+"ambroxan"
+],
+"s": "The top-rated scent on this whole page, with nearly 10,000 ratings. Bright citrus over tea and ambroxan. Works from office to weekend.",
+"w": [
+"everyday",
+"office",
+"summer"
+]
+},
+{
+"n": "Afternoon Swim",
+"c": "2019 · unisex",
+"img": "p_492eeb",
+"d": "8.7 (4,000)",
+"notes": [
+"orange",
+"mandarin",
+"ginger",
+"grey amber"
+],
+"s": "Pure sparkling orange. Beach and holiday scent. Light, so it fades faster.",
+"w": [
+"summer"
+]
+},
+{
+"n": "Les Sables Roses",
+"c": "2019 · unisex",
+"img": "p_3001b0",
+"d": "8.5 (1,258)",
+"notes": [
+"saffron",
+"rose",
+"oud",
+"grey amber"
+],
+"s": "Rose and oud. Rich and elegant for evenings in cooler months.",
+"w": [
+"evening",
+"winter"
+]
+},
+{
+"n": "Pacific Chill",
+"c": "2023 · unisex",
+"img": "p_d8608c",
+"d": "8.4 (3,096)",
+"notes": [
+"mint",
+"blackcurrant",
+"basil",
+"apricot",
+"fig"
+],
+"s": "Cool, green and fruity. Made for heat.",
+"w": [
+"summer",
+"everyday"
+]
+},
+{
+"n": "Symphony",
+"c": "2021 · unisex",
+"img": "p_2f69ef",
+"d": "8.4 (709)",
+"notes": [
+"grapefruit",
+"bergamot",
+"ginger",
+"musk"
+],
+"s": "Bright and understated. A quiet luxury daytime scent.",
+"w": [
+"office",
+"summer"
+]
+},
+{
+"n": "Stellar Times",
+"c": "2021 · unisex",
+"img": "p_9b2621",
+"d": "8.3 (337)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Ombre Nomade",
+"c": "2018 · unisex",
+"img": "p_626e5e",
+"d": "8.1 (5,922)",
+"notes": [
+"oud",
+"raspberry",
+"rose",
+"saffron",
+"incense",
+"benzoin"
+],
+"s": "Smoky raspberry oud. Very strong. An evening and cold-weather scent.",
+"w": [
+"evening",
+"winter"
+]
+},
+{
+"n": "L'Immensité",
+"c": "2018",
+"img": "p_513302",
+"d": "8.1 (2,106)",
+"notes": [
+"grapefruit",
+"ginger",
+"sage",
+"ambroxan",
+"labdanum"
+],
+"s": "Clean grapefruit and ambroxan. A refined take on the fresh-blue style.",
+"w": [
+"office",
+"everyday"
+]
+},
+{
+"n": "Nouveau Monde",
+"c": "2018",
+"img": "p_c41499",
+"d": "8.1 (1,337)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Fleur du Désert",
+"c": "2022 · unisex",
+"img": "p_a2ff26",
+"d": "8.1 (753)",
+"notes": [],
+"s": "",
+"w": []
+}
+],
+"women": [
+{
+"n": "Attrape-Rêves",
+"c": "2018 · women",
+"img": "p_6d7ee5",
+"d": "8.1 (578)",
+"notes": [
+"lychee",
+"cocoa",
+"peony",
+"rose",
+"patchouli"
+],
+"s": "Fruity floral with a cocoa edge. One of the few LV scents aimed at women.",
+"w": [
+"evening",
+"date"
+]
+},
+{
+"n": "Mille Feux",
+"c": "2016 · women",
+"img": "p_637e34",
+"d": "7.8 (160)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Dans la Peau",
+"c": "2016 · women",
+"img": "p_f0fb45",
+"d": "7.7 (111)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Contre Moi",
+"c": "2016 · women",
+"img": "p_ee94cd",
+"d": "7.7 (175)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Cœur Battant",
+"c": "2019 · women",
+"img": "p_e983ba",
+"d": "7.7 (188)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Matière Noire",
+"c": "2016 · women",
+"img": "p_5df91e",
+"d": "7.7 (267)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Le Jour se Lève",
+"c": "2018 · women",
+"img": "p_aa5a4b",
+"d": "7.6 (172)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Spell On You",
+"c": "2021 · women",
+"img": "p_8daf15",
+"d": "7.5 (249)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Rose des Vents",
+"c": "2016 · women",
+"img": "p_cab4f4",
+"d": "7.3 (156)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Afternoon Swim",
+"c": "2019 · unisex",
+"img": "p_492eeb",
+"d": "8.7 (4,000)",
+"notes": [
+"orange",
+"mandarin",
+"ginger",
+"grey amber"
+],
+"s": "Pure sparkling orange. Beach and holiday scent. Light, so it fades faster.",
+"w": [
+"summer"
+]
+}
+]
+},
+{
+"id": "dior",
+"name": "Dior",
+"tag": "Designer · France",
+"src": [
+[
+"Parfumo brand list",
+"https://www.parfumo.com/Perfumes/Dior"
+],
+[
+"WhatScent: best Dior",
+"https://whatscent.app/magazine/best-dior-perfumes-2026"
+]
+],
+"note": "<b>Miss Dior:</b> Miss Dior (2021) rates 7.3 on Parfumo, below the ten women's picks here.",
+"men": [
+{
+"n": "Dior Homme Parfum",
+"c": "2014",
+"img": "p_ecc673",
+"d": "8.7 (3,050)",
+"notes": [
+"iris",
+"leather",
+"sandalwood",
+"amber"
+],
+"s": "The highest-rated Dior. A dense, buttery iris-and-leather scent for formal evenings.",
+"w": [
+"evening",
+"winter"
+]
+},
+{
+"n": "Dior Homme Intense",
+"c": "2011",
+"img": "p_69da96",
+"d": "8.5 (8,952)",
+"notes": [
+"iris",
+"lavender",
+"pear",
+"ambrette",
+"cedar"
+],
+"s": "The most-rated Dior. Powdery iris and pear. A classic for dates and winter office days.",
+"w": [
+"date",
+"office",
+"winter"
+]
+},
+{
+"n": "Dior Homme Original",
+"c": "2011",
+"img": "p_5b72ed",
+"d": "8.5 (1,960)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Ambre Nuit",
+"c": "EDP · 2009 · unisex",
+"img": "p_b473e4",
+"d": "8.4 (2,956)",
+"notes": [
+"rose",
+"amber",
+"pink pepper",
+"patchouli"
+],
+"s": "Rose and amber from Dior's luxury Privée line. Warm and elegant.",
+"w": [
+"evening",
+"winter"
+]
+},
+{
+"n": "Eau Sauvage Parfum",
+"c": "2012",
+"img": "p_683280",
+"d": "8.3 (534)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Eau Sauvage",
+"c": "EDT · 1966",
+"img": "p_60efd3",
+"d": "8.2 (1,425)",
+"notes": [
+"lemon",
+"basil",
+"hedione",
+"vetiver"
+],
+"s": "A 1960s citrus classic. Rated higher than modern Sauvage but much lighter.",
+"w": [
+"summer",
+"office"
+]
+},
+{
+"n": "Fève Délicieuse",
+"c": "2015 · unisex",
+"img": "p_83fdaa",
+"d": "8.2 (1,137)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Sauvage Elixir",
+"c": "2021",
+"img": "p_322a8e",
+"d": "8.1 (4,307)",
+"notes": [
+"grapefruit",
+"cinnamon",
+"lavender",
+"licorice",
+"sandalwood",
+"amber"
+],
+"s": "Spicy, dense and very long-lasting. Little resemblance to the fresh Sauvage.",
+"w": [
+"evening",
+"winter"
+]
+},
+{
+"n": "Gris Dior",
+"c": "EDP · 2013 · unisex",
+"img": "p_3ee81f",
+"d": "8.1 (1,767)",
+"notes": [
+"bergamot",
+"rose",
+"jasmine",
+"patchouli",
+"oakmoss"
+],
+"s": "A modern chypre. Polished and good for the office.",
+"w": [
+"office",
+"everyday"
+]
+},
+{
+"n": "Vanilla Diorama",
+"c": "2022 · unisex",
+"img": "p_7ed587",
+"d": "8.1 (1,091)",
+"notes": [],
+"s": "",
+"w": []
+}
+],
+"women": [
+{
+"n": "Dior Addict",
+"c": "EDP · 2014 · women",
+"img": "p_729f8c",
+"d": "8.3 (1,039)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Dior Addict",
+"c": "EDP · 2002 · women",
+"img": "p_0ab3ab",
+"d": "8.3 (583)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Midnight Poison",
+"c": "EDP · 2007 · women",
+"img": "p_66e7e0",
+"d": "8.2 (529)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Hypnotic Poison",
+"c": "EDT · 1998 · women",
+"img": "p_b78b42",
+"d": "8.0 (2,604)",
+"notes": [
+"almond",
+"jasmine",
+"vanilla",
+"musk"
+],
+"s": "Almond and vanilla. Rich and seductive for evenings in autumn and winter.",
+"w": [
+"evening",
+"date",
+"winter"
+]
+},
+{
+"n": "J'adore Parfum d'Eau",
+"c": "2022 · women",
+"img": "p_617779",
+"d": "8.0 (503)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Hypnotic Poison",
+"c": "EDP · 2014 · women",
+"img": "p_38ab25",
+"d": "7.9 (560)",
+"notes": [
+"almond",
+"jasmine",
+"vanilla",
+"musk"
+],
+"s": "Almond and vanilla. Rich and seductive for evenings in autumn and winter.",
+"w": [
+"evening",
+"date",
+"winter"
+]
+},
+{
+"n": "Poison",
+"c": "Esprit de Parfum · 1985 · women",
+"img": "p_eea7de",
+"d": "7.9 (549)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Forever and ever Dior",
+"c": "2006 · women",
+"img": "p_1444e1",
+"d": "7.9 (509)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Pure Poison",
+"c": "2004 · women",
+"img": "p_e1b52a",
+"d": "7.8 (922)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Dune",
+"c": "EDT · 1991 · women",
+"img": "p_de2ea7",
+"d": "7.8 (643)",
+"notes": [],
+"s": "",
+"w": []
+}
+]
+},
+{
+"id": "tiffany",
+"name": "Tiffany & Co.",
+"tag": "Designer · USA",
+"src": [
+[
+"Parfumo brand list",
+"https://www.parfumo.com/Perfumes/Tiffany_Co"
+],
+[
+"Ommorphia: Intense and Sheer notes",
+"https://ommorphiabeautybar.com/tiffany-fragrances-%c2%b7-eau-de-parfum-intense-eau-de-toilette-sheer"
+]
+],
+"note": "<b>Women-focused:</b> Tiffany has only two men's scents with enough ratings. The 1989 Tiffany for Men Cologne rates well but is an old release and may be hard to find.",
+"men": [
+{
+"n": "Tiffany for Men Cologne",
+"c": "1989",
+"img": "p_0ddef4",
+"d": "8.2 (76)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Tiffany & Love for Him",
+"c": "2019",
+"img": "p_fb44ee",
+"d": "6.7 (178)",
+"notes": [],
+"s": "",
+"w": []
+}
+],
+"women": [
+{
+"n": "Tiffany",
+"c": "EDP · 1987 · women",
+"img": "p_e1634f",
+"d": "7.6 (41)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Tiffany & Co. Intense",
+"c": "2018 · women",
+"img": "p_9a27e6",
+"d": "7.7 (177)",
+"notes": [
+"mandarin",
+"pink pepper",
+"iris",
+"amber",
+"benzoin"
+],
+"s": "The best-rated Tiffany. Warmer, resinous iris. Works for day or evening.",
+"w": [
+"everyday",
+"evening"
+]
+},
+{
+"n": "Tiffany & Co. Rose Gold",
+"c": "2021 · women",
+"img": "p_f91450",
+"d": "7.4 (138)",
+"notes": [],
+"s": "Rose-themed flanker. Notes not confirmed.",
+"w": [
+"everyday"
+]
+},
+{
+"n": "Tiffany & Co. Sheer",
+"c": "2018 · women",
+"img": "p_777be0",
+"d": "7.2 (74)",
+"notes": [
+"blackcurrant",
+"mandarin",
+"rose",
+"iris"
+],
+"s": "Lighter, fruitier take on the iris DNA. Good for daytime.",
+"w": [
+"office",
+"summer"
+]
+},
+{
+"n": "Tiffany & Love for Her",
+"c": "2019 · women",
+"img": "p_a646e4",
+"d": "7.2 (114)",
+"notes": [],
+"s": "",
+"w": []
+}
+]
+},
+{
+"id": "rl",
+"name": "Ralph Lauren",
+"tag": "Designer · USA",
+"src": [
+[
+"Parfumo brand list",
+"https://www.parfumo.com/Perfumes/Ralph_Lauren"
+]
+],
+"note": "<b>Short women's tab:</b> only three women's Ralph Lauren scents appear in the 20 most popular on Parfumo.",
+"men": [
+{
+"n": "Polo est. 67",
+"c": "EDP · 2025",
+"img": "p_c92c7e",
+"d": "8.0 (288)",
+"notes": [],
+"s": "Newer release that rates well. Notes not confirmed.",
+"w": [
+"everyday"
+]
+},
+{
+"n": "Polo",
+"c": "Cologne Intense · 2021",
+"img": "p_07812c",
+"d": "8.0 (133)",
+"notes": [
+"pine",
+"artemisia",
+"basil",
+"tobacco",
+"leather",
+"oakmoss"
+],
+"s": "The green-bottle classic. Bold, old-school and mossy.",
+"w": [
+"winter",
+"office"
+]
+},
+{
+"n": "Ralph's Club Elixir",
+"c": "2023",
+"img": "p_669d88",
+"d": "7.9 (153)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Polo",
+"c": "EDT · 1978",
+"img": "p_28aaac",
+"d": "7.8 (689)",
+"notes": [
+"pine",
+"artemisia",
+"basil",
+"tobacco",
+"leather",
+"oakmoss"
+],
+"s": "The green-bottle classic. Bold, old-school and mossy.",
+"w": [
+"winter",
+"office"
+]
+},
+{
+"n": "Safari for Men",
+"c": "EDT · 1992",
+"img": "p_e2e1da",
+"d": "7.8 (318)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Polo Deep Blue",
+"c": "2020",
+"img": "p_037e8a",
+"d": "7.7 (123)",
+"notes": [
+"aquatic",
+"mineral"
+],
+"s": "The safe fresh-blue option.",
+"w": [
+"summer",
+"everyday"
+]
+},
+{
+"n": "Ralph's Club New York",
+"c": "EDP · 2025",
+"img": "p_4bc1ee",
+"d": "7.7 (177)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Polo Red Parfum",
+"c": "2023",
+"img": "p_e84383",
+"d": "7.6 (122)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Polo Blue Parfum",
+"c": "2022",
+"img": "p_e9e651",
+"d": "7.5 (173)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Polo est. 67",
+"c": "EDT · 2024",
+"img": "p_7fa286",
+"d": "7.5 (264)",
+"notes": [],
+"s": "Newer release that rates well. Notes not confirmed.",
+"w": [
+"everyday"
+]
+}
+],
+"women": [
+{
+"n": "Safari",
+"c": "EDP · 1989 · women",
+"img": "p_178d44",
+"d": "8.1 (373)",
+"notes": [],
+"s": "The best-rated women's Ralph Lauren, a green 1990 floral. Notes not confirmed.",
+"w": [
+"everyday"
+]
+},
+{
+"n": "Ralph",
+"c": "2000 · women",
+"img": "p_ac9d7e",
+"d": "7.0 (164)",
+"notes": [],
+"s": "Light, fresh and casual. Notes not confirmed.",
+"w": [
+"summer"
+]
+},
+{
+"n": "Romance",
+"c": "EDP · 1998 · women",
+"img": "p_ce88fc",
+"d": "6.8 (193)",
+"notes": [],
+"s": "Soft rose classic. Rated modestly. Notes not confirmed.",
+"w": [
+"everyday"
+]
+}
+]
+},
+{
+"id": "hermes",
+"name": "Hermès",
+"tag": "Luxury · France",
+"src": [
+[
+"Parfumo brand list",
+"https://www.parfumo.com/Perfumes/Hermes"
+]
+],
+"men": [
+{
+"n": "Ambre Narguilé",
+"c": "2004 · unisex",
+"img": "p_162f6e",
+"d": "8.4 (995)",
+"notes": [
+"honey",
+"tobacco",
+"apple",
+"cinnamon",
+"tonka"
+],
+"s": "Cosy honeyed amber, like apple pie. The highest-rated Hermès.",
+"w": [
+"winter",
+"evening"
+]
+},
+{
+"n": "Terre d'Hermès Eau Givrée",
+"c": "2022",
+"img": "p_17ed36",
+"d": "8.3 (1,801)",
+"notes": [
+"citron",
+"juniper",
+"timut pepper",
+"vetiver"
+],
+"s": "Icy citrus Terre. The best-rated of the line.",
+"w": [
+"summer",
+"office"
+]
+},
+{
+"n": "Terre d'Hermès Parfum",
+"c": "2009",
+"img": "p_c18520",
+"d": "8.2 (2,373)",
+"notes": [
+"orange",
+"pepper",
+"vetiver",
+"benzoin"
+],
+"s": "Denser and smoother than the EDT, with longer wear.",
+"w": [
+"office",
+"everyday"
+]
+},
+{
+"n": "Bel Ami Vétiver",
+"c": "2013",
+"img": "p_f39d10",
+"d": "8.2 (397)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Terre d'Hermès",
+"c": "EDT · 2006",
+"img": "p_a0877a",
+"d": "8.1 (5,446)",
+"notes": [
+"orange",
+"grapefruit",
+"flint",
+"vetiver",
+"cedar"
+],
+"s": "A modern classic: dry orange over earthy woods. Mature and very versatile.",
+"w": [
+"office",
+"everyday"
+]
+},
+{
+"n": "Bel Ami",
+"c": "EDT · 1986",
+"img": "p_1e3aed",
+"d": "8.1 (618)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Voyage d'Hermès Parfum",
+"c": "2012 · unisex",
+"img": "p_af81f5",
+"d": "8.1 (483)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Eau de Rhubarbe Écarlate",
+"c": "2016 · unisex",
+"img": "p_1dbc1b",
+"d": "8.0 (671)",
+"notes": [
+"rhubarb",
+"red berries",
+"white musk"
+],
+"s": "Tart, juicy rhubarb. A bright summer scent.",
+"w": [
+"summer"
+]
+},
+{
+"n": "Concentré d'Orange Verte",
+"c": "2004 · unisex",
+"img": "p_177c6b",
+"d": "8.0 (649)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Equipage",
+"c": "EDT · 1970",
+"img": "p_04b7c2",
+"d": "8.0 (445)",
+"notes": [],
+"s": "",
+"w": []
+}
+],
+"women": [
+{
+"n": "L'Ambre des Merveilles",
+"c": "2012 · women",
+"img": "p_9da40b",
+"d": "8.0 (495)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Elixir des Merveilles",
+"c": "2006 · women",
+"img": "p_e804bb",
+"d": "7.8 (461)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Eau des Merveilles",
+"c": "2004 · women",
+"img": "p_a572b6",
+"d": "7.7 (789)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "24, Faubourg",
+"c": "EDP · 1995 · women",
+"img": "p_7b1ca2",
+"d": "7.6 (412)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Eau des Merveilles Bleue",
+"c": "2017 · women",
+"img": "p_92dab1",
+"d": "7.6 (440)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Twilly d'Hermès",
+"c": "EDP · 2017 · women",
+"img": "p_59da93",
+"d": "7.4 (751)",
+"notes": [
+"ginger",
+"tuberose",
+"sandalwood"
+],
+"s": "Gingery, playful tuberose. Youthful.",
+"w": [
+"everyday"
+]
+},
+{
+"n": "Jour d'Hermès",
+"c": "EDP · 2013 · women",
+"img": "p_0906ff",
+"d": "7.2 (483)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Barénia",
+"c": "EDP · 2024 · women",
+"img": "p_7d2fb2",
+"d": "7.2 (493)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Ambre Narguilé",
+"c": "2004 · unisex",
+"img": "p_162f6e",
+"d": "8.4 (995)",
+"notes": [
+"honey",
+"tobacco",
+"apple",
+"cinnamon",
+"tonka"
+],
+"s": "Cosy honeyed amber, like apple pie. The highest-rated Hermès.",
+"w": [
+"winter",
+"evening"
+]
+},
+{
+"n": "Voyage d'Hermès Parfum",
+"c": "2012 · unisex",
+"img": "p_af81f5",
+"d": "8.1 (483)",
+"notes": [],
+"s": "",
+"w": []
+}
+]
+},
+{
+"id": "prada",
+"name": "Prada",
+"tag": "Designer · Italy",
+"src": [
+[
+"Parfumo brand list",
+"https://www.parfumo.com/Perfumes/Prada"
+]
+],
+"note": "<b>Paradigme:</b> rates only 6.8 on Parfumo, so it misses the men's top 10.",
+"men": [
+{
+"n": "Compulsion",
+"c": "2015 · unisex",
+"img": "p_3eb62c",
+"d": "8.5 (572)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "L'Homme",
+"c": "2016",
+"img": "p_4703b1",
+"d": "8.4 (8,090)",
+"notes": [
+"iris",
+"amber",
+"violet",
+"cedar"
+],
+"s": "Clean, powdery and refined. The 'luxury white T-shirt' scent.",
+"w": [
+"office",
+"everyday"
+]
+},
+{
+"n": "L'Homme Intense",
+"c": "2017",
+"img": "p_b59762",
+"d": "8.4 (2,661)",
+"notes": [
+"iris",
+"amber",
+"patchouli"
+],
+"s": "Deeper, warmer iris. Better for evenings and winter.",
+"w": [
+"evening",
+"winter"
+]
+},
+{
+"n": "Luna Rossa Black",
+"c": "2018",
+"img": "p_78f913",
+"d": "8.2 (3,597)",
+"notes": [
+"bergamot",
+"angelica",
+"patchouli",
+"coumarin",
+"musk"
+],
+"s": "Warm and sensual. The date-night pick.",
+"w": [
+"date",
+"evening"
+]
+},
+{
+"n": "L'Homme L'Eau",
+"c": "2017",
+"img": "p_ce1821",
+"d": "8.2 (1,136)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Infusion d'Amande",
+"c": "2015 · unisex",
+"img": "p_c5c62f",
+"d": "8.2 (555)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "L'Homme Water Splash",
+"c": "2019",
+"img": "p_89a69b",
+"d": "8.2 (238)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Luna Rossa Sport",
+"c": "2015",
+"img": "p_ac6a94",
+"d": "8.0 (898)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Infusion d'Iris Cèdre",
+"c": "2015 · unisex",
+"img": "p_ae06f9",
+"d": "8.0 (519)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Marienbad",
+"c": "2015 · unisex",
+"img": "p_66ffc1",
+"d": "8.0 (212)",
+"notes": [],
+"s": "",
+"w": []
+}
+],
+"women": [
+{
+"n": "Infusion d'Iris Absolue",
+"c": "2012 · women",
+"img": "p_d929b8",
+"d": "8.3 (315)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Infusion d'Iris",
+"c": "EDT · 2010 · women",
+"img": "p_5a7d18",
+"d": "8.2 (234)",
+"notes": [
+"iris",
+"mandarin",
+"neroli",
+"incense",
+"vetiver"
+],
+"s": "A clean, airy iris. Elegant and office-safe.",
+"w": [
+"office",
+"everyday"
+]
+},
+{
+"n": "Infusion d'Iris",
+"c": "EDP · 2015 · women",
+"img": "p_56b9ad",
+"d": "8.1 (599)",
+"notes": [
+"iris",
+"mandarin",
+"neroli",
+"incense",
+"vetiver"
+],
+"s": "A clean, airy iris. Elegant and office-safe.",
+"w": [
+"office",
+"everyday"
+]
+},
+{
+"n": "Infusion d'Iris",
+"c": "EDP · 2007 · women",
+"img": "p_7549b3",
+"d": "7.9 (987)",
+"notes": [
+"iris",
+"mandarin",
+"neroli",
+"incense",
+"vetiver"
+],
+"s": "A clean, airy iris. Elegant and office-safe.",
+"w": [
+"office",
+"everyday"
+]
+},
+{
+"n": "Prada",
+"c": "2004 · women",
+"img": "p_f0923d",
+"d": "7.8 (474)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Candy Kiss",
+"c": "EDP · 2016 · women",
+"img": "p_5c1f27",
+"d": "7.6 (217)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Prada L'Eau Ambrée",
+"c": "2009 · women",
+"img": "p_9a95e6",
+"d": "7.6 (278)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "La Femme",
+"c": "2016 · women",
+"img": "p_dd2934",
+"d": "7.6 (548)",
+"notes": [
+"frangipani",
+"tuberose",
+"beeswax",
+"vanilla"
+],
+"s": "Waxy, creamy white florals. Grown-up and warm.",
+"w": [
+"evening"
+]
+},
+{
+"n": "Infusion de Fleur d'Oranger",
+"c": "2009 · women",
+"img": "p_635a93",
+"d": "7.5 (334)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Candy Night",
+"c": "EDP · 2019 · women",
+"img": "p_f4d8cb",
+"d": "7.2 (210)",
+"notes": [],
+"s": "",
+"w": []
+}
+]
+},
+{
+"id": "givenchy",
+"name": "Givenchy",
+"tag": "Designer · France",
+"src": [
+[
+"Parfumo brand list",
+"https://www.parfumo.com/Perfumes/Givenchy"
+]
+],
+"men": [
+{
+"n": "Gentleman Givenchy Réserve Privée",
+"c": "2022",
+"img": "p_31da71",
+"d": "8.3 (2,090)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Insensé",
+"c": "EDT · 1993",
+"img": "p_718bc6",
+"d": "8.4 (224)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Désobéissant",
+"c": "2025 · gender not confirmed",
+"img": "p_ab3c48",
+"d": "8.4 (146)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "L'Enfant Terrible",
+"c": "2025 · gender not confirmed",
+"img": "p_8561b5",
+"d": "8.2 (142)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Gentleman Givenchy",
+"c": "EDP · 2018",
+"img": "p_492649",
+"d": "8.0 (1,904)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Gentleman Givenchy Eau de Parfum Boisée",
+"c": "2020",
+"img": "p_051685",
+"d": "8.0 (674)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Monsieur Givenchy",
+"c": "EDT · 1959",
+"img": "p_3f53ed",
+"d": "8.0 (176)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Pi",
+"c": "EDT · 1999",
+"img": "p_56b313",
+"d": "7.9 (1,349)",
+"notes": [
+"vanilla",
+"tonka",
+"basil",
+"benzoin"
+],
+"s": "Old-school vanilla. Cheap and cosy.",
+"w": [
+"winter",
+"evening"
+]
+},
+{
+"n": "Givenchy Gentleman",
+"c": "EDT · 1975",
+"img": "p_542bed",
+"d": "7.9 (585)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Gentleman Givenchy",
+"c": "EDT Intense · 2021",
+"img": "p_83bc77",
+"d": "7.9 (429)",
+"notes": [],
+"s": "",
+"w": []
+}
+],
+"women": [
+{
+"n": "L'Interdit Eau de Parfum Rouge",
+"c": "2021 · women",
+"img": "p_967597",
+"d": "8.3 (1,492)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "L'Interdit",
+"c": "EDP Intense · 2020 · women",
+"img": "p_0c37ca",
+"d": "8.1 (495)",
+"notes": [
+"tuberose",
+"orange blossom",
+"jasmine",
+"patchouli",
+"vetiver"
+],
+"s": "White flowers over dark patchouli. The popular original.",
+"w": [
+"everyday",
+"evening"
+]
+},
+{
+"n": "Organza Indécence",
+"c": "EDP · 1999 · women",
+"img": "p_931e90",
+"d": "8.1 (167)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "L'Interdit Absolu",
+"c": "2024 · women",
+"img": "p_80a769",
+"d": "8.0 (239)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Givenchy III",
+"c": "EDT · 1970 · women",
+"img": "p_613162",
+"d": "8.0 (180)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Ysatis",
+"c": "EDT · 1984 · women",
+"img": "p_aaf06a",
+"d": "7.9 (323)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "L'Interdit Eau de Parfum Rouge Ultime",
+"c": "2023 · women",
+"img": "p_f61afb",
+"d": "7.9 (281)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Organza",
+"c": "EDP · 1996 · women",
+"img": "p_294dc9",
+"d": "7.8 (423)",
+"notes": [
+"gardenia",
+"nutmeg",
+"vanilla",
+"amber"
+],
+"s": "A 1990s classic. Lush gardenia and vanilla.",
+"w": [
+"evening"
+]
+},
+{
+"n": "Amarige",
+"c": "EDT · 1991 · women",
+"img": "p_539a38",
+"d": "7.6 (419)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Ange ou Démon",
+"c": "EDP · 2006 · women",
+"img": "p_35bafb",
+"d": "7.6 (450)",
+"notes": [],
+"s": "",
+"w": []
+}
+]
+},
+{
+"id": "dg",
+"name": "Dolce & Gabbana",
+"tag": "Designer · Italy",
+"src": [
+[
+"Parfumo brand list",
+"https://www.parfumo.com/Perfumes/Dolce_Gabbana"
+]
+],
+"men": [
+{
+"n": "The One Luminous Night",
+"c": "2021",
+"img": "p_4980a8",
+"d": "8.6 (298)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "The One for Men",
+"c": "EDP · 2015",
+"img": "p_4c4732",
+"d": "8.4 (4,661)",
+"notes": [
+"grapefruit",
+"ginger",
+"tobacco",
+"amber"
+],
+"s": "Warm tobacco and amber. A top evening scent.",
+"w": [
+"evening",
+"date",
+"winter"
+]
+},
+{
+"n": "By Man",
+"c": "1998",
+"img": "p_6b7548",
+"d": "8.6 (193)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Light Blue pour Homme Italian Love",
+"c": "2022",
+"img": "p_f5cd1e",
+"d": "8.3 (458)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Velvet Desert Oud",
+"c": "EDP · 2013 · unisex",
+"img": "p_6cf7d7",
+"d": "8.2 (275)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Light Blue pour Homme Forever",
+"c": "2021",
+"img": "p_04a235",
+"d": "8.1 (1,060)",
+"notes": [],
+"s": "Best-rated of the Light Blue men's line. Notes not confirmed.",
+"w": [
+"summer",
+"everyday"
+]
+},
+{
+"n": "The One for Men Parfum",
+"c": "2025",
+"img": "p_2b050b",
+"d": "8.0 (259)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "The One Royal Night",
+"c": "2015",
+"img": "p_28a718",
+"d": "8.0 (212)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "The One for Men",
+"c": "EDT · 2008",
+"img": "p_10d9f1",
+"d": "7.9 (1,537)",
+"notes": [
+"grapefruit",
+"ginger",
+"tobacco",
+"amber"
+],
+"s": "Warm tobacco and amber. A top evening scent.",
+"w": [
+"evening",
+"date",
+"winter"
+]
+},
+{
+"n": "Dolce & Gabbana pour Homme",
+"c": "1994",
+"img": "p_e6ee5f",
+"d": "7.9 (435)",
+"notes": [],
+"s": "",
+"w": []
+}
+],
+"women": [
+{
+"n": "The Only One",
+"c": "EDP Intense · 2020 · women",
+"img": "p_067730",
+"d": "8.0 (418)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Light Blue Eau Intense",
+"c": "2017 · women",
+"img": "p_fdd8d2",
+"d": "7.9 (838)",
+"notes": [
+"aquatic",
+"grapefruit",
+"woods"
+],
+"s": "The longer-lasting Light Blue. Made for hot summers.",
+"w": [
+"summer"
+]
+},
+{
+"n": "Sicily",
+"c": "2003 · women",
+"img": "p_465aca",
+"d": "7.6 (177)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Dolce & Gabbana",
+"c": "EDT · 1992 · women",
+"img": "p_66d067",
+"d": "7.6 (204)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Dolce & Gabbana pour Femme Intense",
+"c": "2013 · women",
+"img": "p_39addc",
+"d": "7.6 (222)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Dolce Garden",
+"c": "2018 · women",
+"img": "p_4cf71a",
+"d": "7.5 (261)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Devotion",
+"c": "EDP Intense · 2024 · women",
+"img": "p_a92086",
+"d": "7.5 (319)",
+"notes": [
+"candied lemon",
+"orange blossom",
+"vanilla"
+],
+"s": "A sweet, creamy citrus-and-vanilla gourmand.",
+"w": [
+"evening",
+"date"
+]
+},
+{
+"n": "Dolce & Gabbana pour Femme",
+"c": "2012 · women",
+"img": "p_9ab8eb",
+"d": "7.5 (431)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Devotion",
+"c": "EDP · 2023 · women",
+"img": "p_5e7fcd",
+"d": "7.5 (1,070)",
+"notes": [
+"candied lemon",
+"orange blossom",
+"vanilla"
+],
+"s": "A sweet, creamy citrus-and-vanilla gourmand.",
+"w": [
+"evening",
+"date"
+]
+},
+{
+"n": "L'Impératrice",
+"c": "2009 · women",
+"img": "p_7e292d",
+"d": "7.5 (1,262)",
+"notes": [],
+"s": "",
+"w": []
+}
+]
+},
+{
+"id": "montblanc",
+"name": "Montblanc",
+"tag": "Designer · Value",
+"src": [
+[
+"Parfumo brand list",
+"https://www.parfumo.com/Perfumes/Montblanc"
+]
+],
+"note": "<b>Short women's tab:</b> Montblanc has only three women's scents among its 20 most popular, plus the unisex Patchouli Ink.",
+"men": [
+{
+"n": "Black Meisterstück",
+"c": "2024",
+"img": "p_2aff28",
+"d": "8.0 (143)",
+"notes": [],
+"s": "Best-rated Montblanc, but from few ratings. Notes not confirmed.",
+"w": [
+"evening"
+]
+},
+{
+"n": "Explorer Extreme",
+"c": "2025",
+"img": "p_6a79ee",
+"d": "7.9 (375)",
+"notes": [],
+"s": "A stronger Explorer. Notes not confirmed.",
+"w": [
+"everyday",
+"evening"
+]
+},
+{
+"n": "Explorer",
+"c": "2019",
+"img": "p_81a9f5",
+"d": "7.8 (3,973)",
+"notes": [
+"bergamot",
+"vetiver",
+"patchouli",
+"ambroxan"
+],
+"s": "The most popular Montblanc. Often compared to Creed Aventus, though woodier and far cheaper.",
+"w": [
+"everyday",
+"office"
+]
+},
+{
+"n": "Patchouli Ink",
+"c": "2024 · unisex",
+"img": "p_f80832",
+"d": "7.7 (94)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Présence",
+"c": "EDT · 2001",
+"img": "p_87c6fd",
+"d": "7.6 (227)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Legend Night",
+"c": "2017",
+"img": "p_f10821",
+"d": "7.5 (292)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Extreme Leather",
+"c": "2024",
+"img": "p_bcf7ad",
+"d": "7.3 (92)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Starwalker",
+"c": "EDT · 2005",
+"img": "p_ad35fe",
+"d": "7.5 (430)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Legend Blue",
+"c": "2024",
+"img": "p_88ed40",
+"d": "7.4 (200)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Legend Spirit",
+"c": "2016",
+"img": "p_456e36",
+"d": "7.5 (1,416)",
+"notes": [
+"pink pepper",
+"lavender",
+"white musk"
+],
+"s": "Light and clean. A good summer budget pick.",
+"w": [
+"summer"
+]
+}
+],
+"women": [
+{
+"n": "Signature",
+"c": "EDP · 2020 · women",
+"img": "p_3146a8",
+"d": "7.8 (1,171)",
+"notes": [
+"vanilla",
+"white musk",
+"magnolia"
+],
+"s": "Soft musky vanilla. The best value women's designer here.",
+"w": [
+"everyday",
+"office"
+]
+},
+{
+"n": "Présence d'Une Femme",
+"c": "2002 · women",
+"img": "p_fabda6",
+"d": "7.2 (91)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Signature Absolue",
+"c": "2023 · women",
+"img": "p_e1a32d",
+"d": "7.0 (113)",
+"notes": [],
+"s": "A warmer flanker that rates lower than the original. Notes not confirmed.",
+"w": [
+"evening"
+]
+},
+{
+"n": "Patchouli Ink",
+"c": "2024 · unisex",
+"img": "p_f80832",
+"d": "7.7 (94)",
+"notes": [],
+"s": "",
+"w": []
+}
+]
+},
+{
+"id": "rabanne",
+"name": "Rabanne",
+"tag": "Designer · Spain/France",
+"src": [
+[
+"Parfumo brand list",
+"https://www.parfumo.com/Perfumes/Rabanne"
+]
+],
+"note": "<b>Left out:</b> Phantom (5.8), Invictus EDT (6.5) and Lady Million (6.4) score too low. Only three women's Rabanne scents score 6.8 or more.",
+"men": [
+{
+"n": "1 Million Lucky",
+"c": "2018",
+"img": "p_a2caea",
+"d": "8.0 (897)",
+"notes": [
+"hazelnut",
+"plum",
+"honey",
+"cedar"
+],
+"s": "Nutty and sweet. A fun, warm flanker.",
+"w": [
+"evening",
+"date"
+]
+},
+{
+"n": "1 Million Privé",
+"c": "2016",
+"img": "p_93fe2a",
+"d": "8.0 (700)",
+"notes": [],
+"s": "Best-rated 1 Million, and now hard to find. Notes not confirmed.",
+"w": [
+"evening",
+"winter"
+]
+},
+{
+"n": "1 Million Elixir",
+"c": "2022",
+"img": "p_5971ef",
+"d": "7.8 (703)",
+"notes": [],
+"s": "The richest current 1 Million. Notes not confirmed.",
+"w": [
+"evening",
+"winter"
+]
+},
+{
+"n": "Invictus Victory Elixir",
+"c": "2023",
+"img": "p_36311a",
+"d": "7.8 (533)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "1 Million Royal",
+"c": "2023",
+"img": "p_c15b46",
+"d": "7.8 (365)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Pour Homme",
+"c": "EDT · 1973",
+"img": "p_c58ff9",
+"d": "7.7 (719)",
+"notes": [
+"lavender",
+"rosemary",
+"oakmoss"
+],
+"s": "A classic fougère and the best budget pick.",
+"w": [
+"office"
+]
+},
+{
+"n": "1 Million Parfum",
+"c": "2020",
+"img": "p_93d4ac",
+"d": "7.5 (741)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Invictus Aqua",
+"c": "2016",
+"img": "p_e3addb",
+"d": "7.4 (332)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Invictus Victory",
+"c": "2021",
+"img": "p_94fa4f",
+"d": "7.3 (486)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Ultraviolet Man",
+"c": "EDT · 2001",
+"img": "p_b5495b",
+"d": "7.2 (326)",
+"notes": [],
+"s": "",
+"w": []
+}
+],
+"women": [
+{
+"n": "Pure XS for Her",
+"c": "2018 · women",
+"img": "p_8f3ee7",
+"d": "7.5 (441)",
+"notes": [
+"popcorn",
+"ylang-ylang",
+"vanilla"
+],
+"s": "Buttery popcorn and vanilla. The best-rated women's Rabanne.",
+"w": [
+"evening",
+"date"
+]
+},
+{
+"n": "Olympéa",
+"c": "EDP · 2015 · women",
+"img": "p_2100d2",
+"d": "7.2 (897)",
+"notes": [
+"salted vanilla",
+"jasmine",
+"ginger"
+],
+"s": "Salty-sweet vanilla. Popular and easy.",
+"w": [
+"everyday",
+"evening"
+]
+},
+{
+"n": "Fame",
+"c": "EDP · 2022 · women",
+"img": "p_f581c9",
+"d": "6.8 (520)",
+"notes": [
+"mango",
+"bergamot",
+"jasmine",
+"incense",
+"sandalwood"
+],
+"s": "Fruity jasmine over incense. Mixed reviews.",
+"w": [
+"everyday"
+]
+}
+]
+},
+{
+"id": "jpg",
+"name": "Jean Paul Gaultier",
+"tag": "Designer · France",
+"src": [
+[
+"Parfumo brand list",
+"https://www.parfumo.com/Perfumes/Jean_Paul_Gaultier"
+]
+],
+"men": [
+{
+"n": "Le Mâle Le Parfum",
+"c": "2020",
+"img": "p_e6a2db",
+"d": "8.4 (5,767)",
+"notes": [
+"cardamom",
+"iris",
+"vanilla"
+],
+"s": "The best-rated JPG. Creamy cardamom and vanilla for nights out.",
+"w": [
+"evening",
+"date",
+"winter"
+]
+},
+{
+"n": "Le Mâle Elixir",
+"c": "2023",
+"img": "p_0cf827",
+"d": "8.2 (3,828)",
+"notes": [
+"honey",
+"lavender",
+"tonka",
+"tobacco"
+],
+"s": "Rich honey and tobacco. Very long-lasting.",
+"w": [
+"evening",
+"winter"
+]
+},
+{
+"n": "Le Beau Le Parfum",
+"c": "2022",
+"img": "p_4a9b75",
+"d": "8.0 (2,231)",
+"notes": [
+"iris",
+"coconut",
+"tonka"
+],
+"s": "Coconut and iris. Rated above the original Le Beau (7.4).",
+"w": [
+"summer",
+"date"
+]
+},
+{
+"n": "Gaultier²",
+"c": "2005 · unisex",
+"img": "p_6969db",
+"d": "8.0 (1,118)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Ultra Mâle",
+"c": "2015",
+"img": "p_0d267c",
+"d": "7.9 (3,593)",
+"notes": [
+"pear",
+"lavender",
+"cinnamon",
+"vanilla"
+],
+"s": "Loud, sweet pear and vanilla. A club classic.",
+"w": [
+"evening"
+]
+},
+{
+"n": "Scandal pour Homme Le Parfum",
+"c": "2022",
+"img": "p_1f5cec",
+"d": "7.8 (635)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Le Mâle Pride Edition",
+"c": "2022",
+"img": "p_e34664",
+"d": "7.8 (533)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Le Beau Narcisse",
+"c": "2026",
+"img": "p_d66364",
+"d": "7.8 (294)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Le Mâle Eau Fraîche",
+"c": "2016",
+"img": "p_8b60d9",
+"d": "7.7 (315)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Le Mâle Lover",
+"c": "2024",
+"img": "p_becb62",
+"d": "7.5 (167)",
+"notes": [],
+"s": "",
+"w": []
+}
+],
+"women": [
+{
+"n": "Classique Essence de Parfum",
+"c": "2016 · women",
+"img": "p_daaaa8",
+"d": "8.5 (378)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "La Belle Le Parfum",
+"c": "2022 · women",
+"img": "p_6566cc",
+"d": "8.3 (928)",
+"notes": [
+"pear",
+"vanilla",
+"orange blossom"
+],
+"s": "The best-rated women's JPG. Warm pear and vanilla.",
+"w": [
+"evening",
+"date",
+"winter"
+]
+},
+{
+"n": "Classique",
+"c": "EDP · women",
+"img": "p_c065fb",
+"d": "8.1 (405)",
+"notes": [
+"rose",
+"ginger",
+"orange blossom",
+"vanilla",
+"amber"
+],
+"s": "Powdery, retro classic in the corset bottle.",
+"w": [
+"evening"
+]
+},
+{
+"n": "La Belle",
+"c": "2019 · women",
+"img": "p_7610a7",
+"d": "8.0 (1,266)",
+"notes": [
+"pear",
+"vanilla",
+"bergamot"
+],
+"s": "Lighter, juicier pear-vanilla.",
+"w": [
+"everyday",
+"date"
+]
+},
+{
+"n": "Scandal Le Parfum",
+"c": "2022 · women",
+"img": "p_8113be",
+"d": "8.0 (462)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Gaultier Divine Elixir",
+"c": "2025 · women",
+"img": "p_2647ed",
+"d": "7.7 (155)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Fragile",
+"c": "EDP · 1999 · women",
+"img": "p_3a195f",
+"d": "7.6 (161)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Classique Intense",
+"c": "2014 · women",
+"img": "p_9dc7c1",
+"d": "7.6 (189)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Classique",
+"c": "EDT · 1993 · women",
+"img": "p_ba77a5",
+"d": "7.6 (1,090)",
+"notes": [
+"rose",
+"ginger",
+"orange blossom",
+"vanilla",
+"amber"
+],
+"s": "Powdery, retro classic in the corset bottle.",
+"w": [
+"evening"
+]
+},
+{
+"n": "Scandal Absolu",
+"c": "2024 · women",
+"img": "p_202bcd",
+"d": "7.5 (184)",
+"notes": [],
+"s": "",
+"w": []
+}
+]
+},
+{
+"id": "gb",
+"name": "Goldfield & Banks",
+"tag": "Niche · Australia",
+"src": [
+[
+"Parfumo brand list",
+"https://www.parfumo.com/Perfumes/Goldfield_Banks"
+],
+[
+"Luckyscent",
+"https://www.luckyscent.com/products/goldfield-banks-discovery-set-by-goldfield-banks"
+]
+],
+"note": "<b>All unisex:</b> the whole range is unisex, so both tabs show the same list. About 20% concentration and tested in very humid conditions.",
+"men": [
+{
+"n": "Ingenious Ginger",
+"c": "2023 · unisex",
+"img": "p_643649",
+"d": "8.2 (1,565)",
+"notes": [
+"mandarin",
+"ginger",
+"white florals",
+"amber"
+],
+"s": "Like cold ginger beer on a hot day. Rated the best in the house.",
+"w": [
+"summer",
+"everyday"
+]
+},
+{
+"n": "Pacific Rock Moss",
+"c": "2016 · unisex",
+"img": "p_63b92e",
+"d": "8.1 (3,085)",
+"notes": [
+"lemon",
+"sage",
+"salty moss"
+],
+"s": "Their breakout and most-rated scent. Clean, mineral and aquatic.",
+"w": [
+"summer",
+"office"
+]
+},
+{
+"n": "Bohemian Lime",
+"c": "2020 · unisex",
+"img": "p_050cb0",
+"d": "7.8 (1,059)",
+"notes": [
+"lime"
+],
+"s": "Bright lime. A summer scent. Full notes not confirmed.",
+"w": [
+"summer"
+]
+},
+{
+"n": "Silky Woods",
+"c": "2021 · unisex",
+"img": "p_1356e6",
+"d": "7.8 (977)",
+"notes": [
+"woods",
+"oud"
+],
+"s": "A smooth woody pick.",
+"w": [
+"evening",
+"winter"
+]
+},
+{
+"n": "Sunset Hour Dark Peach",
+"c": "2026 · unisex",
+"img": "p_f50c81",
+"d": "7.6 (96)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Pacific Rock Swell",
+"c": "2026 · unisex",
+"img": "p_c81d24",
+"d": "7.3 (51)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Tales of Amber",
+"c": "2025 · unisex",
+"img": "p_a5d6b4",
+"d": "7.5 (210)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Purple Suede",
+"c": "2022 · unisex",
+"img": "p_7d7e14",
+"d": "7.5 (239)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Sunset Hour",
+"c": "2021 · unisex",
+"img": "p_c4f8e9",
+"d": "7.5 (832)",
+"notes": [],
+"s": "Warm, relaxed evening scent. Notes not confirmed.",
+"w": [
+"evening"
+]
+},
+{
+"n": "Silky Woods Elixir",
+"c": "2023 · unisex",
+"img": "p_ff9254",
+"d": "7.4 (228)",
+"notes": [],
+"s": "",
+"w": []
+}
+],
+"women": [
+{
+"n": "Ingenious Ginger",
+"c": "2023 · unisex",
+"img": "p_643649",
+"d": "8.2 (1,565)",
+"notes": [
+"mandarin",
+"ginger",
+"white florals",
+"amber"
+],
+"s": "Like cold ginger beer on a hot day. Rated the best in the house.",
+"w": [
+"summer",
+"everyday"
+]
+},
+{
+"n": "Pacific Rock Moss",
+"c": "2016 · unisex",
+"img": "p_63b92e",
+"d": "8.1 (3,085)",
+"notes": [
+"lemon",
+"sage",
+"salty moss"
+],
+"s": "Their breakout and most-rated scent. Clean, mineral and aquatic.",
+"w": [
+"summer",
+"office"
+]
+},
+{
+"n": "Bohemian Lime",
+"c": "2020 · unisex",
+"img": "p_050cb0",
+"d": "7.8 (1,059)",
+"notes": [
+"lime"
+],
+"s": "Bright lime. A summer scent. Full notes not confirmed.",
+"w": [
+"summer"
+]
+},
+{
+"n": "Silky Woods",
+"c": "2021 · unisex",
+"img": "p_1356e6",
+"d": "7.8 (977)",
+"notes": [
+"woods",
+"oud"
+],
+"s": "A smooth woody pick.",
+"w": [
+"evening",
+"winter"
+]
+},
+{
+"n": "Sunset Hour Dark Peach",
+"c": "2026 · unisex",
+"img": "p_f50c81",
+"d": "7.6 (96)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Pacific Rock Swell",
+"c": "2026 · unisex",
+"img": "p_c81d24",
+"d": "7.3 (51)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Tales of Amber",
+"c": "2025 · unisex",
+"img": "p_a5d6b4",
+"d": "7.5 (210)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Purple Suede",
+"c": "2022 · unisex",
+"img": "p_7d7e14",
+"d": "7.5 (239)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Sunset Hour",
+"c": "2021 · unisex",
+"img": "p_c4f8e9",
+"d": "7.5 (832)",
+"notes": [],
+"s": "Warm, relaxed evening scent. Notes not confirmed.",
+"w": [
+"evening"
+]
+},
+{
+"n": "Silky Woods Elixir",
+"c": "2023 · unisex",
+"img": "p_ff9254",
+"d": "7.4 (228)",
+"notes": [],
+"s": "",
+"w": []
+}
+]
+},
+{
+"id": "tommy",
+"name": "Tommy Hilfiger",
+"tag": "Designer · Budget",
+"src": [
+[
+"Parfumo brand list",
+"https://www.parfumo.com/Perfumes/Tommy_Hilfiger"
+]
+],
+"note": "<b>Low scores:</b> Freedom (3.9) and several others score under 6.5 and are left out. Some picks here have under 50 ratings.",
+"men": [
+{
+"n": "Impact Intense",
+"c": "2021",
+"img": "p_b6f82b",
+"d": "8.0 (262)",
+"notes": [],
+"s": "The best-rated Tommy, well above the original Impact. Notes not confirmed.",
+"w": [
+"everyday",
+"evening"
+]
+},
+{
+"n": "T",
+"c": "EDT · 2001",
+"img": "p_697b93",
+"d": "8.1 (32)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Tommy Summer Edition",
+"c": "2025",
+"img": "p_8fb247",
+"d": "7.7 (33)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Tommy Now",
+"c": "2018",
+"img": "p_8d20a6",
+"d": "7.0 (53)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Hilfiger Man Sport",
+"c": "2012",
+"img": "p_f7e868",
+"d": "6.9 (47)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Impact Spark",
+"c": "2022",
+"img": "p_ffb62a",
+"d": "6.5 (44)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Tommy",
+"c": "1994",
+"img": "p_b975d1",
+"d": "7.2 (740)",
+"notes": [
+"citrus",
+"lavender",
+"spice",
+"amber"
+],
+"s": "The 90s classic. Cheap and cheerful.",
+"w": [
+"everyday",
+"office"
+]
+},
+{
+"n": "Impact",
+"c": "2020",
+"img": "p_8147bd",
+"d": "6.8 (252)",
+"notes": [
+"zesty",
+"woods"
+],
+"s": "Versatile but plain.",
+"w": [
+"everyday"
+]
+}
+],
+"women": [
+{
+"n": "Hilfiger Woman Pear Blossom",
+"c": "2012 · women",
+"img": "p_2af7ef",
+"d": "7.1 (40)",
+"notes": [
+"pear blossom"
+],
+"s": "A light fruity floral. Very few ratings.",
+"w": [
+"summer"
+]
+},
+{
+"n": "Eau de Prep Tommy Girl",
+"c": "2011 · women",
+"img": "p_7f7c37",
+"d": "7.0 (34)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Hilfiger Woman Peach Blossom",
+"c": "2011 · women",
+"img": "p_7293d6",
+"d": "6.9 (103)",
+"notes": [
+"peach blossom"
+],
+"s": "Soft peach floral.",
+"w": [
+"summer"
+]
+},
+{
+"n": "Tommy Girl",
+"c": "1996 · women",
+"img": "p_9aa895",
+"d": "7.0 (530)",
+"notes": [
+"blackcurrant",
+"camellia",
+"tea",
+"apple blossom"
+],
+"s": "The 90s classic. Fresh and fruity-floral.",
+"w": [
+"summer",
+"everyday"
+]
+}
+]
+},
+{
+"id": "valentino",
+"name": "Valentino",
+"tag": "Designer · Italy",
+"src": [
+[
+"Parfumo brand list",
+"https://www.parfumo.com/Perfumes/Valentino"
+]
+],
+"men": [
+{
+"n": "Valentino Uomo Intense",
+"c": "",
+"img": "p_ca98e8",
+"d": "8.6 (939)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Valentino Uomo",
+"c": "",
+"img": "p_af8f9b",
+"d": "8.7 (180)",
+"notes": [
+"iris",
+"coffee",
+"leather"
+],
+"s": "A soft gourmand classic for daytime.",
+"w": [
+"office"
+]
+},
+{
+"n": "Valentino Uomo Intense",
+"c": "2016",
+"img": "p_cbb161",
+"d": "8.3 (2,333)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "V pour Homme",
+"c": "EDT · 2006",
+"img": "p_58fffc",
+"d": "8.3 (125)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Valentino Uomo Noir Absolu",
+"c": "2017",
+"img": "p_3cd8c6",
+"d": "8.1 (175)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Uomo Born In Roma Coral Fantasy",
+"c": "2022",
+"img": "p_5d5989",
+"d": "8.0 (985)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Vendetta pour Homme",
+"c": "EDT · 1991",
+"img": "p_077420",
+"d": "8.1 (78)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Uomo Born In Roma Intense",
+"c": "2023",
+"img": "p_a4fd72",
+"d": "7.9 (1,177)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Valentino Uomo",
+"c": "EDT · 2014",
+"img": "p_107509",
+"d": "7.9 (1,041)",
+"notes": [
+"iris",
+"coffee",
+"leather"
+],
+"s": "A soft gourmand classic for daytime.",
+"w": [
+"office"
+]
+},
+{
+"n": "Sogno in Rosso",
+"c": "2024 · unisex",
+"img": "p_8cbe8a",
+"d": "7.6 (85)",
+"notes": [],
+"s": "",
+"w": []
+}
+],
+"women": [
+{
+"n": "Donna Rosa Verde",
+"c": "2018 · women",
+"img": "p_432146",
+"d": "8.1 (470)",
+"notes": [],
+"s": "The best-rated women's Valentino, a green rose. Notes not confirmed.",
+"w": [
+"summer",
+"everyday"
+]
+},
+{
+"n": "Valentino Donna Noir Absolu",
+"c": "2017 · women",
+"img": "p_073dd6",
+"d": "8.3 (84)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Valentino Donna Acqua",
+"c": "2017 · women",
+"img": "p_6213c4",
+"d": "7.8 (112)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Donna Born In Roma The Gold",
+"c": "2024 · women",
+"img": "p_609ae5",
+"d": "7.7 (78)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Valentina Poudre",
+"c": "2016 · women",
+"img": "p_8e8424",
+"d": "7.7 (87)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Vendetta",
+"c": "EDT · 1991 · women",
+"img": "p_c336c8",
+"d": "7.7 (95)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Valentina Assoluto",
+"c": "2012 · women",
+"img": "p_173a49",
+"d": "7.6 (98)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Donna Born In Roma Extradose",
+"c": "2025 · women",
+"img": "p_b0f936",
+"d": "7.6 (316)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Donna Born In Roma Intense",
+"c": "2023 · women",
+"img": "p_b3de3c",
+"d": "7.6 (324)",
+"notes": [
+"vanilla",
+"jasmine"
+],
+"s": "A warmer, vanilla-heavy Born in Roma.",
+"w": [
+"evening",
+"winter"
+]
+},
+{
+"n": "Valentino Donna",
+"c": "EDP · 2015 · women",
+"img": "p_a41026",
+"d": "7.5 (427)",
+"notes": [],
+"s": "",
+"w": []
+}
+]
+},
+{
+"id": "chanel",
+"name": "Chanel",
+"tag": "Designer · France",
+"src": [
+[
+"Parfumo brand list",
+"https://www.parfumo.com/Perfumes/Chanel"
+],
+[
+"WhatScent: iconic Chanel",
+"https://whatscent.app/magazine/most-iconic-chanel-scents"
+]
+],
+"men": [
+{
+"n": "Allure Homme Édition Blanche",
+"c": "EDP · 2014",
+"img": "p_7047e1",
+"d": "8.5 (3,051)",
+"notes": [
+"lemon",
+"pink pepper",
+"vanilla",
+"sandalwood"
+],
+"s": "The best-rated Chanel for men. Creamy lemon over vanilla. Perfect for summer evenings.",
+"w": [
+"summer",
+"evening"
+]
+},
+{
+"n": "Coromandel",
+"c": "EDP · 2016 · unisex",
+"img": "p_0a51dd",
+"d": "8.5 (1,359)",
+"notes": [
+"patchouli",
+"frankincense",
+"benzoin",
+"white chocolate"
+],
+"s": "The best-rated Chanel on this list. Plush patchouli and incense, at Exclusifs prices.",
+"w": [
+"evening",
+"winter"
+]
+},
+{
+"n": "Allure Homme Sport Eau Extrême",
+"c": "2012",
+"img": "p_5a3157",
+"d": "8.3 (4,417)",
+"notes": [
+"mint",
+"spice",
+"woods",
+"vanilla"
+],
+"s": "Fresh, minty and sexy.",
+"w": [
+"everyday",
+"summer"
+]
+},
+{
+"n": "Bleu de Chanel Parfum",
+"c": "2018",
+"img": "p_670625",
+"d": "8.3 (2,935)",
+"notes": [
+"grapefruit",
+"lavender",
+"sandalwood",
+"cedar"
+],
+"s": "The smoothest, woodiest Bleu.",
+"w": [
+"office",
+"everyday",
+"evening"
+]
+},
+{
+"n": "1957",
+"c": "EDP · 2018 · unisex",
+"img": "p_66ce3b",
+"d": "8.3 (720)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Sycomore",
+"c": "EDP · 2016 · unisex",
+"img": "p_bff6dd",
+"d": "8.3 (681)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Bleu de Chanel",
+"c": "EDP · 2014",
+"img": "p_055e6a",
+"d": "8.2 (5,883)",
+"notes": [
+"grapefruit",
+"mint",
+"incense",
+"cedar",
+"sandalwood"
+],
+"s": "The everyday all-rounder that works almost anywhere.",
+"w": [
+"everyday",
+"office"
+]
+},
+{
+"n": "Le Lion de Chanel",
+"c": "2020 · unisex",
+"img": "p_a7121b",
+"d": "8.2 (919)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Pour Monsieur",
+"c": "EDT · 1955",
+"img": "p_5d954f",
+"d": "8.2 (794)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Égoïste",
+"c": "EDT · 1990",
+"img": "p_948d21",
+"d": "8.1 (2,094)",
+"notes": [
+"rose",
+"cinnamon",
+"sandalwood"
+],
+"s": "Spicy, creamy sandalwood. The connoisseur's pick.",
+"w": [
+"evening",
+"winter"
+]
+}
+],
+"women": [
+{
+"n": "N°19",
+"c": "EDP · 1971 · women",
+"img": "p_34b89d",
+"d": "8.6 (509)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Coco",
+"c": "EDP · 1984 · women",
+"img": "p_b89eb6",
+"d": "8.4 (952)",
+"notes": [
+"clove",
+"rose",
+"jasmine",
+"labdanum"
+],
+"s": "Rich, warm and spicy. An evening classic.",
+"w": [
+"evening",
+"winter"
+]
+},
+{
+"n": "N°5 Eau Première",
+"c": "2008 · women",
+"img": "p_3488af",
+"d": "8.2 (793)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Coco Mademoiselle",
+"c": "EDP Intense · 2018 · women",
+"img": "p_a4cdde",
+"d": "8.2 (745)",
+"notes": [
+"orange",
+"bergamot",
+"rose",
+"jasmine",
+"patchouli",
+"white musk"
+],
+"s": "The most popular women's Chanel. Polished enough for work, evenings and special occasions.",
+"w": [
+"office",
+"evening",
+"everyday"
+]
+},
+{
+"n": "Chance Eau Tendre",
+"c": "EDP · 2019 · women",
+"img": "p_03667e",
+"d": "8.1 (774)",
+"notes": [
+"grapefruit",
+"quince",
+"jasmine",
+"white musk"
+],
+"s": "Soft, fruity and light. Easy daytime wear.",
+"w": [
+"everyday",
+"summer",
+"office"
+]
+},
+{
+"n": "N°19 Parfum",
+"c": "1971 · women",
+"img": "p_513ecb",
+"d": "8.1 (513)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Chance Eau Tendre",
+"c": "EDT · 2010 · women",
+"img": "p_43fa93",
+"d": "8.0 (949)",
+"notes": [
+"grapefruit",
+"quince",
+"jasmine",
+"white musk"
+],
+"s": "Soft, fruity and light. Easy daytime wear.",
+"w": [
+"everyday",
+"summer",
+"office"
+]
+},
+{
+"n": "Beige",
+"c": "EDP · 2016 · women",
+"img": "p_8d0d8c",
+"d": "8.0 (521)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Allure",
+"c": "EDP · 1999 · women",
+"img": "p_9c6d19",
+"d": "7.9 (733)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "N°5 L'Eau",
+"c": "EDT · 2016 · women",
+"img": "p_27e5a8",
+"d": "7.9 (653)",
+"notes": [],
+"s": "",
+"w": []
+}
+]
+},
+{
+"id": "xerjoff",
+"name": "Xerjoff",
+"tag": "Niche · Italy",
+"src": [
+[
+"Parfumo brand list",
+"https://www.parfumo.com/Perfumes/Xerjoff"
+],
+[
+"Scento",
+"https://www.scento.com/blog/best-xerjoff-perfumes-italian-luxury-picks-ranked"
+]
+],
+"note": "<b>Unisex house:</b> Xerjoff makes almost no gendered scents, so both tabs show nearly the same list.",
+"men": [
+{
+"n": "Naxos",
+"c": "2015 · unisex",
+"img": "p_87c77f",
+"d": "8.9 (14,113)",
+"notes": [
+"honey",
+"tobacco",
+"lavender"
+],
+"s": "The most-rated scent on this whole page, and tied for top rating. Golden honey-tobacco. Autumn and winter.",
+"w": [
+"winter",
+"evening"
+]
+},
+{
+"n": "Homme Anniversary",
+"c": "2024",
+"img": "p_94ad22",
+"d": "8.7 (855)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Alexandria II Anniversary",
+"c": "2024 · unisex",
+"img": "p_527577",
+"d": "8.7 (815)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Alexandria II",
+"c": "2012 · unisex",
+"img": "p_be4590",
+"d": "8.6 (7,250)",
+"notes": [
+"oud",
+"amber"
+],
+"s": "Smooth oud and amber. A standout for cool months.",
+"w": [
+"winter",
+"evening"
+]
+},
+{
+"n": "Uden",
+"c": "2009 · unisex",
+"img": "p_37a754",
+"d": "8.6 (3,276)",
+"notes": [],
+"s": "Highly rated but less known. Notes not confirmed.",
+"w": [
+"everyday"
+]
+},
+{
+"n": "Amber Star",
+"c": "2013 · unisex",
+"img": "p_fdccd2",
+"d": "8.6 (1,810)",
+"notes": [],
+"s": "The best-rated of these. Notes not confirmed.",
+"w": [
+"evening",
+"winter"
+]
+},
+{
+"n": "Alexandria III",
+"c": "2019 · unisex",
+"img": "p_6bcb37",
+"d": "8.6 (1,199)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "40 Knots",
+"c": "2012 · unisex",
+"img": "p_32fcfa",
+"d": "8.5 (6,501)",
+"notes": [],
+"s": "A marine scent fans call a luxury aquatic. Notes not confirmed.",
+"w": [
+"summer"
+]
+},
+{
+"n": "Torino21",
+"c": "2021 · unisex",
+"img": "p_75f8f1",
+"d": "8.5 (6,379)",
+"notes": [
+"mint",
+"citrus"
+],
+"s": "Minty and green. Ideal for warm weather.",
+"w": [
+"summer"
+]
+},
+{
+"n": "Richwood",
+"c": "2010 · unisex",
+"img": "p_6922bc",
+"d": "8.4 (1,656)",
+"notes": [],
+"s": "",
+"w": []
+}
+],
+"women": [
+{
+"n": "Naxos",
+"c": "2015 · unisex",
+"img": "p_87c77f",
+"d": "8.9 (14,113)",
+"notes": [
+"honey",
+"tobacco",
+"lavender"
+],
+"s": "The most-rated scent on this whole page, and tied for top rating. Golden honey-tobacco. Autumn and winter.",
+"w": [
+"winter",
+"evening"
+]
+},
+{
+"n": "Alexandria II Anniversary",
+"c": "2024 · unisex",
+"img": "p_527577",
+"d": "8.7 (815)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Alexandria II",
+"c": "2012 · unisex",
+"img": "p_be4590",
+"d": "8.6 (7,250)",
+"notes": [
+"oud",
+"amber"
+],
+"s": "Smooth oud and amber. A standout for cool months.",
+"w": [
+"winter",
+"evening"
+]
+},
+{
+"n": "Uden",
+"c": "2009 · unisex",
+"img": "p_37a754",
+"d": "8.6 (3,276)",
+"notes": [],
+"s": "Highly rated but less known. Notes not confirmed.",
+"w": [
+"everyday"
+]
+},
+{
+"n": "Amber Star",
+"c": "2013 · unisex",
+"img": "p_fdccd2",
+"d": "8.6 (1,810)",
+"notes": [],
+"s": "The best-rated of these. Notes not confirmed.",
+"w": [
+"evening",
+"winter"
+]
+},
+{
+"n": "Alexandria III",
+"c": "2019 · unisex",
+"img": "p_6bcb37",
+"d": "8.6 (1,199)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "40 Knots",
+"c": "2012 · unisex",
+"img": "p_32fcfa",
+"d": "8.5 (6,501)",
+"notes": [],
+"s": "A marine scent fans call a luxury aquatic. Notes not confirmed.",
+"w": [
+"summer"
+]
+},
+{
+"n": "Torino21",
+"c": "2021 · unisex",
+"img": "p_75f8f1",
+"d": "8.5 (6,379)",
+"notes": [
+"mint",
+"citrus"
+],
+"s": "Minty and green. Ideal for warm weather.",
+"w": [
+"summer"
+]
+},
+{
+"n": "Richwood",
+"c": "2010 · unisex",
+"img": "p_6922bc",
+"d": "8.4 (1,656)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Alexandria Orientale",
+"c": "2018 · unisex",
+"img": "p_f647cd",
+"d": "8.4 (768)",
+"notes": [],
+"s": "",
+"w": []
+}
+]
+},
+{
+"id": "azzaro",
+"name": "Azzaro",
+"tag": "Designer · France",
+"src": [
+[
+"Parfumo brand list",
+"https://www.parfumo.com/Perfumes/Azzaro"
+]
+],
+"note": "<b>Men-focused:</b> Eau Belle is the only women's Azzaro among its 20 most popular, so the women's tab has one entry.",
+"men": [
+{
+"n": "The Most Wanted Parfum",
+"c": "2022",
+"img": "p_910c89",
+"d": "8.3 (1,847)",
+"notes": [
+"ginger",
+"woods",
+"vanilla"
+],
+"s": "The best-rated Azzaro. Spicy-sweet and strong.",
+"w": [
+"evening",
+"date",
+"winter"
+]
+},
+{
+"n": "The Most Wanted EDP Intense",
+"c": "2021",
+"img": "p_93509c",
+"d": "8.0 (1,352)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Acteur",
+"c": "1989",
+"img": "p_643e0e",
+"d": "7.9 (144)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Chrome Aqua",
+"c": "2019",
+"img": "p_8265a6",
+"d": "7.7 (150)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Chrome Extrême",
+"c": "2020",
+"img": "p_eb7194",
+"d": "7.7 (219)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Visit for Men",
+"c": "2003",
+"img": "p_c4269b",
+"d": "7.7 (267)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Wanted by Night",
+"c": "2018",
+"img": "p_21b72c",
+"d": "7.7 (1,301)",
+"notes": [
+"cinnamon",
+"tobacco",
+"woods"
+],
+"s": "Seductive cinnamon and tobacco.",
+"w": [
+"evening"
+]
+},
+{
+"n": "Forever Wanted Elixir",
+"c": "2025",
+"img": "p_59affa",
+"d": "7.6 (386)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Azzaro pour Homme",
+"c": "1978",
+"img": "p_6c3749",
+"d": "7.6 (1,283)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Azzaro pour Homme Intense",
+"c": "2015",
+"img": "p_bbb5b8",
+"d": "7.5 (202)",
+"notes": [],
+"s": "",
+"w": []
+}
+],
+"women": [
+{
+"n": "Eau Belle",
+"c": "1995 · women",
+"img": "p_07b882",
+"d": "7.6 (108)",
+"notes": [],
+"s": "An older release with few ratings. Notes not confirmed.",
+"w": [
+"everyday"
+]
+}
+]
+},
+{
+"id": "tomford",
+"name": "Tom Ford",
+"tag": "Luxury · USA",
+"src": [
+[
+"Parfumo brand list",
+"https://www.parfumo.com/Perfumes/Tom_Ford"
+],
+[
+"WhatScent: Tom Ford must-haves",
+"https://whatscent.app/magazine/must-haves-of-tom-ford"
+]
+],
+"note": "<b>Mostly unisex:</b> Tom Ford's Private Blend range is unisex. The women's tab lists its women's scents first, then the best unisex ones.",
+"men": [
+{
+"n": "Oud Wood",
+"c": "EDP · 2007 · unisex",
+"img": "p_cf90e7",
+"d": "8.4 (6,887)",
+"notes": [
+"oud",
+"rosewood",
+"cardamom",
+"sandalwood"
+],
+"s": "Set the standard for oud in Western luxury. Wear it anywhere, year-round.",
+"w": [
+"everyday",
+"office",
+"evening"
+]
+},
+{
+"n": "Noir Extreme",
+"c": "EDP · 2015",
+"img": "p_8ff00e",
+"d": "8.4 (4,537)",
+"notes": [
+"kulfi",
+"nutmeg",
+"saffron",
+"vanilla",
+"amber"
+],
+"s": "Standout of the cheaper Signature line. Creamy, spicy dessert.",
+"w": [
+"winter",
+"date"
+]
+},
+{
+"n": "Noir Extreme Parfum",
+"c": "2022",
+"img": "p_26cc36",
+"d": "8.4 (906)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Ombré Leather",
+"c": "EDP · 2018 · unisex",
+"img": "p_4ff96d",
+"d": "8.3 (4,148)",
+"notes": [
+"leather",
+"jasmine",
+"cardamom",
+"patchouli"
+],
+"s": "Smooth leather. Many enthusiasts' favourite.",
+"w": [
+"evening",
+"winter"
+]
+},
+{
+"n": "Plum Japonais",
+"c": "2013 · unisex",
+"img": "p_a1e9da",
+"d": "8.3 (601)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Tobacco Vanille",
+"c": "EDP · 2007 · unisex",
+"img": "p_fbeede",
+"d": "8.2 (6,072)",
+"notes": [
+"tobacco",
+"vanilla",
+"cacao",
+"dried fruit"
+],
+"s": "Opulent and iconic. Strictly cold weather.",
+"w": [
+"winter",
+"evening"
+]
+},
+{
+"n": "Lost Cherry",
+"c": "EDP · 2018 · unisex",
+"img": "p_ccee25",
+"d": "8.2 (4,102)",
+"notes": [
+"black cherry",
+"bitter almond",
+"Turkish rose",
+"tonka"
+],
+"s": "Boozy cherry and almond. The most-rated feminine-leaning Tom Ford.",
+"w": [
+"evening",
+"date",
+"winter"
+]
+},
+{
+"n": "Tuscan Leather",
+"c": "EDP · 2007 · unisex",
+"img": "p_3c62aa",
+"d": "8.2 (2,715)",
+"notes": [
+"raspberry",
+"saffron",
+"leather"
+],
+"s": "Raw, bold leather. Not for the timid.",
+"w": [
+"evening",
+"winter"
+]
+},
+{
+"n": "Beau de Jour",
+"c": "EDP · 2019",
+"img": "p_5087ea",
+"d": "8.2 (1,821)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Mandarino di Amalfi",
+"c": "EDP · 2014 · unisex",
+"img": "p_02c153",
+"d": "8.2 (1,740)",
+"notes": [],
+"s": "",
+"w": []
+}
+],
+"women": [
+{
+"n": "Noir pour Femme",
+"c": "2015 · women",
+"img": "p_4a1e1a",
+"d": "8.4 (701)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Black Orchid Parfum",
+"c": "2020 · women",
+"img": "p_6bf5a5",
+"d": "8.1 (549)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Jasmin Rouge",
+"c": "2011 · women",
+"img": "p_c4e408",
+"d": "7.7 (531)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Velvet Orchid",
+"c": "EDP · 2014 · women",
+"img": "p_385038",
+"d": "7.6 (685)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Black Orchid",
+"c": "EDP · 2006 · women",
+"img": "p_bbbf67",
+"d": "7.6 (2,835)",
+"notes": [
+"black truffle",
+"orchid",
+"plum",
+"chocolate"
+],
+"s": "Dark, earthy and dramatic. Formal evenings.",
+"w": [
+"evening",
+"winter"
+]
+},
+{
+"n": "Metallique",
+"c": "2019 · women",
+"img": "p_9077c0",
+"d": "7.5 (536)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Oud Wood",
+"c": "EDP · 2007 · unisex",
+"img": "p_cf90e7",
+"d": "8.4 (6,887)",
+"notes": [
+"oud",
+"rosewood",
+"cardamom",
+"sandalwood"
+],
+"s": "Set the standard for oud in Western luxury. Wear it anywhere, year-round.",
+"w": [
+"everyday",
+"office",
+"evening"
+]
+},
+{
+"n": "Ombré Leather",
+"c": "EDP · 2018 · unisex",
+"img": "p_4ff96d",
+"d": "8.3 (4,148)",
+"notes": [
+"leather",
+"jasmine",
+"cardamom",
+"patchouli"
+],
+"s": "Smooth leather. Many enthusiasts' favourite.",
+"w": [
+"evening",
+"winter"
+]
+},
+{
+"n": "Plum Japonais",
+"c": "2013 · unisex",
+"img": "p_a1e9da",
+"d": "8.3 (601)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Tobacco Vanille",
+"c": "EDP · 2007 · unisex",
+"img": "p_fbeede",
+"d": "8.2 (6,072)",
+"notes": [
+"tobacco",
+"vanilla",
+"cacao",
+"dried fruit"
+],
+"s": "Opulent and iconic. Strictly cold weather.",
+"w": [
+"winter",
+"evening"
+]
+}
+]
+},
+{
+"id": "versace",
+"name": "Versace",
+"tag": "Designer · Italy",
+"src": [
+[
+"Parfumo brand list",
+"https://www.parfumo.com/Perfumes/Versace"
+]
+],
+"note": "<b>Short women's tab:</b> only five women's Versace scents score 6.8 or more among its 20 most popular.",
+"men": [
+{
+"n": "Eros Parfum",
+"c": "2021",
+"img": "p_f92e8e",
+"d": "8.1 (742)",
+"notes": [],
+"s": "The best-rated Eros. Notes not confirmed.",
+"w": [
+"evening",
+"date"
+]
+},
+{
+"n": "Oud Noir",
+"c": "2013",
+"img": "p_80d488",
+"d": "7.8 (931)",
+"notes": [],
+"s": "A darker, spicy oud. Notes not confirmed.",
+"w": [
+"evening",
+"winter"
+]
+},
+{
+"n": "Versace pour Homme",
+"c": "2008",
+"img": "p_f80a72",
+"d": "7.8 (2,217)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Eros",
+"c": "EDP · 2020",
+"img": "p_cb01df",
+"d": "7.7 (1,907)",
+"notes": [
+"mint",
+"green apple",
+"tonka",
+"vanilla"
+],
+"s": "Loud, sweet and minty. A party scent.",
+"w": [
+"evening"
+]
+},
+{
+"n": "Eros Flame",
+"c": "2018",
+"img": "p_fb76fd",
+"d": "7.7 (2,944)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "The Dreamer",
+"c": "1996",
+"img": "p_af3f53",
+"d": "7.6 (2,211)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Dylan Blue",
+"c": "2016",
+"img": "p_cd27ed",
+"d": "7.6 (4,703)",
+"notes": [
+"bergamot",
+"fig leaf",
+"ambroxan",
+"incense"
+],
+"s": "A popular fresh-blue scent.",
+"w": [
+"everyday"
+]
+},
+{
+"n": "Versace L'Homme",
+"c": "1984",
+"img": "p_1be969",
+"d": "7.5 (499)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Eros Energy",
+"c": "2024",
+"img": "p_ab6668",
+"d": "7.5 (1,573)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Versace Man Eau Fraîche",
+"c": "2005",
+"img": "p_361733",
+"d": "7.5 (1,604)",
+"notes": [],
+"s": "",
+"w": []
+}
+],
+"women": [
+{
+"n": "Crystal Noir",
+"c": "EDP · 2004 · women",
+"img": "p_612d9d",
+"d": "8.0 (951)",
+"notes": [
+"gardenia",
+"coconut",
+"peony",
+"amber"
+],
+"s": "Creamy, dark gardenia. The best-rated women's Versace.",
+"w": [
+"evening",
+"date"
+]
+},
+{
+"n": "Versense",
+"c": "2009 · women",
+"img": "p_ab6bbe",
+"d": "7.8 (866)",
+"notes": [],
+"s": "Fresh green Mediterranean scent. Notes not confirmed.",
+"w": [
+"summer"
+]
+},
+{
+"n": "Dylan Purple",
+"c": "2022 · women",
+"img": "p_d9071d",
+"d": "7.6 (392)",
+"notes": [],
+"s": "Fruity floral. Notes not confirmed.",
+"w": [
+"everyday"
+]
+},
+{
+"n": "Crystal Noir",
+"c": "EDT · 2004 · women",
+"img": "p_349f45",
+"d": "7.5 (749)",
+"notes": [
+"gardenia",
+"coconut",
+"peony",
+"amber"
+],
+"s": "Creamy, dark gardenia. The best-rated women's Versace.",
+"w": [
+"evening",
+"date"
+]
+},
+{
+"n": "Dylan Blue pour Femme",
+"c": "2017 · women",
+"img": "p_2a58bf",
+"d": "7.2 (403)",
+"notes": [],
+"s": "Fruity floral. Notes not confirmed.",
+"w": [
+"everyday"
+]
+}
+]
+},
+{
+"id": "burberry",
+"name": "Burberry",
+"tag": "Designer · UK",
+"src": [
+[
+"Parfumo brand list",
+"https://www.parfumo.com/Perfumes/Burberry"
+]
+],
+"note": "<b>Men's tab:</b> only nine men's Burberry scents score 6.5 or more among its 40 most popular.",
+"men": [
+{
+"n": "London for Men",
+"c": "2006",
+"img": "p_bbd490",
+"d": "7.9 (1,297)",
+"notes": [
+"lavender",
+"cinnamon",
+"leather",
+"tobacco"
+],
+"s": "The best-rated men's Burberry. Warm, spicy and cosy.",
+"w": [
+"winter",
+"evening"
+]
+},
+{
+"n": "Burberry for Men",
+"c": "1995",
+"img": "p_da7858",
+"d": "7.7 (358)",
+"notes": [],
+"s": "A 90s classic. Notes not confirmed.",
+"w": [
+"office"
+]
+},
+{
+"n": "Hero Parfum Intense",
+"c": "2025",
+"img": "p_91be07",
+"d": "7.6 (173)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Hero Parfum",
+"c": "2024",
+"img": "p_300d2a",
+"d": "7.5 (312)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Sport for Men",
+"c": "2010",
+"img": "p_09749b",
+"d": "7.2 (88)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Touch for Men",
+"c": "2000",
+"img": "p_451df1",
+"d": "7.3 (515)",
+"notes": [],
+"s": "Cheap and soft. Notes not confirmed.",
+"w": [
+"office"
+]
+},
+{
+"n": "Hero",
+"c": "EDP · 2022",
+"img": "p_c240cd",
+"d": "7.3 (840)",
+"notes": [],
+"s": "Popular modern woody scent. Notes not confirmed.",
+"w": [
+"everyday"
+]
+},
+{
+"n": "Brit for Him",
+"c": "2004",
+"img": "p_1f30e4",
+"d": "7.2 (409)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Hero",
+"c": "EDT · 2021",
+"img": "p_18cc70",
+"d": "7.1 (689)",
+"notes": [],
+"s": "Popular modern woody scent. Notes not confirmed.",
+"w": [
+"everyday"
+]
+}
+],
+"women": [
+{
+"n": "Brit for Women",
+"c": "EDT · 2004 · women",
+"img": "p_1639fd",
+"d": "7.8 (171)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Goddess",
+"c": "EDP · 2023 · women",
+"img": "p_9a81cd",
+"d": "7.8 (1,793)",
+"notes": [
+"lavender",
+"vanilla"
+],
+"s": "The most-rated Burberry. Lavender and vanilla.",
+"w": [
+"everyday",
+"evening"
+]
+},
+{
+"n": "Her",
+"c": "EDT · 2022 · women",
+"img": "p_2326f1",
+"d": "7.6 (235)",
+"notes": [
+"red berries",
+"jasmine",
+"musk"
+],
+"s": "Sweet berries. Youthful and popular.",
+"w": [
+"everyday"
+]
+},
+{
+"n": "Burberry for Women",
+"c": "1995 · women",
+"img": "p_c0c583",
+"d": "7.5 (318)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Her London Dream",
+"c": "2020 · women",
+"img": "p_567b44",
+"d": "7.3 (84)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Her Intense",
+"c": "2019 · women",
+"img": "p_9b0847",
+"d": "7.4 (191)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Brit Red",
+"c": "2004 · women",
+"img": "p_6c5a30",
+"d": "7.3 (121)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "My Burberry Black",
+"c": "2016 · women",
+"img": "p_564d91",
+"d": "7.4 (232)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Brit Rhythm for Her",
+"c": "2014 · women",
+"img": "p_5c0040",
+"d": "7.4 (237)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "London for Women",
+"c": "2006 · women",
+"img": "p_d1bef1",
+"d": "7.4 (426)",
+"notes": [],
+"s": "Notes not confirmed.",
+"w": [
+"everyday"
+]
+}
+]
+},
+{
+"id": "zara",
+"name": "Zara",
+"tag": "High street · Spain",
+"src": [
+[
+"Parfumo brand list",
+"https://www.parfumo.com/Perfumes/Zara"
+],
+[
+"WhatScent: Zara that smell like designer",
+"https://whatscent.app/magazine/best-zara-perfumes-smell-like-designer-2026"
+]
+],
+"note": "<b>Unconfirmed labels:</b> Zara sells some scents in both its men's and women's sections, so several men's-tab picks are marked 'gender not confirmed'.",
+"men": [
+{
+"n": "Sand Desert at Sunset Intense",
+"c": "2024 · gender not confirmed",
+"img": "p_76894b",
+"d": "8.4 (354)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Sunrise on the Red Sand Dunes Intense",
+"c": "2024 · gender not confirmed",
+"img": "p_64c4b5",
+"d": "8.3 (946)",
+"notes": [],
+"s": "Best-rated of the Zara bestsellers. Notes not confirmed.",
+"w": [
+"evening"
+]
+},
+{
+"n": "Vetiver Pamplemousse",
+"c": "2019 · unisex",
+"img": "p_a039dd",
+"d": "8.2 (892)",
+"notes": [
+"grapefruit",
+"vetiver",
+"green"
+],
+"s": "Fresh grapefruit and vetiver for very little money.",
+"w": [
+"summer",
+"office"
+],
+"insp": "Jo Malone Grapefruit"
+},
+{
+"n": "WO/01 Somewoody",
+"c": "2023 · gender not confirmed",
+"img": "p_63bcfb",
+"d": "8.1 (503)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Antique Brown",
+"c": "2023 · gender not confirmed",
+"img": "p_26abd6",
+"d": "8.1 (203)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Sunrise on the Red Sand Dunes",
+"c": "2023 · gender not confirmed",
+"img": "p_58a7da",
+"d": "8.0 (3,210)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Bohemian Oud",
+"c": "gender not confirmed",
+"img": "p_c5f896",
+"d": "8.1 (164)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Sand Desert at Sunset",
+"c": "2023 · gender not confirmed",
+"img": "p_b312a8",
+"d": "8.0 (851)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Vanilla Vibration",
+"c": "2023 · gender not confirmed",
+"img": "p_d2af2d",
+"d": "8.0 (148)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Bogoss Vibrant Leather",
+"c": "2022",
+"img": "p_b37f65",
+"d": "7.9 (148)",
+"notes": [],
+"s": "",
+"w": []
+}
+],
+"women": [
+{
+"n": "Golden Decade",
+"c": "2021 · women",
+"img": "p_eb8624",
+"d": "8.0 (295)",
+"notes": [
+"orange blossom",
+"jasmine",
+"lavender",
+"vanilla",
+"amber"
+],
+"s": "Lavender and orange blossom over vanilla.",
+"w": [
+"everyday",
+"evening"
+],
+"insp": "YSL Libre"
+},
+{
+"n": "Rose Gourmand",
+"c": "women",
+"img": "p_0349cd",
+"d": "7.6 (292)",
+"notes": [
+"rose"
+],
+"s": "Sweet rose. Full notes not confirmed.",
+"w": [
+"evening"
+]
+},
+{
+"n": "Applejuice",
+"c": "2012 · women",
+"img": "p_8520e1",
+"d": "7.1 (152)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Cherry Smoothie",
+"c": "women",
+"img": "p_862c10",
+"d": "7.0 (256)",
+"notes": [
+"cherry",
+"almond",
+"vanilla"
+],
+"s": "Sweet cherry-almond.",
+"w": [
+"evening",
+"date"
+],
+"insp": "Tom Ford Lost Cherry"
+},
+{
+"n": "Red Temptation",
+"c": "women",
+"img": "p_4dac81",
+"d": "7.0 (384)",
+"notes": [
+"amber",
+"saffron",
+"almond",
+"woods"
+],
+"s": "The famous budget alternative. Rated modestly.",
+"w": [
+"evening"
+],
+"insp": "MFK Baccarat Rouge 540"
+},
+{
+"n": "Vetiver Pamplemousse",
+"c": "2019 · unisex",
+"img": "p_a039dd",
+"d": "8.2 (892)",
+"notes": [
+"grapefruit",
+"vetiver",
+"green"
+],
+"s": "Fresh grapefruit and vetiver for very little money.",
+"w": [
+"summer",
+"office"
+],
+"insp": "Jo Malone Grapefruit"
+},
+{
+"n": "Ebony Wood",
+"c": "2019 · unisex",
+"img": "p_796fbd",
+"d": "7.8 (409)",
+"notes": [
+"woods",
+"black pepper",
+"mineral"
+],
+"s": "Dry, mineral woods.",
+"w": [
+"everyday",
+"office"
+],
+"insp": "Jo Malone Wood Sage & Sea Salt"
+},
+{
+"n": "N°04 Leather Jardin",
+"c": "2021 · unisex",
+"img": "p_814996",
+"d": "7.7 (136)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Waterlily Tea Dress",
+"c": "2019 · unisex",
+"img": "p_80ead6",
+"d": "7.7 (247)",
+"notes": [],
+"s": "Light aquatic floral. Notes not confirmed.",
+"w": [
+"summer",
+"office"
+]
+},
+{
+"n": "N°06 Elegantly Tokyo",
+"c": "2021 · unisex",
+"img": "p_fd0407",
+"d": "7.5 (256)",
+"notes": [],
+"s": "",
+"w": []
+}
+]
+},
+{
+"id": "creed",
+"name": "Creed",
+"tag": "Niche · UK/France",
+"src": [
+[
+"Parfumo brand list",
+"https://www.parfumo.com/Perfumes/Creed"
+],
+[
+"WhatScent: best Creed",
+"https://whatscent.app/magazine/best-creed-perfumes-2026"
+]
+],
+"note": "<b>Women's tab:</b> Creed's women's scents rate well below its men's and unisex ones, so the best unisex Creeds fill the last spots.",
+"men": [
+{
+"n": "Absolu Aventus",
+"c": "2023",
+"img": "p_9cd3f6",
+"d": "8.5 (1,447)",
+"notes": [
+"ginger",
+"cardamom",
+"pineapple",
+"birch"
+],
+"s": "Spicier Aventus and the best-rated Creed.",
+"w": [
+"everyday",
+"evening"
+]
+},
+{
+"n": "Aventus",
+"c": "2010",
+"img": "p_66dd48",
+"d": "8.4 (8,757)",
+"notes": [
+"pineapple",
+"blackcurrant",
+"birch",
+"oakmoss"
+],
+"s": "The most famous niche men's scent. One bottle for everything, if you can pay for it.",
+"w": [
+"everyday",
+"office",
+"date"
+]
+},
+{
+"n": "Aventus Cologne",
+"c": "2019",
+"img": "p_579fc2",
+"d": "8.4 (1,588)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Virgin Island Water",
+"c": "2007 · unisex",
+"img": "p_62ac86",
+"d": "8.3 (3,457)",
+"notes": [
+"coconut",
+"lime"
+],
+"s": "Coconut and lime. A holiday in a bottle.",
+"w": [
+"summer"
+]
+},
+{
+"n": "Royal Oud",
+"c": "2011 · unisex",
+"img": "p_e1dabc",
+"d": "8.2 (2,002)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Sublime Vanille",
+"c": "2009 · unisex",
+"img": "p_599173",
+"d": "8.2 (616)",
+"notes": [
+"vanilla"
+],
+"s": "The best-rated feminine-leaning Creed. Vanilla-led. Full notes not confirmed.",
+"w": [
+"evening",
+"winter"
+]
+},
+{
+"n": "Pure White Cologne",
+"c": "2012 · unisex",
+"img": "p_99314f",
+"d": "8.3 (203)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Spice and Wood",
+"c": "2010 · unisex",
+"img": "p_3c3e5e",
+"d": "8.2 (454)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Green Irish Tweed",
+"c": "1985",
+"img": "p_83153c",
+"d": "8.1 (2,754)",
+"notes": [
+"lemon verbena",
+"violet leaf",
+"iris",
+"sandalwood"
+],
+"s": "Green, clean classic. Great for the office in spring.",
+"w": [
+"office",
+"everyday"
+]
+},
+{
+"n": "Jardin d'Amalfi",
+"c": "2011 · unisex",
+"img": "p_77acec",
+"d": "8.2 (203)",
+"notes": [],
+"s": "",
+"w": []
+}
+],
+"women": [
+{
+"n": "Fleurissimo",
+"c": "1972 · women",
+"img": "p_2008ef",
+"d": "7.4 (106)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Royal Princess Oud",
+"c": "2015 · women",
+"img": "p_77a862",
+"d": "7.5 (227)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Eladaria",
+"c": "2025 · women",
+"img": "p_f9e3b8",
+"d": "7.1 (182)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Carmina",
+"c": "2023 · women",
+"img": "p_141173",
+"d": "7.2 (335)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Queen of Silk",
+"c": "2024 · women",
+"img": "p_e97f5d",
+"d": "7.2 (433)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Wind Flowers",
+"c": "2022 · women",
+"img": "p_390193",
+"d": "6.9 (277)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Aventus for Her",
+"c": "2016 · women",
+"img": "p_7f6334",
+"d": "7.0 (629)",
+"notes": [
+"green apple",
+"rose",
+"styrax",
+"bergamot"
+],
+"s": "Green apple and rose. Rated far below the men's Aventus.",
+"w": [
+"everyday"
+]
+},
+{
+"n": "Virgin Island Water",
+"c": "2007 · unisex",
+"img": "p_62ac86",
+"d": "8.3 (3,457)",
+"notes": [
+"coconut",
+"lime"
+],
+"s": "Coconut and lime. A holiday in a bottle.",
+"w": [
+"summer"
+]
+},
+{
+"n": "Royal Oud",
+"c": "2011 · unisex",
+"img": "p_e1dabc",
+"d": "8.2 (2,002)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Sublime Vanille",
+"c": "2009 · unisex",
+"img": "p_599173",
+"d": "8.2 (616)",
+"notes": [
+"vanilla"
+],
+"s": "The best-rated feminine-leaning Creed. Vanilla-led. Full notes not confirmed.",
+"w": [
+"evening",
+"winter"
+]
+}
+]
+},
+{
+"id": "jomalone",
+"name": "Jo Malone London",
+"tag": "Luxury · UK",
+"src": [
+[
+"Parfumo brand list",
+"https://www.parfumo.com/Perfumes/Jo_Malone"
+],
+[
+"WhatScent: Jo Malone must-haves",
+"https://whatscent.app/magazine/must-haves-of-jo-malone-london"
+]
+],
+"note": "<b>Layering house:</b> Jo Malone is officially unisex. The women's tab uses Fragrantica's women's labels for its florals. Expect 3 to 5 hours from the Colognes.",
+"men": [
+{
+"n": "Wood Sage & Sea Salt",
+"c": "2014 · unisex",
+"img": "p_ee5667",
+"d": "8.1 (2,011)",
+"notes": [
+"sea salt",
+"sage",
+"grapefruit",
+"seaweed",
+"ambrette"
+],
+"s": "The house's most-rated scent. Salty, breezy and casual.",
+"w": [
+"summer",
+"everyday"
+]
+},
+{
+"n": "Myrrh & Tonka",
+"c": "2017 · unisex",
+"img": "p_4a026f",
+"d": "8.0 (1,362)",
+"notes": [
+"lavender",
+"myrrh",
+"tonka",
+"vanilla",
+"almond"
+],
+"s": "Warm, resinous and longer-lasting. Date nights and formal events.",
+"w": [
+"evening",
+"winter",
+"date"
+]
+},
+{
+"n": "Scarlet Poppy",
+"c": "2021 · unisex",
+"img": "p_867eea",
+"d": "8.0 (628)",
+"notes": [
+"ambrette",
+"scarlet poppy",
+"fig",
+"tonka"
+],
+"s": "Soft, grainy floral. The best-rated women's pick.",
+"w": [
+"evening",
+"date"
+]
+},
+{
+"n": "Hinoki & Cedarwood",
+"c": "2024 · unisex",
+"img": "p_73a872",
+"d": "7.9 (299)",
+"notes": [
+"hinoki",
+"cedar"
+],
+"s": "Clean woods. Full notes not confirmed.",
+"w": [
+"office"
+]
+},
+{
+"n": "Velvet Rose & Oud",
+"c": "2012 · unisex",
+"img": "p_efbe43",
+"d": "7.8 (432)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Blackberry & Bay",
+"c": "2012 · unisex",
+"img": "p_bd6d58",
+"d": "7.8 (613)",
+"notes": [
+"blackberry",
+"bay leaf"
+],
+"s": "Tart berries and green leaves.",
+"w": [
+"summer",
+"everyday"
+]
+},
+{
+"n": "Ginger Biscuit",
+"c": "2013 · unisex",
+"img": "p_90a495",
+"d": "7.8 (354)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Vetiver & Golden Vanilla",
+"c": "2020 · unisex",
+"img": "p_4e2bca",
+"d": "7.8 (198)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Jasmine Sambac & Marigold",
+"c": "2018 · unisex",
+"img": "p_8caf2a",
+"d": "7.8 (193)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Yuzu Zest",
+"c": "2020 · unisex",
+"img": "p_0ed2dc",
+"d": "7.7 (103)",
+"notes": [],
+"s": "",
+"w": []
+}
+],
+"women": [
+{
+"n": "Tuberose Angelica",
+"c": "2014 · women",
+"img": "p_23e93a",
+"d": "7.8 (146)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "English Pear & Sweet Pea",
+"c": "2023 · women",
+"img": "p_e49e65",
+"d": "7.6 (204)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Red Hibiscus",
+"c": "2021 · women",
+"img": "p_49c963",
+"d": "7.4 (172)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Poppy & Barley",
+"c": "2018 · women",
+"img": "p_09f4f3",
+"d": "7.4 (224)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Nectarine Blossom & Honey",
+"c": "2005 · women",
+"img": "p_82a066",
+"d": "7.4 (405)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Honeysuckle & Davana",
+"c": "2018 · women",
+"img": "p_4a7bf3",
+"d": "7.2 (144)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Wild Bluebell",
+"c": "2011 · women",
+"img": "p_37200c",
+"d": "7.3 (346)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Red Roses",
+"c": "1996 · women",
+"img": "p_0763c6",
+"d": "7.2 (192)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Peony & Blush Suede",
+"c": "2013 · women",
+"img": "p_795118",
+"d": "7.3 (459)",
+"notes": [
+"red apple",
+"peony",
+"rose",
+"jasmine",
+"suede"
+],
+"s": "Pretty peony on soft suede.",
+"w": [
+"everyday",
+"date"
+]
+},
+{
+"n": "English Pear & Freesia",
+"c": "2010 · women",
+"img": "p_4e08ec",
+"d": "7.1 (767)",
+"notes": [
+"pear",
+"freesia"
+],
+"s": "The house bestseller among women. Rated lower than the others.",
+"w": [
+"office",
+"everyday"
+]
+}
+]
+},
+{
+"id": "lelabo",
+"name": "Le Labo",
+"tag": "Niche · USA",
+"src": [
+[
+"Parfumo brand list",
+"https://www.parfumo.com/Perfumes/Le_Labo"
+],
+[
+"Marie Claire: best Le Labo",
+"https://www.marieclaire.co.uk/beauty/fragrance/best-le-labo-perfumes"
+]
+],
+"note": "<b>All unisex:</b> every Le Labo scent is unisex, so both tabs show the same list. Santal 33 is the famous one but rates only 7.3.",
+"men": [
+{
+"n": "Thé Noir 29",
+"c": "2015 · unisex",
+"img": "p_3002f5",
+"d": "8.1 (1,228)",
+"notes": [
+"bergamot",
+"fig",
+"bay leaf",
+"cedarwood",
+"vetiver"
+],
+"s": "The best-rated Le Labo with many ratings. Dark tea and fig.",
+"w": [
+"everyday",
+"evening"
+]
+},
+{
+"n": "Gaiac 10",
+"c": "2008 · unisex",
+"img": "p_3d2b2c",
+"d": "8.1 (259)",
+"notes": [],
+"s": "A city-exclusive (Tokyo). Notes not confirmed.",
+"w": [
+"everyday"
+]
+},
+{
+"n": "Tabac 28",
+"c": "2019 · unisex",
+"img": "p_65aa76",
+"d": "8.0 (91)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Musc 25",
+"c": "2008 · unisex",
+"img": "p_eb1b98",
+"d": "8.0 (87)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Mousse de Chêne 30",
+"c": "2017 · unisex",
+"img": "p_108b70",
+"d": "8.0 (86)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Bergamote 22",
+"c": "2006 · unisex",
+"img": "p_cbdc98",
+"d": "7.9 (801)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Thé Matcha 26",
+"c": "2021 · unisex",
+"img": "p_4abca5",
+"d": "7.9 (705)",
+"notes": [
+"matcha",
+"fig",
+"vetiver",
+"cedar",
+"bitter orange"
+],
+"s": "Green tea and fig. Calm and clean.",
+"w": [
+"office",
+"summer"
+]
+},
+{
+"n": "Cedrat 37",
+"c": "2021 · unisex",
+"img": "p_9ff044",
+"d": "7.9 (82)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Vanille 44",
+"c": "2007 · unisex",
+"img": "p_b161c0",
+"d": "7.8 (123)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Baie Rose 26",
+"c": "2010 · unisex",
+"img": "p_cff392",
+"d": "7.8 (64)",
+"notes": [],
+"s": "",
+"w": []
+}
+],
+"women": [
+{
+"n": "Thé Noir 29",
+"c": "2015 · unisex",
+"img": "p_3002f5",
+"d": "8.1 (1,228)",
+"notes": [
+"bergamot",
+"fig",
+"bay leaf",
+"cedarwood",
+"vetiver"
+],
+"s": "The best-rated Le Labo with many ratings. Dark tea and fig.",
+"w": [
+"everyday",
+"evening"
+]
+},
+{
+"n": "Gaiac 10",
+"c": "2008 · unisex",
+"img": "p_3d2b2c",
+"d": "8.1 (259)",
+"notes": [],
+"s": "A city-exclusive (Tokyo). Notes not confirmed.",
+"w": [
+"everyday"
+]
+},
+{
+"n": "Tabac 28",
+"c": "2019 · unisex",
+"img": "p_65aa76",
+"d": "8.0 (91)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Musc 25",
+"c": "2008 · unisex",
+"img": "p_eb1b98",
+"d": "8.0 (87)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Mousse de Chêne 30",
+"c": "2017 · unisex",
+"img": "p_108b70",
+"d": "8.0 (86)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Bergamote 22",
+"c": "2006 · unisex",
+"img": "p_cbdc98",
+"d": "7.9 (801)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Thé Matcha 26",
+"c": "2021 · unisex",
+"img": "p_4abca5",
+"d": "7.9 (705)",
+"notes": [
+"matcha",
+"fig",
+"vetiver",
+"cedar",
+"bitter orange"
+],
+"s": "Green tea and fig. Calm and clean.",
+"w": [
+"office",
+"summer"
+]
+},
+{
+"n": "Cedrat 37",
+"c": "2021 · unisex",
+"img": "p_9ff044",
+"d": "7.9 (82)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Vanille 44",
+"c": "2007 · unisex",
+"img": "p_b161c0",
+"d": "7.8 (123)",
+"notes": [],
+"s": "",
+"w": []
+},
+{
+"n": "Baie Rose 26",
+"c": "2010 · unisex",
+"img": "p_cff392",
+"d": "7.8 (64)",
+"notes": [],
+"s": "",
+"w": []
+}
+]
+}
+]

@@ -1,0 +1,5453 @@
+[
+ {
+  "id": "rayhaan",
+  "name": "Rayhaan",
+  "tag": "UAE · Budget",
+  "note": "<b>Women's tab:</b> Rayhaan makes almost no women's-labelled scents. Divine is the only one with enough ratings, so the rest of the tab is unisex. Tonquin Giza (7.5) misses both top 10s.",
+  "src": [
+   [
+    "Parfumo brand list",
+    "https://www.parfumo.com/Perfumes/rayhaan"
+   ],
+   [
+    "Parfumo Terra review",
+    "https://www.parfumo.com/Perfumes/rayhaan/terra/reviews/702064"
+   ],
+   [
+    "Parfumo Aquatica review",
+    "https://www.parfumo.com/Perfumes/rayhaan/aquatica/reviews/692767"
+   ],
+   [
+    "The Scent Base: Lion",
+    "https://thescentbase.com/perfumes/rayhaan/lion"
+   ],
+   [
+    "Kaufland: Italia",
+    "https://www.kaufland.fr/product/550720757/"
+   ],
+   [
+    "Fragrantica (gender labels)",
+    "https://www.fragrantica.com/"
+   ]
+  ],
+  "men": [
+   {
+    "n": "Lion",
+    "c": "EDP · 2024",
+    "img": "lion",
+    "d": "8.5 (222)",
+    "notes": [
+     "pear",
+     "lavender",
+     "mint",
+     "cinnamon",
+     "vanilla"
+    ],
+    "s": "Sweet, loud and long-lasting. ScentVerdict calls it the Ultra Male clone to beat. Go easy on the sprays.",
+    "insp": "JPG Ultra Male",
+    "w": [
+     "evening",
+     "date"
+    ]
+   },
+   {
+    "n": "Aquatica",
+    "c": "EDP · 2025 · unisex",
+    "img": "aquatica",
+    "d": "8.3 (914)",
+    "notes": [
+     "citrus",
+     "coconut",
+     "boozy accord",
+     "creamy musk"
+    ],
+    "s": "The brand's most-rated scent. Bright citrus and coconut that turns creamy and tropical. A reviewer rated sillage 10/10.",
+    "w": [
+     "summer",
+     "everyday"
+    ]
+   },
+   {
+    "n": "Italia",
+    "c": "EDP · 2025",
+    "img": "italia",
+    "d": "8.5 (173)",
+    "notes": [
+     "lavender",
+     "bergamot",
+     "honey",
+     "cinnamon",
+     "tobacco",
+     "vanilla"
+    ],
+    "s": "Fresh citrus opening into a honeyed, spicy tobacco base. 4.7/5 from 25 Kaufland buyers; one calls it slightly synthetic.",
+    "w": [
+     "everyday",
+     "evening"
+    ]
+   },
+   {
+    "n": "Terra",
+    "c": "EDP · 2025",
+    "img": "terra",
+    "d": "8.3 (623)",
+    "notes": [
+     "citrus",
+     "resins",
+     "incense",
+     "soft oud"
+    ],
+    "s": "A blended resin-and-incense scent where no note dominates. One reviewer scored scent 9.5, with moderate projection. Wearable beyond winter.",
+    "insp": "Not a dupe, but fans of Ambre Sultan or Armaf Niche Oud may like it",
+    "w": [
+     "evening",
+     "winter"
+    ]
+   },
+   {
+    "n": "Obsidian",
+    "c": "2025",
+    "img": "p_0544ad",
+    "d": "8.3 (211)",
+    "notes": [],
+    "s": "One of Rayhaan's best-rated men's scents. Notes not confirmed.",
+    "w": [
+     "evening"
+    ]
+   },
+   {
+    "n": "Valhalla X Legion",
+    "c": "2025",
+    "img": "p_ea7a60",
+    "d": "8.4 (108)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Vantage",
+    "c": "2026 · unisex",
+    "img": "p_e9ce87",
+    "d": "8.3 (151)",
+    "notes": [
+     "pink pepper",
+     "cardamom",
+     "bergamot",
+     "frankincense",
+     "myrrh",
+     "cedar"
+    ],
+    "s": "Warm, spicy incense and resin. The best-rated unisex Rayhaan.",
+    "w": [
+     "evening",
+     "winter"
+    ]
+   },
+   {
+    "n": "Wolf",
+    "c": "2026",
+    "img": "p_cb66a9",
+    "d": "8.6 (60)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Adonis Icarus",
+    "c": "2025",
+    "img": "p_67e99f",
+    "d": "8.2 (94)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Tiger Cal Cologne Edition",
+    "c": "2024",
+    "img": "p_2287e9",
+    "d": "8.1 (174)",
+    "notes": [],
+    "s": "",
+    "w": []
+   }
+  ],
+  "women": [
+   {
+    "n": "Divine",
+    "c": "2025 · women",
+    "img": "p_bcd216",
+    "d": "7.4 (49)",
+    "notes": [],
+    "s": "Rayhaan's only women's-labelled scent with enough ratings to rank. Notes not confirmed.",
+    "w": [
+     "everyday"
+    ]
+   },
+   {
+    "n": "Vantage",
+    "c": "2026 · unisex",
+    "img": "p_e9ce87",
+    "d": "8.3 (151)",
+    "notes": [
+     "pink pepper",
+     "cardamom",
+     "bergamot",
+     "frankincense",
+     "myrrh",
+     "cedar"
+    ],
+    "s": "Warm, spicy incense and resin. The best-rated unisex Rayhaan.",
+    "w": [
+     "evening",
+     "winter"
+    ]
+   },
+   {
+    "n": "Cedrus Blanc",
+    "c": "2026 · unisex",
+    "img": "p_959c8d",
+    "d": "8.1 (96)",
+    "notes": [],
+    "s": "Highly rated 2026 unisex release. Notes not confirmed.",
+    "w": [
+     "everyday"
+    ]
+   },
+   {
+    "n": "Equinox",
+    "c": "2026 · unisex",
+    "img": "p_6886ee",
+    "d": "8.6 (20)",
+    "notes": [],
+    "s": "High score but only 20 ratings so far. Notes not confirmed.",
+    "w": [
+     "everyday"
+    ]
+   },
+   {
+    "n": "Jungle Vibe",
+    "c": "2025 · unisex",
+    "img": "p_07e92a",
+    "d": "7.9 (150)",
+    "notes": [
+     "fig",
+     "grapefruit",
+     "bergamot",
+     "green notes",
+     "sandalwood"
+    ],
+    "s": "Green fig and citrus. A fresh warm-weather scent.",
+    "w": [
+     "summer",
+     "everyday"
+    ]
+   },
+   {
+    "n": "Pharaoh",
+    "c": "EDP · 2026 · unisex",
+    "img": "pharaoh",
+    "d": "7.9 (78)",
+    "notes": [
+     "saffron",
+     "cade",
+     "suede",
+     "benzoin",
+     "labdanum",
+     "vanilla"
+    ],
+    "s": "Smoky leather and amber. Harsh for 10 to 15 minutes, then smooth. Value scores 8.9.",
+    "insp": "Often compared to Omanluxury Caden",
+    "w": [
+     "evening",
+     "winter"
+    ]
+   },
+   {
+    "n": "Nava Sol",
+    "c": "2026 · unisex",
+    "img": "p_978d9a",
+    "d": "7.9 (77)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Rayhaan Elixir",
+    "c": "2024 · unisex",
+    "img": "p_b8bd32",
+    "d": "7.8 (94)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Pacific Aloha",
+    "c": "2026 · unisex",
+    "img": "p_31d726",
+    "d": "7.7 (60)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Tropical Vibe",
+    "c": "2025 · unisex",
+    "img": "p_44bcf2",
+    "d": "7.7 (94)",
+    "notes": [],
+    "s": "",
+    "w": []
+   }
+  ]
+ },
+ {
+  "id": "fa",
+  "name": "French Avenue",
+  "tag": "UAE · Fragrance World",
+  "note": "<b>Most rated of the clone houses here:</b> Liquid Brun has more Parfumo ratings than any other pick on this page apart from Lattafa Khamrah and Afnan Turathi Blue.",
+  "src": [
+   [
+    "Parfumo brand list",
+    "https://www.parfumo.com/Perfumes/french-avenue"
+   ],
+   [
+    "WhatScent: Althaïr dupes",
+    "https://whatscent.app/magazine/althair-parfums-de-marly-similar"
+   ],
+   [
+    "The Scent Base: Royal Blend",
+    "https://thescentbase.com/perfumes/french-avenue/royal-blend"
+   ],
+   [
+    "The Scent Base: Feu",
+    "https://thescentbase.com/perfumes/french-avenue/vulcan-feu"
+   ],
+   [
+    "The Scent Base: Spectre Ghost",
+    "https://thescentbase.com/perfumes/french-avenue/spectre-ghost"
+   ],
+   [
+    "Notino: Amber Empire",
+    "https://www.notino.fr/french-avenue/amber-empire-eau-de-parfum-pour-homme/"
+   ],
+   [
+    "Fragrantica (gender labels)",
+    "https://www.fragrantica.com/"
+   ]
+  ],
+  "men": [
+   {
+    "n": "Royal Blend",
+    "c": "EDP · 2023 · unisex",
+    "img": "royalblend",
+    "d": "8.6 (362)",
+    "notes": [
+     "cognac",
+     "cinnamon",
+     "plum",
+     "iris",
+     "tonka",
+     "vanilla"
+    ],
+    "s": "Boozy, spiced and sweet. The highest-rated French Avenue pick here. Wears close to the skin.",
+    "insp": "Similar to Kilian Angels' Share",
+    "w": [
+     "winter",
+     "evening"
+    ]
+   },
+   {
+    "n": "Liquid Brun",
+    "c": "EDP · 2024",
+    "img": "liquidbrun",
+    "d": "8.4 (2,590)",
+    "notes": [
+     "orange blossom",
+     "cardamom",
+     "cinnamon",
+     "vanilla",
+     "praline"
+    ],
+    "s": "Follows Althaïr's notes almost point for point. WhatScent rates it very close, with a denser vanilla.",
+    "insp": "Parfums de Marly Althaïr",
+    "w": [
+     "evening",
+     "winter",
+     "date"
+    ]
+   },
+   {
+    "n": "Royal Blend Nero",
+    "c": "unisex",
+    "img": "p_a8bdf1",
+    "d": "8.4 (159)",
+    "notes": [],
+    "s": "Darker version of Royal Blend, rated almost as well. Notes not confirmed.",
+    "w": [
+     "evening",
+     "winter"
+    ]
+   },
+   {
+    "n": "Amber Empire",
+    "c": "EDP · 2025",
+    "img": "amberempire",
+    "d": "8.2 (563)",
+    "notes": [
+     "liqueur",
+     "amber",
+     "sugar",
+     "cistus",
+     "tonka"
+    ],
+    "s": "A sweet, boozy amber. Rated 4.7/5 by 14 Notino buyers.",
+    "w": [
+     "winter",
+     "evening"
+    ]
+   },
+   {
+    "n": "Jasmere",
+    "c": "EDP · 2026 · unisex",
+    "img": "jasmere",
+    "d": "8.3 (135)",
+    "notes": [
+     "jasmine sambac",
+     "orange blossom",
+     "heliotrope",
+     "musk"
+    ],
+    "s": "A powdery white floral with a green edge. New, so performance votes are still thin.",
+    "w": [
+     "office",
+     "everyday"
+    ]
+   },
+   {
+    "n": "Nomad",
+    "c": "unisex",
+    "img": "p_094000",
+    "d": "8.3 (102)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Spectre Ghost",
+    "c": "EDP · 2024",
+    "img": "spectre",
+    "d": "8.1 (507)",
+    "notes": [
+     "bergamot",
+     "cardamom",
+     "blackcurrant",
+     "rose",
+     "vanilla"
+    ],
+    "s": "Fresh fruity-spicy scent that leans masculine. Moderate projection.",
+    "insp": "Similar to Nishane Ani and PdM Layton",
+    "w": [
+     "everyday",
+     "office"
+    ]
+   },
+   {
+    "n": "Thunder",
+    "c": "2025",
+    "img": "p_3ae46f",
+    "d": "8.3 (101)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Zenith Santal",
+    "c": "unisex",
+    "img": "p_81a9a3",
+    "d": "8.2 (95)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Feu",
+    "c": "EDP · 2025 · unisex",
+    "img": "feu",
+    "d": "8.0 (1,211)",
+    "notes": [
+     "mango",
+     "ginger",
+     "rhubarb",
+     "praline",
+     "ambergris"
+    ],
+    "s": "Juicy mango and ginger over a sweet woody base. Lasts about 6 to 10 hours.",
+    "insp": "Similar to SHL 777 God of Fire",
+    "w": [
+     "summer",
+     "everyday"
+    ]
+   }
+  ],
+  "women": [
+   {
+    "n": "Miraj Absolu",
+    "c": "2024 · women",
+    "img": "p_eb5589",
+    "d": "8.4 (142)",
+    "notes": [
+     "pink pepper",
+     "bergamot",
+     "rose",
+     "patchouli",
+     "oud",
+     "vanilla"
+    ],
+    "s": "Rose, patchouli and oud. Labelled for women, though many reviewers find it masculine.",
+    "w": [
+     "evening",
+     "winter"
+    ]
+   },
+   {
+    "n": "Fierte",
+    "c": "2024 · women",
+    "img": "p_449026",
+    "d": "8.3 (151)",
+    "notes": [
+     "incense",
+     "tobacco",
+     "saffron",
+     "elemi",
+     "vanilla",
+     "tonka"
+    ],
+    "s": "Smoky incense and tobacco over vanilla. A bold, warm women's scent.",
+    "w": [
+     "evening",
+     "winter"
+    ]
+   },
+   {
+    "n": "Royal Blend",
+    "c": "EDP · 2023 · unisex",
+    "img": "royalblend",
+    "d": "8.6 (362)",
+    "notes": [
+     "cognac",
+     "cinnamon",
+     "plum",
+     "iris",
+     "tonka",
+     "vanilla"
+    ],
+    "s": "Boozy, spiced and sweet. The highest-rated French Avenue pick here. Wears close to the skin.",
+    "insp": "Similar to Kilian Angels' Share",
+    "w": [
+     "winter",
+     "evening"
+    ]
+   },
+   {
+    "n": "Royal Blend Nero",
+    "c": "unisex",
+    "img": "p_a8bdf1",
+    "d": "8.4 (159)",
+    "notes": [],
+    "s": "Darker version of Royal Blend, rated almost as well. Notes not confirmed.",
+    "w": [
+     "evening",
+     "winter"
+    ]
+   },
+   {
+    "n": "Jasmere",
+    "c": "EDP · 2026 · unisex",
+    "img": "jasmere",
+    "d": "8.3 (135)",
+    "notes": [
+     "jasmine sambac",
+     "orange blossom",
+     "heliotrope",
+     "musk"
+    ],
+    "s": "A powdery white floral with a green edge. New, so performance votes are still thin.",
+    "w": [
+     "office",
+     "everyday"
+    ]
+   },
+   {
+    "n": "Nomad",
+    "c": "unisex",
+    "img": "p_094000",
+    "d": "8.3 (102)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Zenith Santal",
+    "c": "unisex",
+    "img": "p_81a9a3",
+    "d": "8.2 (95)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Feu",
+    "c": "EDP · 2025 · unisex",
+    "img": "feu",
+    "d": "8.0 (1,211)",
+    "notes": [
+     "mango",
+     "ginger",
+     "rhubarb",
+     "praline",
+     "ambergris"
+    ],
+    "s": "Juicy mango and ginger over a sweet woody base. Lasts about 6 to 10 hours.",
+    "insp": "Similar to SHL 777 God of Fire",
+    "w": [
+     "summer",
+     "everyday"
+    ]
+   },
+   {
+    "n": "Arsh",
+    "c": "2024 · unisex",
+    "img": "p_4139e3",
+    "d": "8.1 (137)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Ravine Ginger",
+    "c": "2026 · unisex",
+    "img": "p_e20473",
+    "d": "8.0 (104)",
+    "notes": [],
+    "s": "",
+    "w": []
+   }
+  ]
+ },
+ {
+  "id": "lattafa",
+  "name": "Lattafa",
+  "tag": "UAE · Most popular",
+  "src": [
+   [
+    "Parfumo brand list",
+    "https://www.parfumo.com/Perfumes/Lattafa"
+   ],
+   [
+    "WhatScent: Lattafa for women",
+    "https://whatscent.app/magazine/best-lattafa-perfumes-for-women-2026"
+   ],
+   [
+    "FashionBeans: Lattafa for men",
+    "https://www.fashionbeans.com/article/best-lattafa-perfumes-for-men/"
+   ],
+   [
+    "Basenotes: Liam",
+    "https://basenotes.com/fragrances/liam-by-lattafa.26259203"
+   ],
+   [
+    "The Scent Base: Teriaq Intense",
+    "https://thescentbase.com/perfumes/lattafa-perfumes/teriaq-intense"
+   ],
+   [
+    "The Scent Base: His Confession",
+    "https://thescentbase.com/perfumes/lattafa-perfumes/his-confession"
+   ],
+   [
+    "Fragrantica (gender labels)",
+    "https://www.fragrantica.com/"
+   ]
+  ],
+  "note": "<b>Women's tab:</b> only four women's Lattafa scents rate 7.0 or more with enough ratings, so the best unisex ones fill the rest.",
+  "men": [
+   {
+    "n": "Angham",
+    "c": "2024 · unisex",
+    "img": "p_a0d8d1",
+    "d": "8.4 (562)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Teriaq Intense",
+    "c": "EDP · 2024 · unisex",
+    "img": "teriaq",
+    "d": "8.3 (808)",
+    "notes": [
+     "saffron",
+     "cinnamon",
+     "plum liquor",
+     "benzoin",
+     "tonka"
+    ],
+    "s": "The highest-rated Lattafa here. Warm and boozy, closer to the skin than Khamrah.",
+    "insp": "Often compared to Khamrah and Le Mâle Elixir Absolu",
+    "w": [
+     "winter",
+     "evening"
+    ]
+   },
+   {
+    "n": "Asad Elixir",
+    "c": "2025 · gender not confirmed",
+    "img": "p_a56f13",
+    "d": "8.3 (360)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "The Kingdom for Men",
+    "c": "",
+    "img": "p_a5a363",
+    "d": "8.2 (451)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Liam",
+    "c": "EDP · 2023 · unisex",
+    "img": "liam",
+    "d": "8.1 (2,566)",
+    "notes": [
+     "cardamom",
+     "black tea",
+     "fig",
+     "iris",
+     "vetiver",
+     "sandalwood"
+    ],
+    "s": "Creamy, green chai. Reviewers love the value; one finds it sharp and synthetic.",
+    "insp": "BDK Gris Charnel",
+    "w": [
+     "everyday",
+     "office"
+    ]
+   },
+   {
+    "n": "His Confession",
+    "c": "EDP · 2024",
+    "img": "hisconf",
+    "d": "8.1 (617)",
+    "notes": [
+     "cinnamon",
+     "lavender",
+     "iris",
+     "incense",
+     "vanilla"
+    ],
+    "s": "Spiced iris and incense. Elegant but wears close to the skin.",
+    "insp": "Similar to Givenchy Gentleman EDP and Dior Homme Intense",
+    "w": [
+     "evening",
+     "office"
+    ]
+   },
+   {
+    "n": "Al Nashama Caprice",
+    "c": "2023 · unisex",
+    "img": "p_0741f7",
+    "d": "8.0 (694)",
+    "notes": [
+     "cardamom",
+     "ginger",
+     "bergamot",
+     "lavender",
+     "amber",
+     "cedar"
+    ],
+    "s": "Fresh-spicy lavender and amber. Easy to wear.",
+    "w": [
+     "everyday",
+     "office"
+    ]
+   },
+   {
+    "n": "Nasheet",
+    "c": "2023 · gender not confirmed",
+    "img": "p_59dea8",
+    "d": "8.0 (512)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Khamrah",
+    "c": "EDP · 2022 · unisex",
+    "img": "khamrah",
+    "d": "7.9 (4,825)",
+    "notes": [
+     "cinnamon",
+     "nutmeg",
+     "dates",
+     "praline",
+     "vanilla",
+     "tonka"
+    ],
+    "s": "The most-rated fragrance on this page. Rich, spiced, boozy-sweet with a strong trail. Too heavy for summer.",
+    "insp": "Kilian Angels' Share",
+    "w": [
+     "winter",
+     "evening",
+     "date"
+    ]
+   },
+   {
+    "n": "Khamrah Qahwa",
+    "c": "2023 · unisex",
+    "img": "p_e963b2",
+    "d": "7.9 (1,770)",
+    "notes": [],
+    "s": "",
+    "w": []
+   }
+  ],
+  "women": [
+   {
+    "n": "Her Confession",
+    "c": "EDP · 2024",
+    "img": "herconf",
+    "d": "7.7 (534)",
+    "notes": [
+     "cinnamon",
+     "tuberose",
+     "jasmine",
+     "frankincense",
+     "vanilla"
+    ],
+    "s": "A spiced white floral with a smoky incense edge. Skip it if you dislike incense.",
+    "w": [
+     "evening"
+    ]
+   },
+   {
+    "n": "Eclaire",
+    "c": "EDP · 2024",
+    "img": "eclaire",
+    "d": "7.7 (1,231)",
+    "notes": [
+     "caramel",
+     "milk",
+     "honey",
+     "praline",
+     "vanilla"
+    ],
+    "s": "Warm caramel and sweet milk. Strong projection for the price. Best in cool weather.",
+    "w": [
+     "winter",
+     "date"
+    ]
+   },
+   {
+    "n": "Mayar",
+    "c": "women",
+    "img": "p_783f0e",
+    "d": "7.6 (144)",
+    "notes": [
+     "lychee",
+     "raspberry",
+     "peony",
+     "jasmine",
+     "musk",
+     "vanilla"
+    ],
+    "s": "Light fruity floral. A soft daytime option.",
+    "w": [
+     "everyday",
+     "summer"
+    ]
+   },
+   {
+    "n": "Yara",
+    "c": "EDP · 2020",
+    "img": "yara",
+    "d": "7.2 (758)",
+    "notes": [
+     "orchid",
+     "heliotrope",
+     "tangerine",
+     "vanilla",
+     "musk"
+    ],
+    "s": "Creamy, powdery and gentle. Viral online, but many say it lacks the strawberry-milkshake note people expect.",
+    "insp": "Some compare it to Montblanc Signature",
+    "w": [
+     "everyday",
+     "office"
+    ]
+   },
+   {
+    "n": "Angham",
+    "c": "2024 · unisex",
+    "img": "p_a0d8d1",
+    "d": "8.4 (562)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Teriaq Intense",
+    "c": "EDP · 2024 · unisex",
+    "img": "teriaq",
+    "d": "8.3 (808)",
+    "notes": [
+     "saffron",
+     "cinnamon",
+     "plum liquor",
+     "benzoin",
+     "tonka"
+    ],
+    "s": "The highest-rated Lattafa here. Warm and boozy, closer to the skin than Khamrah.",
+    "insp": "Often compared to Khamrah and Le Mâle Elixir Absolu",
+    "w": [
+     "winter",
+     "evening"
+    ]
+   },
+   {
+    "n": "Liam",
+    "c": "EDP · 2023 · unisex",
+    "img": "liam",
+    "d": "8.1 (2,566)",
+    "notes": [
+     "cardamom",
+     "black tea",
+     "fig",
+     "iris",
+     "vetiver",
+     "sandalwood"
+    ],
+    "s": "Creamy, green chai. Reviewers love the value; one finds it sharp and synthetic.",
+    "insp": "BDK Gris Charnel",
+    "w": [
+     "everyday",
+     "office"
+    ]
+   },
+   {
+    "n": "Al Nashama Caprice",
+    "c": "2023 · unisex",
+    "img": "p_0741f7",
+    "d": "8.0 (694)",
+    "notes": [
+     "cardamom",
+     "ginger",
+     "bergamot",
+     "lavender",
+     "amber",
+     "cedar"
+    ],
+    "s": "Fresh-spicy lavender and amber. Easy to wear.",
+    "w": [
+     "everyday",
+     "office"
+    ]
+   },
+   {
+    "n": "Khamrah",
+    "c": "EDP · 2022 · unisex",
+    "img": "khamrah",
+    "d": "7.9 (4,825)",
+    "notes": [
+     "cinnamon",
+     "nutmeg",
+     "dates",
+     "praline",
+     "vanilla",
+     "tonka"
+    ],
+    "s": "The most-rated fragrance on this page. Rich, spiced, boozy-sweet with a strong trail. Too heavy for summer.",
+    "insp": "Kilian Angels' Share",
+    "w": [
+     "winter",
+     "evening",
+     "date"
+    ]
+   },
+   {
+    "n": "Khamrah Qahwa",
+    "c": "2023 · unisex",
+    "img": "p_e963b2",
+    "d": "7.9 (1,770)",
+    "notes": [],
+    "s": "",
+    "w": []
+   }
+  ]
+ },
+ {
+  "id": "aam",
+  "name": "Ahmed Al Maghribi",
+  "tag": "UAE · Oud house",
+  "note": "<b>Mostly unisex:</b> Fragrantica tags this house's popular scents for women and men. Several men's-tab picks have no confirmed gender label.",
+  "src": [
+   [
+    "Parfumo brand list",
+    "https://www.parfumo.com/Perfumes/Ahmed_Al_Maghribi"
+   ],
+   [
+    "Notino: Laathani reviews",
+    "https://www.notino.fr/avis/ahmed-al-maghribi/lathani-eau-de-parfum-mixte/"
+   ],
+   [
+    "The Scent Base: Kaaf",
+    "https://thescentbase.com/perfumes/ahmed-al-maghribi/kaaf"
+   ],
+   [
+    "The Scent Base: Summer Oud",
+    "https://thescentbase.com/no/perfumes/ahmed-al-maghribi/summer-oud"
+   ],
+   [
+    "Perfume.com: Marj",
+    "https://www.perfume.com/ahmed-al-maghribi/ahmed-al-maghribi-marj/women-perfume"
+   ],
+   [
+    "Fragrantica (gender labels)",
+    "https://www.fragrantica.com/"
+   ]
+  ],
+  "men": [
+   {
+    "n": "Laathani",
+    "c": "EDP · 2024 · unisex",
+    "img": "laathani",
+    "d": "8.5 (400)",
+    "notes": [
+     "fruity opening",
+     "rosemary",
+     "incense",
+     "oud",
+     "leather"
+    ],
+    "s": "The house's best-rated popular scent. Fruity, then incense and leather. 5/5 from 9 Notino buyers, with 8 to 10 hours of wear.",
+    "w": [
+     "evening",
+     "winter"
+    ]
+   },
+   {
+    "n": "Marj",
+    "c": "EDP · 2022 · unisex",
+    "img": "marj",
+    "d": "8.3 (234)",
+    "notes": [
+     "bergamot",
+     "rose",
+     "jasmine",
+     "oud",
+     "amber",
+     "sandalwood"
+    ],
+    "s": "An oriental floral: citrus into rose and jasmine over a soft oud base.",
+    "w": [
+     "evening",
+     "everyday"
+    ]
+   },
+   {
+    "n": "Azure Royal",
+    "c": "",
+    "img": "p_ea6ab1",
+    "d": "8.3 (207)",
+    "notes": [],
+    "s": "Well rated, but notes and gender not confirmed.",
+    "w": [
+     "everyday"
+    ]
+   },
+   {
+    "n": "Summer Oud",
+    "c": "EDP · 2022 · unisex",
+    "img": "summeroud",
+    "d": "8.4 (128)",
+    "notes": [
+     "saffron",
+     "incense",
+     "caramel",
+     "rose",
+     "leather",
+     "oud"
+    ],
+    "s": "Sweet, resinous oud. Leans masculine and lasts about 6 to 10 hours.",
+    "insp": "Similar to Maison Crivelli Oud Maracujá",
+    "w": [
+     "evening",
+     "winter"
+    ]
+   },
+   {
+    "n": "Bin Shaikh",
+    "c": "2017 · unisex",
+    "img": "p_71dcf9",
+    "d": "8.4 (107)",
+    "notes": [],
+    "s": "An older unisex oud scent with a strong score. Notes not confirmed.",
+    "w": [
+     "evening"
+    ]
+   },
+   {
+    "n": "Ignite Oud",
+    "c": "2024 · gender not confirmed",
+    "img": "p_83b790",
+    "d": "8.2 (269)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Black Fume",
+    "c": "gender not confirmed",
+    "img": "p_5e8224",
+    "d": "8.5 (45)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Blu Oud",
+    "c": "gender not confirmed",
+    "img": "p_235504",
+    "d": "8.3 (74)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Aqua Oud",
+    "c": "gender not confirmed",
+    "img": "p_1340a2",
+    "d": "8.2 (105)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Ighra'a",
+    "c": "",
+    "img": "p_5bb7b4",
+    "d": "8.6 (32)",
+    "notes": [],
+    "s": "",
+    "w": []
+   }
+  ],
+  "women": [
+   {
+    "n": "Laathani",
+    "c": "EDP · 2024 · unisex",
+    "img": "laathani",
+    "d": "8.5 (400)",
+    "notes": [
+     "fruity opening",
+     "rosemary",
+     "incense",
+     "oud",
+     "leather"
+    ],
+    "s": "The house's best-rated popular scent. Fruity, then incense and leather. 5/5 from 9 Notino buyers, with 8 to 10 hours of wear.",
+    "w": [
+     "evening",
+     "winter"
+    ]
+   },
+   {
+    "n": "Marj",
+    "c": "EDP · 2022 · unisex",
+    "img": "marj",
+    "d": "8.3 (234)",
+    "notes": [
+     "bergamot",
+     "rose",
+     "jasmine",
+     "oud",
+     "amber",
+     "sandalwood"
+    ],
+    "s": "An oriental floral: citrus into rose and jasmine over a soft oud base.",
+    "w": [
+     "evening",
+     "everyday"
+    ]
+   },
+   {
+    "n": "Summer Oud",
+    "c": "EDP · 2022 · unisex",
+    "img": "summeroud",
+    "d": "8.4 (128)",
+    "notes": [
+     "saffron",
+     "incense",
+     "caramel",
+     "rose",
+     "leather",
+     "oud"
+    ],
+    "s": "Sweet, resinous oud. Leans masculine and lasts about 6 to 10 hours.",
+    "insp": "Similar to Maison Crivelli Oud Maracujá",
+    "w": [
+     "evening",
+     "winter"
+    ]
+   },
+   {
+    "n": "Bin Shaikh",
+    "c": "2017 · unisex",
+    "img": "p_71dcf9",
+    "d": "8.4 (107)",
+    "notes": [],
+    "s": "An older unisex oud scent with a strong score. Notes not confirmed.",
+    "w": [
+     "evening"
+    ]
+   },
+   {
+    "n": "Ahl",
+    "c": "2025 · unisex",
+    "img": "p_4d67db",
+    "d": "8.1 (48)",
+    "notes": [],
+    "s": "2025 unisex release. Notes not confirmed.",
+    "w": [
+     "everyday"
+    ]
+   },
+   {
+    "n": "Kaaf",
+    "c": "EDP · 2022 · unisex",
+    "img": "kaaf",
+    "d": "7.8 (524)",
+    "notes": [
+     "watermelon",
+     "red fruits",
+     "lavender",
+     "lotus",
+     "ambroxan"
+    ],
+    "s": "The most-rated AAM scent. Fresh, fruity and clean. Buyers call it easy for daily wear.",
+    "insp": "Similar to PdM Percival and A&F Fierce",
+    "w": [
+     "summer",
+     "office",
+     "everyday"
+    ]
+   },
+   {
+    "n": "Oud & Roses",
+    "c": "unisex",
+    "img": "p_ddd089",
+    "d": "7.7 (59)",
+    "notes": [],
+    "s": "",
+    "w": []
+   }
+  ]
+ },
+ {
+  "id": "gissah",
+  "name": "Gissah",
+  "tag": "Kuwait · Niche-style",
+  "note": "<b>Smaller numbers:</b> Gissah's scents have far fewer ratings than Lattafa or Afnan, some as few as 10, but very high averages. Almost everything is unisex.",
+  "src": [
+   [
+    "Parfumo brand list",
+    "https://www.parfumo.com/Perfumes/gissah"
+   ],
+   [
+    "WhatScent: Imperial Valley",
+    "https://whatscent.app/perfume/imperial-valley"
+   ],
+   [
+    "WhatScent: Mavro",
+    "https://whatscent.app/perfume/mavro"
+   ],
+   [
+    "WhatScent: Akoya",
+    "https://whatscent.app/perfume/gissah-akoya"
+   ],
+   [
+    "ScentVerdict: La Luna",
+    "https://scentverdict.com/perfume/gissah-la-luna-eau-de-parfum"
+   ],
+   [
+    "Fragrantica (gender labels)",
+    "https://www.fragrantica.com/"
+   ]
+  ],
+  "men": [
+   {
+    "n": "Imperial Valley",
+    "c": "EDP · 2021 · unisex",
+    "img": "imperial",
+    "d": "8.4 (297)",
+    "notes": [
+     "bergamot",
+     "davana",
+     "pink pepper",
+     "oud",
+     "vetiver",
+     "leather"
+    ],
+    "s": "Fruity-smoky oud. On WhatScent, 13 of 13 members like or love it, with strong projection.",
+    "insp": "Similar to Maison Crivelli Oud Maracujá",
+    "w": [
+     "evening",
+     "winter"
+    ]
+   },
+   {
+    "n": "Mavro",
+    "c": "EDP · 2024",
+    "img": "mavro",
+    "d": "8.5 (108)",
+    "notes": [
+     "grapefruit",
+     "lemon",
+     "pink pepper",
+     "praline",
+     "saffron",
+     "tonka"
+    ],
+    "s": "Fresh citrus over sweet praline and saffron. Good for spring and summer.",
+    "insp": "Similar to YSL Y Iced Cologne",
+    "w": [
+     "summer",
+     "everyday"
+    ]
+   },
+   {
+    "n": "La Luna",
+    "c": "EDP · 2023 · unisex",
+    "img": "laluna",
+    "d": "8.4 (107)",
+    "notes": [
+     "raspberry",
+     "apricot",
+     "incense",
+     "cotton candy",
+     "tonka"
+    ],
+    "s": "Fruity and sweet with a spicy incense edge. ScentVerdict lists it for women, with 6 to 10 hours of wear.",
+    "w": [
+     "evening",
+     "everyday"
+    ]
+   },
+   {
+    "n": "Akoya",
+    "c": "EDP · 2024 · unisex",
+    "img": "akoya",
+    "d": "8.5 (55)",
+    "notes": [
+     "sugared berries",
+     "caramel",
+     "jasmine",
+     "lavender",
+     "leather"
+    ],
+    "s": "Tagged \"yummy, cosy, nostalgic\" by WhatScent members, mostly for dates and nights out.",
+    "w": [
+     "date",
+     "winter"
+    ]
+   },
+   {
+    "n": "Sava",
+    "c": "2021 · unisex",
+    "img": "p_2476a1",
+    "d": "8.6 (40)",
+    "notes": [],
+    "s": "High score from a small number of ratings. Notes not confirmed.",
+    "w": [
+     "everyday"
+    ]
+   },
+   {
+    "n": "Helen Legacy",
+    "c": "2025 · unisex",
+    "img": "p_792a9a",
+    "d": "9.2 (10)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Hudson Valley",
+    "c": "2020 · unisex",
+    "img": "p_a078cd",
+    "d": "8.1 (59)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Legend of Valleys Imperial II",
+    "c": "2022 · unisex",
+    "img": "p_9fb752",
+    "d": "8.8 (11)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Calabria",
+    "c": "2021 · unisex",
+    "img": "p_dfe139",
+    "d": "8.2 (11)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Capri",
+    "c": "2023 · unisex",
+    "img": "p_9a658f",
+    "d": "7.9 (65)",
+    "notes": [],
+    "s": "",
+    "w": []
+   }
+  ],
+  "women": [
+   {
+    "n": "Tango",
+    "c": "2025 · women",
+    "img": "p_9a76f6",
+    "d": "8.3 (27)",
+    "notes": [],
+    "s": "Gissah's women's-labelled scent with the most ratings, though still only 27. Notes not confirmed.",
+    "w": [
+     "everyday"
+    ]
+   },
+   {
+    "n": "Imperial Valley",
+    "c": "EDP · 2021 · unisex",
+    "img": "imperial",
+    "d": "8.4 (297)",
+    "notes": [
+     "bergamot",
+     "davana",
+     "pink pepper",
+     "oud",
+     "vetiver",
+     "leather"
+    ],
+    "s": "Fruity-smoky oud. On WhatScent, 13 of 13 members like or love it, with strong projection.",
+    "insp": "Similar to Maison Crivelli Oud Maracujá",
+    "w": [
+     "evening",
+     "winter"
+    ]
+   },
+   {
+    "n": "La Luna",
+    "c": "EDP · 2023 · unisex",
+    "img": "laluna",
+    "d": "8.4 (107)",
+    "notes": [
+     "raspberry",
+     "apricot",
+     "incense",
+     "cotton candy",
+     "tonka"
+    ],
+    "s": "Fruity and sweet with a spicy incense edge. ScentVerdict lists it for women, with 6 to 10 hours of wear.",
+    "w": [
+     "evening",
+     "everyday"
+    ]
+   },
+   {
+    "n": "Akoya",
+    "c": "EDP · 2024 · unisex",
+    "img": "akoya",
+    "d": "8.5 (55)",
+    "notes": [
+     "sugared berries",
+     "caramel",
+     "jasmine",
+     "lavender",
+     "leather"
+    ],
+    "s": "Tagged \"yummy, cosy, nostalgic\" by WhatScent members, mostly for dates and nights out.",
+    "w": [
+     "date",
+     "winter"
+    ]
+   },
+   {
+    "n": "Sava",
+    "c": "2021 · unisex",
+    "img": "p_2476a1",
+    "d": "8.6 (40)",
+    "notes": [],
+    "s": "High score from a small number of ratings. Notes not confirmed.",
+    "w": [
+     "everyday"
+    ]
+   },
+   {
+    "n": "Helen Legacy",
+    "c": "2025 · unisex",
+    "img": "p_792a9a",
+    "d": "9.2 (10)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Hudson Valley",
+    "c": "2020 · unisex",
+    "img": "p_a078cd",
+    "d": "8.1 (59)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Legend of Valleys Imperial II",
+    "c": "2022 · unisex",
+    "img": "p_9fb752",
+    "d": "8.8 (11)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Calabria",
+    "c": "2021 · unisex",
+    "img": "p_dfe139",
+    "d": "8.2 (11)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Capri",
+    "c": "2023 · unisex",
+    "img": "p_9a658f",
+    "d": "7.9 (65)",
+    "notes": [],
+    "s": "",
+    "w": []
+   }
+  ]
+ },
+ {
+  "id": "afnan",
+  "name": "Afnan",
+  "tag": "UAE · Clone classics",
+  "src": [
+   [
+    "Parfumo brand list",
+    "https://www.parfumo.com/Perfumes/Afnan_Perfumes"
+   ],
+   [
+    "WhatScent: Afnan for men",
+    "https://whatscent.app/magazine/best-afnan-perfumes-for-men-2026"
+   ],
+   [
+    "WhatScent: Afnan for women",
+    "https://whatscent.app/magazine/best-afnan-perfumes-for-women-2026"
+   ],
+   [
+    "Fragrantica (gender labels)",
+    "https://www.fragrantica.com/"
+   ]
+  ],
+  "men": [
+   {
+    "n": "Supremacy Collector's Edition",
+    "c": "EDP · 2024",
+    "img": "supce",
+    "d": "8.2 (1,420)",
+    "notes": [
+     "pineapple",
+     "apple",
+     "birch",
+     "ambergris",
+     "musk"
+    ],
+    "s": "The Aventus-style one, with pineapple and smoke up front.",
+    "insp": "Creed Aventus",
+    "w": [
+     "everyday",
+     "office"
+    ]
+   },
+   {
+    "n": "9pm Night Out",
+    "c": "Extrait · 2026 · unisex",
+    "img": "9pmnight",
+    "d": "8.2 (305)",
+    "notes": [
+     "apple",
+     "cognac",
+     "lavender",
+     "toffee",
+     "suede"
+    ],
+    "s": "A richer, boozier 9pm. New, so sample first.",
+    "w": [
+     "evening",
+     "winter"
+    ]
+   },
+   {
+    "n": "Turathi Blue",
+    "c": "EDP · 2021",
+    "img": "turathi",
+    "d": "8.1 (3,998)",
+    "notes": [
+     "grapefruit",
+     "spice",
+     "patchouli",
+     "amber woods"
+    ],
+    "s": "Juicy, slightly bitter citrus that turns woody. Moderate performance. Smart-casual daytime.",
+    "insp": "Bvlgari Tygar",
+    "w": [
+     "office",
+     "summer",
+     "everyday"
+    ]
+   },
+   {
+    "n": "Supremacy Not Only Intense",
+    "c": "Extrait · 2021",
+    "img": "supnoi",
+    "d": "8.1 (1,297)",
+    "notes": [
+     "blackcurrant",
+     "bergamot",
+     "moss",
+     "lavender",
+     "saffron"
+    ],
+    "s": "Fruity and mossy with a saffron drydown. Good everyday and spring choice.",
+    "insp": "Aventus and Nishane Hacivat",
+    "w": [
+     "everyday"
+    ]
+   },
+   {
+    "n": "Tobacco Rush",
+    "c": "2022 · unisex",
+    "img": "p_c3561f",
+    "d": "8.4 (61)",
+    "notes": [],
+    "s": "Unisex tobacco scent with a high score. Notes not confirmed.",
+    "w": [
+     "evening",
+     "winter"
+    ]
+   },
+   {
+    "n": "Supremacy in Oud",
+    "c": "2021 · unisex",
+    "img": "p_ddf26d",
+    "d": "8.0 (603)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Freedom",
+    "c": "2025",
+    "img": "p_eb66b8",
+    "d": "8.1 (111)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "9pm",
+    "c": "EDP · 2015",
+    "img": "9pm",
+    "d": "7.9 (2,462)",
+    "notes": [
+     "apple",
+     "cinnamon",
+     "lavender",
+     "vanilla",
+     "tonka"
+    ],
+    "s": "Sweet, powdery and loud. A cheap nights-out classic.",
+    "insp": "JPG Ultra Male",
+    "w": [
+     "evening",
+     "date"
+    ]
+   },
+   {
+    "n": "Highness VI",
+    "c": "",
+    "img": "p_8563e3",
+    "d": "8.1 (37)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Turathi Brown",
+    "c": "",
+    "img": "p_189d54",
+    "d": "7.9 (302)",
+    "notes": [],
+    "s": "",
+    "w": []
+   }
+  ],
+  "women": [
+   {
+    "n": "Modest Deux",
+    "c": "women",
+    "img": "p_ef5b00",
+    "d": "8.2 (51)",
+    "notes": [],
+    "s": "The best-rated women's Afnan by adjusted score. Notes not confirmed.",
+    "w": [
+     "everyday"
+    ]
+   },
+   {
+    "n": "Cherry Bouquet",
+    "c": "2024 · women",
+    "img": "p_8a4ace",
+    "d": "8.0 (92)",
+    "notes": [],
+    "s": "Cherry-themed women's scent from the Bouquet line. Notes not confirmed.",
+    "w": [
+     "evening",
+     "date"
+    ]
+   },
+   {
+    "n": "Blooming Bliss",
+    "c": "2024 · women",
+    "img": "p_cf3548",
+    "d": "8.1 (37)",
+    "notes": [],
+    "s": "Floral from the Souvenir line. Few ratings so far. Notes not confirmed.",
+    "w": [
+     "everyday"
+    ]
+   },
+   {
+    "n": "Desert Rose",
+    "c": "2020 · women",
+    "img": "p_698b87",
+    "d": "7.9 (35)",
+    "notes": [],
+    "s": "Rose-themed scent from the Souvenir line. Notes not confirmed.",
+    "w": [
+     "everyday"
+    ]
+   },
+   {
+    "n": "Delicious Bouquet",
+    "c": "2025 · women",
+    "img": "p_6bd866",
+    "d": "7.8 (43)",
+    "notes": [
+     "lemon",
+     "honey",
+     "rum",
+     "caramel",
+     "vanilla",
+     "musk"
+    ],
+    "s": "Sweet lemon, honey and caramel. A gourmand.",
+    "w": [
+     "evening",
+     "date"
+    ]
+   },
+   {
+    "n": "La Fleur Bouquet",
+    "c": "2021 · women",
+    "img": "p_c766ab",
+    "d": "7.7 (118)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Kiaana Angel",
+    "c": "2024 · women",
+    "img": "p_b41fa0",
+    "d": "7.6 (43)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Mystique Bouquet",
+    "c": "2023 · women",
+    "img": "p_6c2984",
+    "d": "7.7 (209)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Floral Bouquet",
+    "c": "2020 · women",
+    "img": "p_77f845",
+    "d": "7.5 (135)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "9am pour Femme",
+    "c": "2022 · women",
+    "img": "p_368d1d",
+    "d": "7.1 (37)",
+    "notes": [],
+    "s": "",
+    "w": []
+   }
+  ]
+ },
+ {
+  "id": "zimaya",
+  "name": "Zimaya",
+  "tag": "UAE · Afnan sister brand",
+  "src": [
+   [
+    "Parfumo brand list",
+    "https://www.parfumo.com/Perfumes/zimaya"
+   ],
+   [
+    "Scent Verdict: Zimaya",
+    "https://scentverdict.com/brand/zimaya"
+   ],
+   [
+    "Fragrantica (gender labels)",
+    "https://www.fragrantica.com/"
+   ]
+  ],
+  "note": "<b>Afnan's sister brand:</b> Zimaya was launched in 2023 by Afnan's founder, Imran Fazlani. Sharaf Blend has far more ratings than anything else here. Only Zimaya's 20 most popular scents could be read from Parfumo. Kmart Australia stocks Zimaya Zukhruf Black.",
+  "men": [],
+  "women": []
+ },
+ {
+  "id": "hawas",
+  "name": "Rasasi (incl. Hawas)",
+  "tag": "UAE · Rasasi",
+  "note": "<b>Heads up:</b> Hawas is a Rasasi line, not a separate brand. Only three women's Rasasi scents have enough ratings, and Hawas for Her's 8.4 comes from just 34.",
+  "src": [
+   [
+    "Parfumo: Rasasi list",
+    "https://www.parfumo.com/Perfumes/Rasasi"
+   ],
+   [
+    "WhatScent: Rasasi must-haves",
+    "https://www.whatscent.app/magazine/must-haves-of-rasasi"
+   ],
+   [
+    "Bloom: Hawas Kobra",
+    "https://bloomperfume.co.uk/blogs/new-similar/hawas-kobra-by-rasasi"
+   ],
+   [
+    "Parfumo Hawas Verde review",
+    "https://www.parfumo.com/Perfumes/Rasasi/hawas-verde/reviews/585781"
+   ],
+   [
+    "FragranceX: La Yuqawam",
+    "https://www.fragrancex.com/products/rasasi/rasasi-layuqawam-cologne"
+   ],
+   [
+    "The Scent Base: Fattan",
+    "https://thescentbase.com/perfumes/rasasi/fattan"
+   ],
+   [
+    "Fragrantica (gender labels)",
+    "https://www.fragrantica.com/"
+   ]
+  ],
+  "men": [
+   {
+    "n": "Nebras Al Ishq Noor",
+    "c": "2018 · gender not confirmed",
+    "img": "p_8890c5",
+    "d": "8.9 (76)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Hawas Verde",
+    "c": "EDP",
+    "img": "verde",
+    "d": "8.4 (241)",
+    "notes": [
+     "mint",
+     "lime",
+     "green notes"
+    ],
+    "s": "A mojito-like summer scent. One reviewer calls it the best Torino 21 copy, at about 90% of the character.",
+    "insp": "Xerjoff Torino 21",
+    "w": [
+     "summer",
+     "everyday"
+    ]
+   },
+   {
+    "n": "Hawas Kobra",
+    "c": "EDP · 2025",
+    "img": "kobra",
+    "d": "8.2 (472)",
+    "notes": [
+     "bergamot",
+     "ginger",
+     "green tea",
+     "cinnamon",
+     "amber"
+    ],
+    "s": "Fresh, spicy tea over warm amber.",
+    "insp": "Louis Vuitton Imagination",
+    "w": [
+     "office",
+     "everyday"
+    ]
+   },
+   {
+    "n": "Hawas Tropical",
+    "c": "2025",
+    "img": "p_4d635e",
+    "d": "8.2 (300)",
+    "notes": [],
+    "s": "Newer Hawas flanker, rated well above Hawas for Him. Notes not confirmed.",
+    "w": [
+     "summer"
+    ]
+   },
+   {
+    "n": "Qasamat Ebhar",
+    "c": "unisex",
+    "img": "p_d00e2b",
+    "d": "8.2 (193)",
+    "notes": [],
+    "s": "Unisex Rasasi with a strong score. Notes not confirmed.",
+    "w": [
+     "everyday"
+    ]
+   },
+   {
+    "n": "Hawas Elixir",
+    "c": "Elixir · 2024 · unisex",
+    "img": "hawaselixir",
+    "d": "8.1 (170)",
+    "notes": [
+     "mint",
+     "dark chocolate",
+     "lavender",
+     "vanilla",
+     "tonka"
+    ],
+    "s": "Mint-chocolate opening, then creamy lavender and vanilla.",
+    "w": [
+     "winter",
+     "evening"
+    ]
+   },
+   {
+    "n": "La Yuqawam pour Homme",
+    "c": "EDP · 2012",
+    "img": "layuq",
+    "d": "8.0 (1,220)",
+    "notes": [
+     "raspberry",
+     "saffron",
+     "thyme",
+     "leather",
+     "suede"
+    ],
+    "s": "Rasasi's most-rated non-Hawas scent. Warm, spicy leather. 4.6/5 from 26 FragranceX buyers.",
+    "insp": "Same raspberry-saffron-leather idea as Tom Ford Tuscan Leather",
+    "w": [
+     "winter",
+     "evening"
+    ]
+   },
+   {
+    "n": "Hawas Nautilus",
+    "c": "2026 · gender not confirmed",
+    "img": "p_5e2cca",
+    "d": "8.2 (77)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Hawas Malibu",
+    "c": "2025 · unisex",
+    "img": "p_05fdd2",
+    "d": "8.1 (100)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Hawas Sapphire",
+    "c": "2026 · gender not confirmed",
+    "img": "p_a5cb85",
+    "d": "8.1 (80)",
+    "notes": [],
+    "s": "",
+    "w": []
+   }
+  ],
+  "women": [
+   {
+    "n": "Hawas for Her",
+    "c": "EDP · women",
+    "img": "p_8a22cb",
+    "fam": "floral",
+    "d": "8.4 (34)",
+    "notes": [
+     "pomegranate",
+     "red apple",
+     "iris",
+     "jasmine sambac",
+     "praline"
+    ],
+    "s": "A fruity floral for daytime. Parfumo's page for it is a corrupted listing, so treat the rating gap as missing data.",
+    "w": [
+     "everyday",
+     "office"
+    ]
+   },
+   {
+    "n": "Rumz Al Rasasi 9325 pour Elle",
+    "c": "2014 · women",
+    "img": "p_d53e9f",
+    "d": "7.5 (100)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "La Yuqawam Jasmine Wisp",
+    "c": "2016 · women",
+    "img": "p_ef3a5f",
+    "d": "7.0 (99)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Qasamat Ebhar",
+    "c": "unisex",
+    "img": "p_d00e2b",
+    "d": "8.2 (193)",
+    "notes": [],
+    "s": "Unisex Rasasi with a strong score. Notes not confirmed.",
+    "w": [
+     "everyday"
+    ]
+   },
+   {
+    "n": "Hawas Elixir",
+    "c": "Elixir · 2024 · unisex",
+    "img": "hawaselixir",
+    "d": "8.1 (170)",
+    "notes": [
+     "mint",
+     "dark chocolate",
+     "lavender",
+     "vanilla",
+     "tonka"
+    ],
+    "s": "Mint-chocolate opening, then creamy lavender and vanilla.",
+    "w": [
+     "winter",
+     "evening"
+    ]
+   },
+   {
+    "n": "Hawas Malibu",
+    "c": "2025 · unisex",
+    "img": "p_05fdd2",
+    "d": "8.1 (100)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Hawas Fire",
+    "c": "2025 · unisex",
+    "img": "p_9f746b",
+    "d": "7.8 (207)",
+    "notes": [
+     "clary sage",
+     "marine notes",
+     "jasmine",
+     "amber",
+     "ambergris"
+    ],
+    "s": "Mineral, salty amber. Unisex.",
+    "w": [
+     "everyday",
+     "evening"
+    ]
+   },
+   {
+    "n": "Hawas London",
+    "c": "unisex",
+    "img": "p_7311b2",
+    "d": "7.8 (118)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Oudh al Misk",
+    "c": "unisex",
+    "img": "p_b6e1e2",
+    "d": "7.0 (183)",
+    "notes": [],
+    "s": "",
+    "w": []
+   }
+  ]
+ },
+ {
+  "id": "haramain",
+  "name": "Al Haramain",
+  "tag": "UAE · Amber Oud line",
+  "note": "<b>Inspirations:</b> Al Haramain doesn't name its references. The comparisons come from wearers and perfume communities.",
+  "src": [
+   [
+    "Parfumo brand list",
+    "https://www.parfumo.com/Perfumes/Al_Haramain"
+   ],
+   [
+    "WhatScent: for men",
+    "https://whatscent.app/magazine/best-al-haramain-perfumes-for-men-2026"
+   ],
+   [
+    "WhatScent: for women",
+    "https://whatscent.app/magazine/best-al-haramain-perfumes-for-women-2026"
+   ],
+   [
+    "Fragrantica (gender labels)",
+    "https://www.fragrantica.com/"
+   ]
+  ],
+  "men": [
+   {
+    "n": "Portfolio Royale Stallion",
+    "c": "unisex",
+    "img": "p_48bfca",
+    "d": "8.5 (133)",
+    "notes": [
+     "heliotrope",
+     "cumin",
+     "bitter almond",
+     "jasmine",
+     "vanilla",
+     "sandalwood"
+    ],
+    "s": "Powdery almond and vanilla. The best-rated Al Haramain here.",
+    "w": [
+     "evening",
+     "date"
+    ]
+   },
+   {
+    "n": "Détour Noir",
+    "c": "EDP · 2021 · unisex",
+    "img": "detour",
+    "d": "8.1 (2,834)",
+    "notes": [
+     "apple",
+     "lavender",
+     "violet",
+     "cardamom",
+     "vanilla"
+    ],
+    "s": "Crisp apple and lavender into warm spiced vanilla that lasts into the night. Softer projection than the Amber Oud range.",
+    "insp": "Parfums de Marly Layton",
+    "w": [
+     "date",
+     "evening",
+     "winter"
+    ]
+   },
+   {
+    "n": "Amber Oud Tobacco Edition",
+    "c": "EDP · 2019 · unisex",
+    "img": "aotobacco",
+    "d": "8.1 (1,183)",
+    "notes": [
+     "tobacco leaf",
+     "cinnamon",
+     "clove",
+     "cacao",
+     "tonka"
+    ],
+    "s": "Sweet, spiced and very dense. One spray can fill a room.",
+    "insp": "Tom Ford Tobacco Vanille",
+    "w": [
+     "winter",
+     "evening"
+    ]
+   },
+   {
+    "n": "Amber Oud Rouge",
+    "c": "unisex",
+    "img": "p_469d7b",
+    "d": "8.5 (64)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Amber Oud Gold Edition",
+    "c": "EDP · 2018 · unisex",
+    "img": "aogold",
+    "d": "8.1 (789)",
+    "notes": [
+     "melon",
+     "pineapple",
+     "green notes",
+     "amber",
+     "vanilla"
+    ],
+    "s": "Loud and sugary for hours, then a soft sweet musk that clings.",
+    "insp": "Xerjoff Erba Pura",
+    "w": [
+     "summer",
+     "everyday"
+    ]
+   },
+   {
+    "n": "Portfolio Neroli Canvas",
+    "c": "2018 · unisex",
+    "img": "p_ef73d7",
+    "d": "8.2 (183)",
+    "notes": [
+     "lemon",
+     "bergamot",
+     "neroli",
+     "orange blossom",
+     "amber",
+     "musk"
+    ],
+    "s": "Bright neroli and orange blossom. A clean summer scent.",
+    "w": [
+     "summer",
+     "office"
+    ]
+   },
+   {
+    "n": "Junoon Oud",
+    "c": "2022 · gender not confirmed",
+    "img": "p_8de611",
+    "d": "8.3 (59)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "L'Aventure Intense",
+    "c": "2019",
+    "img": "p_c985ca",
+    "d": "8.1 (131)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Amber Oud Aqua Dubai",
+    "c": "Extrait · 2024 · unisex",
+    "img": "aqua",
+    "d": "8.0 (498)",
+    "notes": [
+     "mandarin",
+     "melon",
+     "pineapple",
+     "blackcurrant",
+     "galbanum"
+    ],
+    "s": "A greener, lighter take on Gold. Better on hot days.",
+    "w": [
+     "summer"
+    ]
+   },
+   {
+    "n": "Amber Oud Black Edition",
+    "c": "gender not confirmed",
+    "img": "p_ea389f",
+    "d": "8.3 (49)",
+    "notes": [],
+    "s": "",
+    "w": []
+   }
+  ],
+  "women": [
+   {
+    "n": "Junoon Noir",
+    "c": "EDP",
+    "img": "junoon",
+    "d": "8.1 (197)",
+    "notes": [
+     "kumquat",
+     "orris",
+     "violet",
+     "jasmine",
+     "vanilla"
+    ],
+    "s": "Smooth and powdery with moderate projection. Elegant for daytime and work.",
+    "w": [
+     "office",
+     "everyday"
+    ]
+   },
+   {
+    "n": "Leather Oudh",
+    "c": "women",
+    "img": "p_96618a",
+    "d": "7.9 (143)",
+    "notes": [],
+    "s": "Women's-labelled leather and oud. Notes not confirmed.",
+    "w": [
+     "evening",
+     "winter"
+    ]
+   },
+   {
+    "n": "Junoon Rose",
+    "c": "2019 · women",
+    "img": "p_66ee66",
+    "d": "7.7 (104)",
+    "notes": [
+     "cherry blossom",
+     "bergamot",
+     "rose",
+     "amaretto",
+     "suede",
+     "tonka"
+    ],
+    "s": "Powdery rose and almond on suede.",
+    "w": [
+     "everyday",
+     "date"
+    ]
+   },
+   {
+    "n": "Junoon",
+    "c": "2016 · women",
+    "img": "p_4385d7",
+    "d": "7.5 (73)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "L'Aventure Femme",
+    "c": "2017 · women",
+    "img": "p_84525b",
+    "d": "7.4 (89)",
+    "notes": [],
+    "s": "The women's L'Aventure. Rated lower than the men's version. Notes not confirmed.",
+    "w": [
+     "everyday"
+    ]
+   },
+   {
+    "n": "Portfolio Royale Stallion",
+    "c": "unisex",
+    "img": "p_48bfca",
+    "d": "8.5 (133)",
+    "notes": [
+     "heliotrope",
+     "cumin",
+     "bitter almond",
+     "jasmine",
+     "vanilla",
+     "sandalwood"
+    ],
+    "s": "Powdery almond and vanilla. The best-rated Al Haramain here.",
+    "w": [
+     "evening",
+     "date"
+    ]
+   },
+   {
+    "n": "Détour Noir",
+    "c": "EDP · 2021 · unisex",
+    "img": "detour",
+    "d": "8.1 (2,834)",
+    "notes": [
+     "apple",
+     "lavender",
+     "violet",
+     "cardamom",
+     "vanilla"
+    ],
+    "s": "Crisp apple and lavender into warm spiced vanilla that lasts into the night. Softer projection than the Amber Oud range.",
+    "insp": "Parfums de Marly Layton",
+    "w": [
+     "date",
+     "evening",
+     "winter"
+    ]
+   },
+   {
+    "n": "Amber Oud Tobacco Edition",
+    "c": "EDP · 2019 · unisex",
+    "img": "aotobacco",
+    "d": "8.1 (1,183)",
+    "notes": [
+     "tobacco leaf",
+     "cinnamon",
+     "clove",
+     "cacao",
+     "tonka"
+    ],
+    "s": "Sweet, spiced and very dense. One spray can fill a room.",
+    "insp": "Tom Ford Tobacco Vanille",
+    "w": [
+     "winter",
+     "evening"
+    ]
+   },
+   {
+    "n": "Amber Oud Rouge",
+    "c": "unisex",
+    "img": "p_469d7b",
+    "d": "8.5 (64)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Amber Oud Gold Edition",
+    "c": "EDP · 2018 · unisex",
+    "img": "aogold",
+    "d": "8.1 (789)",
+    "notes": [
+     "melon",
+     "pineapple",
+     "green notes",
+     "amber",
+     "vanilla"
+    ],
+    "s": "Loud and sugary for hours, then a soft sweet musk that clings.",
+    "insp": "Xerjoff Erba Pura",
+    "w": [
+     "summer",
+     "everyday"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "armaf",
+  "name": "Armaf",
+  "tag": "UAE · Club de Nuit",
+  "src": [
+   [
+    "Parfumo brand list",
+    "https://www.parfumo.com/Perfumes/Armaf"
+   ],
+   [
+    "WhatScent: Armaf for men",
+    "https://whatscent.app/magazine/best-armaf-perfumes-for-men-2026"
+   ],
+   [
+    "Fragrantica (gender labels)",
+    "https://www.fragrantica.com/"
+   ]
+  ],
+  "note": "<b>Women's line:</b> only three women's Armaf scents have enough ratings, so the rest of the women's tab is unisex.",
+  "men": [
+   {
+    "n": "Club de Nuit Precieux I",
+    "c": "2024 · unisex",
+    "img": "p_edb383",
+    "d": "8.3 (565)",
+    "notes": [],
+    "s": "Armaf's best-rated scent by adjusted score. Notes not confirmed.",
+    "w": [
+     "evening"
+    ]
+   },
+   {
+    "n": "CDNIM Limited Edition",
+    "c": "Parfum",
+    "img": "cdnimle",
+    "d": "8.2 (1,424)",
+    "notes": [
+     "pepper",
+     "pineapple",
+     "jasmine",
+     "ambroxan",
+     "cedar"
+    ],
+    "s": "Smoother and cleaner than the EDT, and rated higher by the community.",
+    "insp": "Creed Aventus",
+    "w": [
+     "evening",
+     "everyday"
+    ]
+   },
+   {
+    "n": "CDNIM Extrait de Parfum",
+    "c": "2025",
+    "img": "p_3fb232",
+    "d": "8.6 (83)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Infinity Silver",
+    "c": "2024 · gender not confirmed",
+    "img": "p_da9c57",
+    "d": "8.6 (82)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Hunter Killer",
+    "c": "2023 · gender not confirmed",
+    "img": "p_97b861",
+    "d": "8.2 (135)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Club de Nuit Impériale",
+    "c": "gender not confirmed",
+    "img": "p_29ccc0",
+    "d": "8.0 (204)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Radical Brown",
+    "c": "",
+    "img": "p_53405d",
+    "d": "8.0 (180)",
+    "notes": [],
+    "s": "Well-rated men's scent. Notes not confirmed.",
+    "w": [
+     "evening"
+    ]
+   },
+   {
+    "n": "Aura Fresh",
+    "c": "gender not confirmed",
+    "img": "p_de0bdc",
+    "d": "8.0 (106)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Odyssey Homme",
+    "c": "",
+    "img": "p_290dff",
+    "d": "7.9 (366)",
+    "notes": [
+     "cardamom",
+     "mandarin",
+     "rose",
+     "vanilla",
+     "amber",
+     "sandalwood"
+    ],
+    "s": "Warm, spicy vanilla. A cheap evening scent.",
+    "w": [
+     "evening",
+     "winter"
+    ]
+   },
+   {
+    "n": "CDNIM Parfum",
+    "c": "",
+    "img": "p_b14dfc",
+    "d": "7.9 (316)",
+    "notes": [
+     "lemon",
+     "pineapple",
+     "birch",
+     "rose",
+     "ambergris",
+     "patchouli"
+    ],
+    "s": "The Parfum version of Club de Nuit Intense Man. Rated higher than the EDT.",
+    "w": [
+     "everyday",
+     "date"
+    ],
+    "insp": "Creed Aventus (wearer comparison)"
+   }
+  ],
+  "women": [
+   {
+    "n": "Club de Nuit Intense Woman",
+    "c": "EDP · 2013",
+    "img": "cdniw",
+    "d": "7.9 (473)",
+    "notes": [],
+    "s": "Armaf's most-rated women's scent. I couldn't confirm its notes from a reliable source, so sample before buying.",
+    "w": [
+     "evening"
+    ]
+   },
+   {
+    "n": "Club de Nuit Woman",
+    "c": "women",
+    "img": "p_dd0fc1",
+    "d": "7.6 (202)",
+    "notes": [],
+    "s": "The women's Club de Nuit EDP. Notes not confirmed.",
+    "w": [
+     "evening"
+    ]
+   },
+   {
+    "n": "Tag-Her",
+    "c": "women",
+    "img": "p_c2ca7a",
+    "d": "7.5 (93)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Club de Nuit Precieux I",
+    "c": "2024 · unisex",
+    "img": "p_edb383",
+    "d": "8.3 (565)",
+    "notes": [],
+    "s": "Armaf's best-rated scent by adjusted score. Notes not confirmed.",
+    "w": [
+     "evening"
+    ]
+   },
+   {
+    "n": "Niche Oud",
+    "c": "unisex",
+    "img": "p_478955",
+    "d": "7.9 (227)",
+    "notes": [
+     "caraway",
+     "black pepper",
+     "iris",
+     "amber",
+     "vanilla",
+     "patchouli"
+    ],
+    "s": "Spicy amber with iris. Unisex.",
+    "w": [
+     "evening",
+     "winter"
+    ]
+   },
+   {
+    "n": "Club de Nuit Untold",
+    "c": "EDP · unisex",
+    "img": "untold",
+    "d": "7.7 (406)",
+    "notes": [
+     "saffron",
+     "jasmine",
+     "amberwood",
+     "ambergris",
+     "fir resin"
+    ],
+    "s": "Very diffusive statement scent.",
+    "insp": "MFK Baccarat Rouge 540",
+    "w": [
+     "evening"
+    ]
+   },
+   {
+    "n": "Yum Yum",
+    "c": "unisex",
+    "img": "p_723796",
+    "d": "7.1 (29)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Club de Nuit Sillage",
+    "c": "EDP · 2020 · unisex",
+    "img": "sillage",
+    "d": "7.3 (1,139)",
+    "notes": [
+     "lemon",
+     "blackcurrant",
+     "iris",
+     "musk",
+     "ambroxan"
+    ],
+    "s": "Fresh and moderate, suited to shared spaces.",
+    "insp": "Creed Silver Mountain Water",
+    "w": [
+     "office",
+     "summer"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "alhambra",
+  "name": "Maison Alhambra",
+  "tag": "UAE · Lattafa group",
+  "note": "<b>Two names each:</b> several Alhambra scents are sold under two names, e.g. Forbidden Love / Lovely Chérie and Immortel / Jean Lowe Immortal.",
+  "src": [
+   [
+    "Parfumo brand list",
+    "https://www.parfumo.com/Perfumes/maison-alhambra"
+   ],
+   [
+    "WhatScent: designer-like picks",
+    "https://www.whatscent.app/fr/magazine/best-maison-alhambra-perfumes-smell-like-designer-2025"
+   ],
+   [
+    "The Scent Base: Kismet Magic",
+    "https://thescentbase.com/perfumes/maison-alhambra/kismet-magic"
+   ],
+   [
+    "Bjutip: Hercules",
+    "https://bjutip.com/alhambra-hercules-edp-m-100-ml"
+   ],
+   [
+    "Fragrantica (gender labels)",
+    "https://www.fragrantica.com/"
+   ]
+  ],
+  "men": [
+   {
+    "n": "Fantasme",
+    "c": "unisex",
+    "img": "p_80e474",
+    "d": "8.9 (107)",
+    "notes": [],
+    "s": "The highest score in the house, from about 100 ratings. Notes not confirmed.",
+    "w": [
+     "evening"
+    ]
+   },
+   {
+    "n": "Hercules",
+    "c": "EDP · 2022 · unisex",
+    "img": "hercules",
+    "d": "8.4 (450)",
+    "notes": [
+     "cinnamon",
+     "pepper",
+     "tobacco leaf",
+     "incense",
+     "vanilla"
+    ],
+    "s": "The house's most-rated scent. Spicy and smoky over a woody vanilla base.",
+    "w": [
+     "winter",
+     "evening"
+    ]
+   },
+   {
+    "n": "Kismet Magic",
+    "c": "EDP · unisex",
+    "img": "kismetmagic",
+    "d": "8.3 (403)",
+    "notes": [
+     "cognac",
+     "cinnamon",
+     "oak",
+     "praline",
+     "vanilla"
+    ],
+    "s": "Boozy and sweet. Wears close to the skin.",
+    "insp": "Similar to Kilian Angels' Share",
+    "w": [
+     "winter",
+     "evening"
+    ]
+   },
+   {
+    "n": "Vibe",
+    "c": "unisex",
+    "img": "p_8b83af",
+    "d": "8.4 (159)",
+    "notes": [
+     "mint",
+     "citron",
+     "apricot",
+     "rose",
+     "fig",
+     "ambrette"
+    ],
+    "s": "Minty citrus and fig. Fresh and green.",
+    "w": [
+     "summer",
+     "everyday"
+    ]
+   },
+   {
+    "n": "True Word",
+    "c": "unisex",
+    "img": "p_a0ff25",
+    "d": "8.5 (106)",
+    "notes": [
+     "cardamom",
+     "pineapple",
+     "vanilla",
+     "incense",
+     "sandalwood",
+     "patchouli"
+    ],
+    "s": "Vanilla and incense with a fruity top.",
+    "w": [
+     "evening"
+    ]
+   },
+   {
+    "n": "Azure",
+    "c": "unisex",
+    "img": "p_bc3b61",
+    "d": "8.3 (238)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Ébène",
+    "c": "unisex",
+    "img": "p_1329e3",
+    "d": "8.8 (52)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Forbidden Love (Lovely Chérie)",
+    "c": "EDP · unisex",
+    "img": "forbidden",
+    "d": "8.2 (321)",
+    "notes": [
+     "black cherry",
+     "bitter almond",
+     "rose",
+     "tonka",
+     "toffee"
+    ],
+    "s": "Close to the original but more candied, with less liqueur bite.",
+    "insp": "Tom Ford Lost Cherry",
+    "w": [
+     "evening",
+     "date"
+    ]
+   },
+   {
+    "n": "Malachite",
+    "c": "unisex",
+    "img": "p_ae9fdb",
+    "d": "8.2 (228)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Immortel (Jean Lowe Immortal)",
+    "c": "EDP",
+    "img": "immortel",
+    "d": "8.2 (207)",
+    "notes": [
+     "grapefruit",
+     "ginger",
+     "ambroxan",
+     "labdanum"
+    ],
+    "s": "Fresh, ambery and clean. How close it is to the original is disputed.",
+    "insp": "Louis Vuitton L'Immensité",
+    "w": [
+     "summer",
+     "office"
+    ]
+   }
+  ],
+  "women": [
+   {
+    "n": "Cassius",
+    "c": "women",
+    "img": "p_8f8354",
+    "d": "8.3 (126)",
+    "notes": [],
+    "s": "The best-rated women's Alhambra. Notes not confirmed.",
+    "w": [
+     "everyday"
+    ]
+   },
+   {
+    "n": "Athena",
+    "c": "women",
+    "img": "p_706189",
+    "d": "8.2 (58)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Carrot Cake",
+    "c": "2025 · women",
+    "img": "p_ba25a0",
+    "d": "8.0 (51)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Reyna",
+    "c": "women",
+    "img": "p_58faa4",
+    "d": "7.9 (65)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Delilah Blanc",
+    "c": "women",
+    "img": "p_810695",
+    "d": "7.9 (56)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Centro",
+    "c": "women",
+    "img": "p_1dbb23",
+    "d": "7.6 (137)",
+    "notes": [
+     "hyacinth",
+     "pineapple",
+     "iris",
+     "jasmine",
+     "amber",
+     "musk"
+    ],
+    "s": "Powdery, musky florals. Soft and polished.",
+    "w": [
+     "office",
+     "everyday"
+    ]
+   },
+   {
+    "n": "Delilah",
+    "c": "women",
+    "img": "p_976208",
+    "d": "7.3 (96)",
+    "notes": [],
+    "s": "Popular women's Alhambra, rated lower than the other two. Notes not confirmed.",
+    "w": [
+     "everyday"
+    ]
+   },
+   {
+    "n": "Fantasme",
+    "c": "unisex",
+    "img": "p_80e474",
+    "d": "8.9 (107)",
+    "notes": [],
+    "s": "The highest score in the house, from about 100 ratings. Notes not confirmed.",
+    "w": [
+     "evening"
+    ]
+   },
+   {
+    "n": "Hercules",
+    "c": "EDP · 2022 · unisex",
+    "img": "hercules",
+    "d": "8.4 (450)",
+    "notes": [
+     "cinnamon",
+     "pepper",
+     "tobacco leaf",
+     "incense",
+     "vanilla"
+    ],
+    "s": "The house's most-rated scent. Spicy and smoky over a woody vanilla base.",
+    "w": [
+     "winter",
+     "evening"
+    ]
+   },
+   {
+    "n": "Kismet Magic",
+    "c": "EDP · unisex",
+    "img": "kismetmagic",
+    "d": "8.3 (403)",
+    "notes": [
+     "cognac",
+     "cinnamon",
+     "oak",
+     "praline",
+     "vanilla"
+    ],
+    "s": "Boozy and sweet. Wears close to the skin.",
+    "insp": "Similar to Kilian Angels' Share",
+    "w": [
+     "winter",
+     "evening"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "swiss",
+  "name": "Swiss Arabian",
+  "tag": "UAE · Shaghaf Oud",
+  "src": [
+   [
+    "Parfumo brand list",
+    "https://www.parfumo.com/Perfumes/Swiss_Arabian"
+   ],
+   [
+    "WhatScent: best oud perfumes",
+    "https://whatscent.app/magazine/best-oud-perfumes-2026"
+   ],
+   [
+    "Basenotes: Shaghaf Oud Azraq",
+    "https://basenotes.com/fragrances/shaghaf-oud-azraq-by-swiss-arabian.26270938"
+   ],
+   [
+    "Parfumo Tonquin Giza review (Tonka comparison)",
+    "https://www.parfumo.com/Perfumes/rayhaan/tonquin-giza/reviews/695423"
+   ],
+   [
+    "The Scent Base: Casablanca",
+    "https://thescentbase.com/perfumes/swiss-arabian/casablanca"
+   ],
+   [
+    "The Scent Base: Tobacco 01",
+    "https://thescentbase.com/perfumes/swiss-arabian/tobacco-01"
+   ],
+   [
+    "Fragrantica (gender labels)",
+    "https://www.fragrantica.com/"
+   ]
+  ],
+  "note": "<b>All unisex:</b> Fragrantica tags almost every popular Swiss Arabian scent unisex, so the two tabs are the same. Vanilla 01, a women's scent, isn't rated enough on Parfumo to rank.",
+  "men": [
+   {
+    "n": "Shaghaf Oud Tonka",
+    "c": "EDP · 2023 · unisex",
+    "img": "sotonka",
+    "d": "8.3 (1,195)",
+    "notes": [
+     "almond",
+     "tonka",
+     "amaretto",
+     "cherry"
+    ],
+    "s": "Sweet marzipan-amaretto almond, per a reviewer who compared it with Rayhaan Tonquin Giza. The safer tonka-almond pick.",
+    "w": [
+     "winter",
+     "evening"
+    ]
+   },
+   {
+    "n": "Essence of Casablanca",
+    "c": "2023 · unisex",
+    "img": "p_5d02e6",
+    "d": "8.5 (135)",
+    "notes": [],
+    "s": "Extrait take on Casablanca, rated well above the EDP. Notes not confirmed.",
+    "w": [
+     "evening"
+    ]
+   },
+   {
+    "n": "Shaghaf Oud Elixir",
+    "c": "2024 · unisex",
+    "img": "p_d76c76",
+    "d": "8.3 (353)",
+    "notes": [],
+    "s": "Richer Shaghaf Oud. Notes not confirmed.",
+    "w": [
+     "evening",
+     "winter"
+    ]
+   },
+   {
+    "n": "Dehn el Oud Mubarak",
+    "c": "unisex",
+    "img": "p_89f540",
+    "d": "8.4 (134)",
+    "notes": [
+     "fruity notes",
+     "sugar",
+     "oud",
+     "leather",
+     "woods"
+    ],
+    "s": "Sweet, leathery oud. Traditional in style.",
+    "w": [
+     "evening",
+     "winter"
+    ]
+   },
+   {
+    "n": "Opulence of Dubai",
+    "c": "2023 · unisex",
+    "img": "p_2e4ce8",
+    "d": "8.4 (99)",
+    "notes": [],
+    "s": "Highly rated unisex scent. Notes not confirmed.",
+    "w": [
+     "evening"
+    ]
+   },
+   {
+    "n": "Incense 01",
+    "c": "2025 · unisex",
+    "img": "p_78f7d9",
+    "d": "8.2 (220)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Shaghaf Oud Ahmar",
+    "c": "2023 · unisex",
+    "img": "p_a97735",
+    "d": "8.1 (548)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Oud 07",
+    "c": "2021 · unisex",
+    "img": "p_c689be",
+    "d": "8.3 (90)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Shaghaf Oud Azraq",
+    "c": "EDP · 2022 · unisex",
+    "img": "soazraq",
+    "d": "8.0 (982)",
+    "notes": [
+     "honey",
+     "agarwood",
+     "cinnamon",
+     "vanilla",
+     "leather"
+    ],
+    "s": "Warm cinnamon and honey, about 6 to 7 hours. A Basenotes reviewer calls it \"a complete winner\" for the price.",
+    "insp": "Compared to Montale Honey Aoud",
+    "w": [
+     "winter"
+    ]
+   },
+   {
+    "n": "Tobacco 01",
+    "c": "EDP · 2024 · unisex",
+    "img": "tobacco01",
+    "d": "8.0 (135)",
+    "notes": [
+     "apple",
+     "plum",
+     "tobacco",
+     "honey",
+     "vanilla"
+    ],
+    "s": "Fruity, honeyed tobacco. Leans masculine.",
+    "insp": "Similar to Initio Side Effect",
+    "w": [
+     "winter",
+     "evening"
+    ]
+   }
+  ],
+  "women": [
+   {
+    "n": "Shaghaf Oud Tonka",
+    "c": "EDP · 2023 · unisex",
+    "img": "sotonka",
+    "d": "8.3 (1,195)",
+    "notes": [
+     "almond",
+     "tonka",
+     "amaretto",
+     "cherry"
+    ],
+    "s": "Sweet marzipan-amaretto almond, per a reviewer who compared it with Rayhaan Tonquin Giza. The safer tonka-almond pick.",
+    "w": [
+     "winter",
+     "evening"
+    ]
+   },
+   {
+    "n": "Essence of Casablanca",
+    "c": "2023 · unisex",
+    "img": "p_5d02e6",
+    "d": "8.5 (135)",
+    "notes": [],
+    "s": "Extrait take on Casablanca, rated well above the EDP. Notes not confirmed.",
+    "w": [
+     "evening"
+    ]
+   },
+   {
+    "n": "Shaghaf Oud Elixir",
+    "c": "2024 · unisex",
+    "img": "p_d76c76",
+    "d": "8.3 (353)",
+    "notes": [],
+    "s": "Richer Shaghaf Oud. Notes not confirmed.",
+    "w": [
+     "evening",
+     "winter"
+    ]
+   },
+   {
+    "n": "Dehn el Oud Mubarak",
+    "c": "unisex",
+    "img": "p_89f540",
+    "d": "8.4 (134)",
+    "notes": [
+     "fruity notes",
+     "sugar",
+     "oud",
+     "leather",
+     "woods"
+    ],
+    "s": "Sweet, leathery oud. Traditional in style.",
+    "w": [
+     "evening",
+     "winter"
+    ]
+   },
+   {
+    "n": "Opulence of Dubai",
+    "c": "2023 · unisex",
+    "img": "p_2e4ce8",
+    "d": "8.4 (99)",
+    "notes": [],
+    "s": "Highly rated unisex scent. Notes not confirmed.",
+    "w": [
+     "evening"
+    ]
+   },
+   {
+    "n": "Incense 01",
+    "c": "2025 · unisex",
+    "img": "p_78f7d9",
+    "d": "8.2 (220)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Shaghaf Oud Ahmar",
+    "c": "2023 · unisex",
+    "img": "p_a97735",
+    "d": "8.1 (548)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Oud 07",
+    "c": "2021 · unisex",
+    "img": "p_c689be",
+    "d": "8.3 (90)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Shaghaf Oud Azraq",
+    "c": "EDP · 2022 · unisex",
+    "img": "soazraq",
+    "d": "8.0 (982)",
+    "notes": [
+     "honey",
+     "agarwood",
+     "cinnamon",
+     "vanilla",
+     "leather"
+    ],
+    "s": "Warm cinnamon and honey, about 6 to 7 hours. A Basenotes reviewer calls it \"a complete winner\" for the price.",
+    "insp": "Compared to Montale Honey Aoud",
+    "w": [
+     "winter"
+    ]
+   },
+   {
+    "n": "Tobacco 01",
+    "c": "EDP · 2024 · unisex",
+    "img": "tobacco01",
+    "d": "8.0 (135)",
+    "notes": [
+     "apple",
+     "plum",
+     "tobacco",
+     "honey",
+     "vanilla"
+    ],
+    "s": "Fruity, honeyed tobacco. Leans masculine.",
+    "insp": "Similar to Initio Side Effect",
+    "w": [
+     "winter",
+     "evening"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "riiffs",
+  "name": "Riiffs",
+  "tag": "UAE · Attarwala group",
+  "src": [
+   [
+    "Parfumo brand list",
+    "https://www.parfumo.com/Perfumes/riiffs"
+   ],
+   [
+    "Fragrantica (gender labels)",
+    "https://www.fragrantica.com/designers/Riiffs-Perfumes.html"
+   ],
+   [
+    "Gulf News: Attarwala Group",
+    "https://gulfnews.com/gn-focus/tracing-a-legacy-the-journey-of-the-attarwala-group-of-companies-1.1730107364337"
+   ]
+  ],
+  "note": "<b>Newer house:</b> Riiffs is a Dubai brand launched in 2018 by the Attarwala Group. Most of its rated scents are 2025–26 releases with under 100 ratings, so this order could shift. Momento is by far the most rated. Kmart Australia stocks a few Riiffs scents, such as Imperial Rouge and La Femme Bloom.",
+  "men": [],
+  "women": []
+ },
+ {
+  "id": "arabianoud",
+  "name": "Arabian Oud",
+  "tag": "Saudi · Heritage house",
+  "note": "<b>Highest averages:</b> Arabian Oud's scents score 8.1 to 9.1. Several men's-tab picks have no confirmed gender label.",
+  "src": [
+   [
+    "Parfumo brand list",
+    "https://www.parfumo.com/Perfumes/Arabian_Oud"
+   ],
+   [
+    "Kafkaesque: Kalemat review",
+    "https://kafkaesqueblog.com/2013/10/31/arabian-oud-kalemat-rivers-of-gold-affordable-luxury/"
+   ],
+   [
+    "Parfumo Sultani review",
+    "https://www.parfumo.com/Perfumes/Arabian_Oud/sultani/reviews/144374"
+   ],
+   [
+    "The Scent Base: Resala",
+    "https://thescentbase.com/perfumes/arabian-oud/resala"
+   ],
+   [
+    "The Scent Base: Madawi Gold",
+    "https://thescentbase.com/perfumes/arabian-oud/madawi-gold-edition"
+   ],
+   [
+    "Fragrantica (gender labels)",
+    "https://www.fragrantica.com/"
+   ]
+  ],
+  "men": [
+   {
+    "n": "Madawi Gold Edition",
+    "c": "EDP · 2022 · unisex",
+    "img": "madawi",
+    "d": "8.7 (354)",
+    "notes": [
+     "cardamom",
+     "fruity notes",
+     "pineapple blossom",
+     "jasmine",
+     "vanilla"
+    ],
+    "s": "Fruity, sweet and long-lasting, about 6 to 10 hours.",
+    "insp": "Similar to Rabanne 1 Million Elixir",
+    "w": [
+     "evening",
+     "everyday"
+    ]
+   },
+   {
+    "n": "Tarteel Silver",
+    "c": "2017",
+    "img": "p_d3f2df",
+    "d": "8.8 (205)",
+    "notes": [
+     "pear",
+     "bergamot",
+     "jasmine",
+     "vanilla",
+     "sandalwood",
+     "amber"
+    ],
+    "s": "Soft pear and vanilla. Labelled for men.",
+    "w": [
+     "everyday",
+     "evening"
+    ]
+   },
+   {
+    "n": "Zumorod",
+    "c": "2024 · unisex",
+    "img": "p_9d350e",
+    "d": "8.9 (157)",
+    "notes": [],
+    "s": "The highest score in the house. Notes not confirmed.",
+    "w": [
+     "evening"
+    ]
+   },
+   {
+    "n": "Amiri",
+    "c": "2020 · unisex",
+    "img": "p_2f0a15",
+    "d": "8.7 (269)",
+    "notes": [],
+    "s": "Unisex and very highly rated. Notes not confirmed.",
+    "w": [
+     "evening"
+    ]
+   },
+   {
+    "n": "Majestic Woody Intense",
+    "c": "unisex",
+    "img": "p_c79dab",
+    "d": "8.7 (187)",
+    "notes": [],
+    "s": "Unisex woody scent. Notes not confirmed.",
+    "w": [
+     "evening",
+     "winter"
+    ]
+   },
+   {
+    "n": "Sultani",
+    "c": "EDP · 2020",
+    "img": "sultani",
+    "d": "8.6 (267)",
+    "notes": [
+     "bergamot",
+     "berry",
+     "mint",
+     "soft florals",
+     "sandalwood"
+    ],
+    "s": "Fresh citrus and berry that turns into creamy sandalwood. One reviewer scored it 9.5.",
+    "insp": "Reviewer compares it to Acqua di Parma Oud",
+    "w": [
+     "office",
+     "everyday"
+    ]
+   },
+   {
+    "n": "Royal Oud",
+    "c": "gender not confirmed",
+    "img": "p_a29efd",
+    "d": "9.1 (80)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Al Fareed",
+    "c": "2020",
+    "img": "p_d047eb",
+    "d": "8.7 (135)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Jabal Tamya",
+    "c": "gender not confirmed",
+    "img": "p_3c031f",
+    "d": "8.9 (88)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Resala",
+    "c": "EDP · unisex",
+    "img": "resala",
+    "d": "8.4 (431)",
+    "notes": [
+     "chocolate",
+     "rose",
+     "saffron",
+     "vanilla",
+     "woods"
+    ],
+    "s": "Rich rose-chocolate oud. Long-lasting, 6 to 10 hours.",
+    "insp": "Similar to Swiss Arabian Shaghaf Oud",
+    "w": [
+     "winter",
+     "evening"
+    ]
+   }
+  ],
+  "women": [
+   {
+    "n": "Madawi",
+    "c": "2017 · women",
+    "img": "p_b550b8",
+    "d": "8.5 (134)",
+    "notes": [],
+    "s": "The original Madawi, labelled for women. Notes not confirmed.",
+    "w": [
+     "everyday",
+     "evening"
+    ]
+   },
+   {
+    "n": "Madawi Gold Edition",
+    "c": "EDP · 2022 · unisex",
+    "img": "madawi",
+    "d": "8.7 (354)",
+    "notes": [
+     "cardamom",
+     "fruity notes",
+     "pineapple blossom",
+     "jasmine",
+     "vanilla"
+    ],
+    "s": "Fruity, sweet and long-lasting, about 6 to 10 hours.",
+    "insp": "Similar to Rabanne 1 Million Elixir",
+    "w": [
+     "evening",
+     "everyday"
+    ]
+   },
+   {
+    "n": "Zumorod",
+    "c": "2024 · unisex",
+    "img": "p_9d350e",
+    "d": "8.9 (157)",
+    "notes": [],
+    "s": "The highest score in the house. Notes not confirmed.",
+    "w": [
+     "evening"
+    ]
+   },
+   {
+    "n": "Amiri",
+    "c": "2020 · unisex",
+    "img": "p_2f0a15",
+    "d": "8.7 (269)",
+    "notes": [],
+    "s": "Unisex and very highly rated. Notes not confirmed.",
+    "w": [
+     "evening"
+    ]
+   },
+   {
+    "n": "Majestic Woody Intense",
+    "c": "unisex",
+    "img": "p_c79dab",
+    "d": "8.7 (187)",
+    "notes": [],
+    "s": "Unisex woody scent. Notes not confirmed.",
+    "w": [
+     "evening",
+     "winter"
+    ]
+   },
+   {
+    "n": "Resala",
+    "c": "EDP · unisex",
+    "img": "resala",
+    "d": "8.4 (431)",
+    "notes": [
+     "chocolate",
+     "rose",
+     "saffron",
+     "vanilla",
+     "woods"
+    ],
+    "s": "Rich rose-chocolate oud. Long-lasting, 6 to 10 hours.",
+    "insp": "Similar to Swiss Arabian Shaghaf Oud",
+    "w": [
+     "winter",
+     "evening"
+    ]
+   },
+   {
+    "n": "Taraf",
+    "c": "2023 · unisex",
+    "img": "p_598efe",
+    "d": "8.8 (77)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Kalemat",
+    "c": "EDP · unisex",
+    "img": "kalemat",
+    "d": "8.1 (316)",
+    "notes": [
+     "blueberry",
+     "anise",
+     "rosemary",
+     "honey",
+     "amber"
+    ],
+    "s": "A honeyed amber that lasted 12+ hours on one reviewer. Strong opening, then a soft woody amber.",
+    "insp": "Closest to Serge Lutens Chergui",
+    "w": [
+     "winter",
+     "evening"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "arabiyat",
+  "name": "Arabiyat Prestige",
+  "tag": "UAE · My Perfumes",
+  "src": [
+   [
+    "Parfumo brand list",
+    "https://www.parfumo.com/Perfumes/arabiyat-prestige"
+   ],
+   [
+    "The Scent Base: Marwa",
+    "https://thescentbase.com/perfumes/arabiyat-prestige/marwa"
+   ],
+   [
+    "Arabic Parfums: Nayel Queen",
+    "https://arabicparfums.com/en/products/nayel-queen-arabiyat-prestige-70ml"
+   ],
+   [
+    "Fragrance Hub: Mahd al Dhahab",
+    "https://www.fragrancehub.co.uk/products/mahd-al-dhahab-100ml-edp-by-arabiyat-prestige"
+   ]
+  ],
+  "note": "<b>Few rated scents:</b> Parfumo's Arabiyat Prestige list didn't include photos, and most other scents have under 50 ratings, so this house wasn't expanded.",
+  "men": [
+   {
+    "n": "Marwa",
+    "c": "EDP · 2025",
+    "img": "marwa",
+    "d": "8.5 (1,390)",
+    "notes": [
+     "bergamot",
+     "black tea",
+     "ginger",
+     "cinnamon",
+     "olibanum"
+    ],
+    "s": "Spiced tea and citrus. Leans masculine and wears close to the skin.",
+    "insp": "Louis Vuitton Imagination",
+    "w": [
+     "office",
+     "everyday"
+    ]
+   },
+   {
+    "n": "Nayel Queen",
+    "c": "EDP · 2023 · unisex",
+    "img": "nayel",
+    "d": "9.0 (55)",
+    "notes": [
+     "pink pepper",
+     "tobacco",
+     "saffron",
+     "frankincense",
+     "suede"
+    ],
+    "s": "The highest average on this page, though from only 55 ratings.",
+    "insp": "YSL Babycat",
+    "w": [
+     "evening",
+     "winter"
+    ]
+   },
+   {
+    "n": "Mahd al Dhahab",
+    "c": "EDP · 2025",
+    "img": "mahd",
+    "d": "8.3 (151)",
+    "notes": [
+     "bergamot",
+     "spices",
+     "amber",
+     "oud",
+     "vanilla"
+    ],
+    "s": "Warm oriental with a modern edge.",
+    "insp": "Customers compare it to Drunk Lovers",
+    "w": [
+     "evening",
+     "winter"
+    ]
+   }
+  ],
+  "women": [
+   {
+    "n": "Nayel Queen",
+    "c": "EDP · 2023 · unisex",
+    "img": "nayel",
+    "d": "9.0 (55)",
+    "notes": [
+     "saffron",
+     "frankincense",
+     "suede",
+     "vanilla",
+     "tonka"
+    ],
+    "s": "Described as unisex by the retailer. Warm and woody rather than floral.",
+    "insp": "YSL Babycat",
+    "w": [
+     "evening"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "khadlaj",
+  "name": "Khadlaj",
+  "tag": "UAE · Value",
+  "note": "<b>Thin data:</b> many Khadlaj scents have under 100 ratings and notes are mostly unconfirmed.",
+  "src": [
+   [
+    "Parfumo brand list",
+    "https://www.parfumo.com/Perfumes/Khadlaj"
+   ],
+   [
+    "FridayCharm: Shiyaaka Silver",
+    "https://www.fridaycharm.com/collections/khadlaj/products/khadlaj-shiyaaka-silver-eau-de-parfum-for-unisex"
+   ],
+   [
+    "Fragrantica (gender labels)",
+    "https://www.fragrantica.com/"
+   ]
+  ],
+  "men": [
+   {
+    "n": "Karus Gold Absolu",
+    "c": "2026 · unisex",
+    "img": "karus",
+    "d": "8.9 (145)",
+    "notes": [],
+    "s": "Very highly rated for a new release. Notes not confirmed by a reliable source.",
+    "w": [
+     "evening"
+    ]
+   },
+   {
+    "n": "Azure Velvet",
+    "c": "2025 · unisex",
+    "img": "p_c38cb7",
+    "d": "8.6 (74)",
+    "notes": [],
+    "s": "High score from a modest number of ratings. Notes not confirmed.",
+    "w": [
+     "everyday"
+    ]
+   },
+   {
+    "n": "Empire Crown",
+    "c": "2024 · unisex",
+    "img": "p_4902e7",
+    "d": "8.6 (74)",
+    "notes": [],
+    "s": "Notes not confirmed.",
+    "w": [
+     "evening"
+    ]
+   },
+   {
+    "n": "Sawaar Vanille Blanc",
+    "c": "2025 · unisex",
+    "img": "p_45b2b8",
+    "d": "8.4 (75)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Empire Victor",
+    "c": "2024 · unisex",
+    "img": "p_ad69b2",
+    "d": "8.2 (134)",
+    "notes": [],
+    "s": "Notes not confirmed.",
+    "w": [
+     "everyday"
+    ]
+   },
+   {
+    "n": "Cream Velvet",
+    "c": "2024 · unisex",
+    "img": "p_c74100",
+    "d": "8.2 (117)",
+    "notes": [],
+    "s": "Notes not confirmed.",
+    "w": [
+     "evening"
+    ]
+   },
+   {
+    "n": "Island",
+    "c": "2024 · unisex",
+    "img": "island",
+    "d": "8.1 (255)",
+    "notes": [],
+    "s": "One of the house's most-rated scents. Notes not confirmed by a reliable source.",
+    "w": [
+     "summer"
+    ]
+   },
+   {
+    "n": "Island Vanilla Dunes",
+    "c": "2025 · unisex",
+    "img": "p_4723a1",
+    "d": "8.2 (116)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Shiyaaka Silver",
+    "c": "EDP · 2019 · unisex",
+    "img": "shiyaaka",
+    "d": "8.0 (912)",
+    "notes": [
+     "petitgrain",
+     "rosemary",
+     "neroli",
+     "orris",
+     "vetiver"
+    ],
+    "s": "Sharp, polished aromatic, 8 to 10 hours. Low sweetness. Good for the office.",
+    "insp": "Amouage Reflection Man",
+    "w": [
+     "office",
+     "everyday"
+    ]
+   },
+   {
+    "n": "Oud Noir",
+    "c": "unisex",
+    "img": "p_463a3a",
+    "d": "8.1 (108)",
+    "notes": [],
+    "s": "",
+    "w": []
+   }
+  ],
+  "women": [
+   {
+    "n": "Panache Angel Dust",
+    "c": "2026 · women",
+    "img": "p_3b66b8",
+    "d": "8.4 (87)",
+    "notes": [],
+    "s": "The best-rated women's Khadlaj. Notes not confirmed.",
+    "w": [
+     "evening",
+     "date"
+    ]
+   },
+   {
+    "n": "Rose Couture",
+    "c": "women",
+    "img": "p_8797b6",
+    "d": "8.7 (37)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Fursan White",
+    "c": "2024 · women",
+    "img": "p_96b5a3",
+    "d": "7.8 (124)",
+    "notes": [],
+    "s": "Women's-labelled version of Fursan. Notes not confirmed.",
+    "w": [
+     "everyday"
+    ]
+   },
+   {
+    "n": "Musk pour Amber",
+    "c": "2024 · women",
+    "img": "p_c4a7d6",
+    "d": "7.5 (35)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Karus Gold Absolu",
+    "c": "2026 · unisex",
+    "img": "karus",
+    "d": "8.9 (145)",
+    "notes": [],
+    "s": "Very highly rated for a new release. Notes not confirmed by a reliable source.",
+    "w": [
+     "evening"
+    ]
+   },
+   {
+    "n": "Azure Velvet",
+    "c": "2025 · unisex",
+    "img": "p_c38cb7",
+    "d": "8.6 (74)",
+    "notes": [],
+    "s": "High score from a modest number of ratings. Notes not confirmed.",
+    "w": [
+     "everyday"
+    ]
+   },
+   {
+    "n": "Empire Crown",
+    "c": "2024 · unisex",
+    "img": "p_4902e7",
+    "d": "8.6 (74)",
+    "notes": [],
+    "s": "Notes not confirmed.",
+    "w": [
+     "evening"
+    ]
+   },
+   {
+    "n": "Sawaar Vanille Blanc",
+    "c": "2025 · unisex",
+    "img": "p_45b2b8",
+    "d": "8.4 (75)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Empire Victor",
+    "c": "2024 · unisex",
+    "img": "p_ad69b2",
+    "d": "8.2 (134)",
+    "notes": [],
+    "s": "Notes not confirmed.",
+    "w": [
+     "everyday"
+    ]
+   },
+   {
+    "n": "Cream Velvet",
+    "c": "2024 · unisex",
+    "img": "p_c74100",
+    "d": "8.2 (117)",
+    "notes": [],
+    "s": "Notes not confirmed.",
+    "w": [
+     "evening"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "pariscorner",
+  "name": "Paris Corner",
+  "tag": "UAE · Gourmands",
+  "src": [
+   [
+    "Parfumo brand list",
+    "https://www.parfumo.com/Perfumes/paris-corner"
+   ],
+   [
+    "The Scent Base: Marshmallow Blush",
+    "https://thescentbase.com/perfumes/paris-corner/marshmallow-blush"
+   ],
+   [
+    "The Scent Base: Rifaaqat",
+    "https://thescentbase.com/perfumes/paris-corner/rifaaqat"
+   ],
+   [
+    "Anabis: Molten Caramel",
+    "https://www.anabis.com/uk/Paris-Corner-Molten-Caramel-EdP-100ml.html"
+   ],
+   [
+    "Fragrantica (gender labels)",
+    "https://www.fragrantica.com/"
+   ]
+  ],
+  "men": [
+   {
+    "n": "Rifaaqat",
+    "c": "EDP · unisex",
+    "img": "rifaaqat",
+    "d": "8.1 (675)",
+    "notes": [
+     "black pepper",
+     "elemi",
+     "olibanum",
+     "saffron",
+     "vanilla"
+    ],
+    "s": "Peppery incense over vanilla. The house's most-rated scent.",
+    "insp": "Similar to YSL Babycat",
+    "w": [
+     "evening",
+     "winter"
+    ]
+   },
+   {
+    "n": "Molten Caramel",
+    "c": "EDP · 2025 · unisex",
+    "img": "molten",
+    "d": "8.2 (155)",
+    "notes": [
+     "white chocolate",
+     "milk",
+     "caramel",
+     "brown sugar",
+     "praline"
+    ],
+    "s": "A warm dessert gourmand. Long-lasting, per the retailer.",
+    "insp": "Sol de Janeiro Cheirosa 71",
+    "w": [
+     "winter",
+     "date"
+    ]
+   },
+   {
+    "n": "Marshmallow Blush",
+    "c": "EDP · 2025 · unisex",
+    "img": "marshmallow",
+    "d": "8.1 (273)",
+    "notes": [
+     "raspberry",
+     "strawberry",
+     "orange blossom",
+     "marshmallow",
+     "musk"
+    ],
+    "s": "Sweet berry-marshmallow. Wears close to the skin.",
+    "insp": "Similar to Kayali Yum Boujee Marshmallow 81",
+    "w": [
+     "everyday",
+     "date"
+    ]
+   },
+   {
+    "n": "Farah",
+    "c": "2025 · unisex",
+    "img": "p_9ffdf8",
+    "d": "8.2 (113)",
+    "notes": [],
+    "s": "Highly rated 2025 unisex release. Notes not confirmed.",
+    "w": [
+     "evening"
+    ]
+   },
+   {
+    "n": "Minya",
+    "c": "2024 · unisex",
+    "img": "p_28ad59",
+    "d": "8.0 (254)",
+    "notes": [],
+    "s": "Popular unisex scent. Notes not confirmed.",
+    "w": [
+     "everyday"
+    ]
+   },
+   {
+    "n": "Perseviron Fig Hug",
+    "c": "2025 · unisex",
+    "img": "p_3550bc",
+    "d": "8.0 (61)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Mysterium",
+    "c": "2025",
+    "img": "p_4e3c04",
+    "d": "7.9 (157)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Khair Fusion",
+    "c": "2024 · unisex",
+    "img": "p_b14eb8",
+    "d": "7.9 (86)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "December Vanilla",
+    "c": "2023 · unisex",
+    "img": "p_0e5cb5",
+    "d": "7.8 (124)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Mango Bliss",
+    "c": "2024 · unisex",
+    "img": "p_6ca9c5",
+    "d": "7.8 (62)",
+    "notes": [],
+    "s": "",
+    "w": []
+   }
+  ],
+  "women": [
+   {
+    "n": "Khair Felicity",
+    "c": "2025 · women",
+    "img": "p_724ecc",
+    "d": "7.9 (202)",
+    "notes": [],
+    "s": "The best-rated women's Paris Corner. Notes not confirmed.",
+    "w": [
+     "everyday"
+    ]
+   },
+   {
+    "n": "Qissa Delicious",
+    "c": "2024 · women",
+    "img": "p_40f26f",
+    "d": "7.9 (104)",
+    "notes": [],
+    "s": "Women's gourmand. Notes not confirmed.",
+    "w": [
+     "evening",
+     "date"
+    ]
+   },
+   {
+    "n": "Khair Confection",
+    "c": "2024 · women",
+    "img": "p_6f8c1e",
+    "d": "7.7 (173)",
+    "notes": [],
+    "s": "Sweet women's scent from the Khair line. Notes not confirmed.",
+    "w": [
+     "evening"
+    ]
+   },
+   {
+    "n": "Dulzura",
+    "c": "2025 · women",
+    "img": "p_bc0dca",
+    "d": "7.6 (60)",
+    "notes": [],
+    "s": "Women's gourmand with fewer ratings. Notes not confirmed.",
+    "w": [
+     "evening"
+    ]
+   },
+   {
+    "n": "Rifaaqat",
+    "c": "EDP · unisex",
+    "img": "rifaaqat",
+    "d": "8.1 (675)",
+    "notes": [
+     "black pepper",
+     "elemi",
+     "olibanum",
+     "saffron",
+     "vanilla"
+    ],
+    "s": "Peppery incense over vanilla. The house's most-rated scent.",
+    "insp": "Similar to YSL Babycat",
+    "w": [
+     "evening",
+     "winter"
+    ]
+   },
+   {
+    "n": "Molten Caramel",
+    "c": "EDP · 2025 · unisex",
+    "img": "molten",
+    "d": "8.2 (155)",
+    "notes": [
+     "white chocolate",
+     "milk",
+     "caramel",
+     "brown sugar",
+     "praline"
+    ],
+    "s": "A warm dessert gourmand. Long-lasting, per the retailer.",
+    "insp": "Sol de Janeiro Cheirosa 71",
+    "w": [
+     "winter",
+     "date"
+    ]
+   },
+   {
+    "n": "Marshmallow Blush",
+    "c": "EDP · 2025 · unisex",
+    "img": "marshmallow",
+    "d": "8.1 (273)",
+    "notes": [
+     "raspberry",
+     "strawberry",
+     "orange blossom",
+     "marshmallow",
+     "musk"
+    ],
+    "s": "Sweet berry-marshmallow. Wears close to the skin.",
+    "insp": "Similar to Kayali Yum Boujee Marshmallow 81",
+    "w": [
+     "everyday",
+     "date"
+    ]
+   },
+   {
+    "n": "Farah",
+    "c": "2025 · unisex",
+    "img": "p_9ffdf8",
+    "d": "8.2 (113)",
+    "notes": [],
+    "s": "Highly rated 2025 unisex release. Notes not confirmed.",
+    "w": [
+     "evening"
+    ]
+   },
+   {
+    "n": "Minya",
+    "c": "2024 · unisex",
+    "img": "p_28ad59",
+    "d": "8.0 (254)",
+    "notes": [],
+    "s": "Popular unisex scent. Notes not confirmed.",
+    "w": [
+     "everyday"
+    ]
+   },
+   {
+    "n": "Perseviron Fig Hug",
+    "c": "2025 · unisex",
+    "img": "p_3550bc",
+    "d": "8.0 (61)",
+    "notes": [],
+    "s": "",
+    "w": []
+   }
+  ]
+ },
+ {
+  "id": "fw",
+  "name": "Fragrance World",
+  "tag": "UAE · Parent of French Avenue",
+  "note": "<b>Same family:</b> French Avenue is a Fragrance World label and has its own row. Only two Fragrance World scents are confirmed unisex and none women's, so the women's tab is short.",
+  "src": [
+   [
+    "Parfumo brand list",
+    "https://www.parfumo.com/Perfumes/fragrance-world"
+   ],
+   [
+    "ScentVerdict: Jack",
+    "https://scentverdict.com/perfume/fragrance-world-jack-eau-de-parfum"
+   ],
+   [
+    "Notino: Soir",
+    "https://www.notino.fr/fragrance-world/soir-eau-de-parfum-pour-femme/"
+   ],
+   [
+    "The Scent Base: Creme of Clouds",
+    "https://thescentbase.com/perfumes/fragrance-world/creme-of-clouds"
+   ],
+   [
+    "Fragrantica (gender labels)",
+    "https://www.fragrantica.com/"
+   ]
+  ],
+  "men": [
+   {
+    "n": "Soir",
+    "c": "EDP · 2024 · unisex",
+    "img": "soir",
+    "d": "8.4 (102)",
+    "notes": [
+     "mandarin",
+     "lavender",
+     "pepper",
+     "vanilla",
+     "sandalwood"
+    ],
+    "s": "Warm lavender-vanilla. 4.2/5 from a handful of Notino buyers.",
+    "w": [
+     "evening",
+     "winter"
+    ]
+   },
+   {
+    "n": "Olfactory - Music Fest",
+    "c": "",
+    "img": "p_d99d44",
+    "d": "8.4 (52)",
+    "notes": [],
+    "s": "Highly rated, but notes and gender not confirmed.",
+    "w": [
+     "everyday"
+    ]
+   },
+   {
+    "n": "Jack",
+    "c": "EDP · 2024",
+    "img": "jack",
+    "d": "8.3 (66)",
+    "notes": [
+     "citrus",
+     "cardamom",
+     "herbal notes",
+     "oakmoss",
+     "patchouli"
+    ],
+    "s": "A workable citrus-aromatic for daily wear, 4 to 6 hours.",
+    "insp": "YSL La Nuit de L'Homme Bleu Électrique",
+    "w": [
+     "office",
+     "everyday"
+    ]
+   },
+   {
+    "n": "Harmony Code Absolute",
+    "c": "gender not confirmed",
+    "img": "p_1865ca",
+    "d": "8.3 (28)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Tragedy",
+    "c": "gender not confirmed",
+    "img": "p_fff2b2",
+    "d": "8.2 (37)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Star Men Nebula",
+    "c": "",
+    "img": "p_074dca",
+    "d": "8.0 (79)",
+    "notes": [],
+    "s": "Men's scent going by the name. Notes not confirmed.",
+    "w": [
+     "evening"
+    ]
+   },
+   {
+    "n": "Colosseum",
+    "c": "2026",
+    "img": "p_12d2b0",
+    "d": "8.0 (53)",
+    "notes": [],
+    "s": "2026 release. Notes and gender not confirmed.",
+    "w": [
+     "everyday"
+    ]
+   },
+   {
+    "n": "Notes Jazz",
+    "c": "2025 · gender not confirmed",
+    "img": "p_a102aa",
+    "d": "8.0 (52)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Cocktail Intense",
+    "c": "gender not confirmed",
+    "img": "p_f67f7e",
+    "d": "8.0 (47)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Tabac n' Coke",
+    "c": "2025 · gender not confirmed",
+    "img": "p_a553a7",
+    "d": "7.9 (55)",
+    "notes": [],
+    "s": "",
+    "w": []
+   }
+  ],
+  "women": [
+   {
+    "n": "Elysia Vanilla Sugar",
+    "c": "2025 · women",
+    "img": "p_142028",
+    "d": "8.9 (30)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Soir",
+    "c": "EDP · 2024 · unisex",
+    "img": "soir",
+    "d": "8.4 (102)",
+    "notes": [
+     "mandarin",
+     "lavender",
+     "pepper",
+     "vanilla",
+     "sandalwood"
+    ],
+    "s": "Warm lavender-vanilla. 4.2/5 from a handful of Notino buyers.",
+    "w": [
+     "evening",
+     "winter"
+    ]
+   },
+   {
+    "n": "Creme of Clouds",
+    "c": "EDP · 2025 · unisex",
+    "img": "cremeclouds",
+    "d": "7.8 (108)",
+    "notes": [
+     "whipped cream",
+     "burnt sugar",
+     "coconut milk",
+     "vanilla"
+    ],
+    "s": "A creamy dessert scent. Intimate projection.",
+    "insp": "Similar to Sol de Janeiro Cheirosa 39",
+    "w": [
+     "everyday",
+     "date"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mykonos",
+  "name": "Mykonos",
+  "tag": "Indonesia · Fresh",
+  "note": "<b>Not Middle Eastern:</b> a Parfumo reviewer says Mykonos is an Indonesian brand. No scent has more than 89 ratings, and only five are confirmed unisex.",
+  "src": [
+   [
+    "Parfumo brand list",
+    "https://www.parfumo.com/Perfumes/mykonos"
+   ],
+   [
+    "Arabic Parfums: Empire",
+    "https://arabicparfums.com/collections/mykonos/products/empire-mykonos"
+   ],
+   [
+    "Vivir: The Nautilus",
+    "https://vivir.com/article/mykonos-the-nautilus"
+   ],
+   [
+    "Parfumo Reflection Elixir review",
+    "https://www.parfumo.com/Perfumes/mykonos/reflection-elixir/reviews/695820"
+   ],
+   [
+    "Fragrantica (gender labels)",
+    "https://www.fragrantica.com/"
+   ]
+  ],
+  "men": [
+   {
+    "n": "Imperium (Empire)",
+    "c": "Extrait · 2026 · unisex",
+    "img": "imperium",
+    "d": "8.6 (89)",
+    "notes": [
+     "lime",
+     "bergamot",
+     "tropical fruit",
+     "coconut water",
+     "tonka"
+    ],
+    "s": "Bright citrus-tropical, 8 to 10 hours with high projection, per the retailer.",
+    "insp": "Creed Virgin Island Water",
+    "w": [
+     "summer",
+     "everyday"
+    ]
+   },
+   {
+    "n": "Nautilus",
+    "c": "Extrait · 2026 · unisex",
+    "img": "nautilus",
+    "d": "8.8 (28)",
+    "notes": [
+     "pear",
+     "bergamot",
+     "ginger",
+     "orange blossom",
+     "ambroxan"
+    ],
+    "s": "Fresh Mediterranean scent for warm weather. Avoid it in winter.",
+    "w": [
+     "summer"
+    ]
+   },
+   {
+    "n": "Reflection Elixir",
+    "c": "2026",
+    "img": "reflelixir",
+    "d": "8.5 (38)",
+    "notes": [
+     "grapefruit",
+     "bergamot",
+     "orange",
+     "ambroxan"
+    ],
+    "s": "Zesty citrus over ambroxan. The reviewer says performance beats the original.",
+    "insp": "Louis Vuitton Symphony",
+    "w": [
+     "summer",
+     "office"
+    ]
+   },
+   {
+    "n": "Dreamscape",
+    "c": "2025 · unisex",
+    "img": "p_c5fdbf",
+    "d": "8.4 (46)",
+    "notes": [],
+    "s": "Unisex, few ratings. Notes not confirmed.",
+    "w": [
+     "summer"
+    ]
+   },
+   {
+    "n": "Inception",
+    "c": "2025 · unisex",
+    "img": "p_50b824",
+    "d": "8.3 (43)",
+    "notes": [],
+    "s": "Unisex, few ratings. Notes not confirmed.",
+    "w": [
+     "summer"
+    ]
+   },
+   {
+    "n": "Reflection",
+    "c": "2025 · unisex",
+    "img": "p_aae34b",
+    "d": "8.3 (38)",
+    "notes": [],
+    "s": "The original Reflection. Unisex. Notes not confirmed.",
+    "w": [
+     "summer"
+    ]
+   },
+   {
+    "n": "Glitch",
+    "c": "2025 · gender not confirmed",
+    "img": "p_25759c",
+    "d": "8.4 (20)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Conquer",
+    "c": "2026 · gender not confirmed",
+    "img": "p_94dc92",
+    "d": "8.3 (22)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Slow Living",
+    "c": "2024 · gender not confirmed",
+    "img": "p_121393",
+    "d": "8.1 (33)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Sorrento",
+    "c": "2025 · gender not confirmed",
+    "img": "p_3dc3f4",
+    "d": "8.1 (29)",
+    "notes": [],
+    "s": "",
+    "w": []
+   }
+  ],
+  "women": [
+   {
+    "n": "Imperium (Empire)",
+    "c": "Extrait · 2026 · unisex",
+    "img": "imperium",
+    "d": "8.6 (89)",
+    "notes": [
+     "lime",
+     "bergamot",
+     "tropical fruit",
+     "coconut water",
+     "tonka"
+    ],
+    "s": "Bright citrus-tropical, 8 to 10 hours with high projection, per the retailer.",
+    "insp": "Creed Virgin Island Water",
+    "w": [
+     "summer",
+     "everyday"
+    ]
+   },
+   {
+    "n": "Nautilus",
+    "c": "Extrait · 2026 · unisex",
+    "img": "nautilus",
+    "d": "8.8 (28)",
+    "notes": [
+     "pear",
+     "bergamot",
+     "ginger",
+     "orange blossom",
+     "ambroxan"
+    ],
+    "s": "Fresh Mediterranean scent for warm weather. Avoid it in winter.",
+    "w": [
+     "summer"
+    ]
+   },
+   {
+    "n": "Dreamscape",
+    "c": "2025 · unisex",
+    "img": "p_c5fdbf",
+    "d": "8.4 (46)",
+    "notes": [],
+    "s": "Unisex, few ratings. Notes not confirmed.",
+    "w": [
+     "summer"
+    ]
+   },
+   {
+    "n": "Inception",
+    "c": "2025 · unisex",
+    "img": "p_50b824",
+    "d": "8.3 (43)",
+    "notes": [],
+    "s": "Unisex, few ratings. Notes not confirmed.",
+    "w": [
+     "summer"
+    ]
+   },
+   {
+    "n": "Reflection",
+    "c": "2025 · unisex",
+    "img": "p_aae34b",
+    "d": "8.3 (38)",
+    "notes": [],
+    "s": "The original Reflection. Unisex. Notes not confirmed.",
+    "w": [
+     "summer"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ibraq",
+  "name": "Ibraheem Al Qurashi (Ibraq)",
+  "tag": "Saudi · Since 1929",
+  "src": [
+   [
+    "Parfumo brand list",
+    "https://www.parfumo.com/Perfumes/ibraheem-al-qurashi"
+   ],
+   [
+    "Scent Verdict: Ibrahim Al-Qurashi",
+    "https://scentverdict.com/brand/ibrahim-al-qurashi"
+   ],
+   [
+    "Fragrance Hub: French Tobacco",
+    "https://www.fragrancehub.co.uk/products/french-tobacco-edp-100ml-by-ibraheem-al-qurashi-ibraq"
+   ]
+  ],
+  "note": "<b>Tobacco specialists:</b> Ibraheem Al Qurashi, sold as Ibraq, is a Saudi house founded in Makkah in 1929. Its tobacco and Diamond lines take most of the ratings, but most scents have under 70, so the order could shift. Many gender labels aren't confirmed; the unisex ones come from Scent Verdict.",
+  "men": [
+   {
+    "n": "French Tobacco",
+    "c": "Extrait · unisex",
+    "img": "frenchtob",
+    "d": "8.7 (258)",
+    "notes": [
+     "blood orange",
+     "green apple",
+     "tobacco",
+     "cinnamon",
+     "guaiac wood"
+    ],
+    "s": "Citrus and spiced tobacco with strong projection. Best for evenings and colder months.",
+    "insp": "Customers say it smells like LV Imagination",
+    "w": [
+     "evening",
+     "winter"
+    ]
+   },
+   {
+    "n": "Black Diamond Incense",
+    "c": "2023 · unisex",
+    "img": "p_6c94fc",
+    "d": "8.7 (67)",
+    "notes": [],
+    "s": "Unisex incense scent with a top score. Notes not confirmed.",
+    "w": [
+     "evening"
+    ]
+   },
+   {
+    "n": "White Regent Diamond",
+    "c": "2025 · unisex",
+    "img": "p_ae53e0",
+    "d": "8.7 (43)",
+    "notes": [],
+    "s": "Unisex, 2025. Notes not confirmed.",
+    "w": [
+     "everyday"
+    ]
+   },
+   {
+    "n": "Greek Tobacco",
+    "c": "gender not confirmed",
+    "img": "p_0923a1",
+    "d": "8.8 (34)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Mexican Tobacco",
+    "c": "2023",
+    "img": "p_7aefd1",
+    "d": "8.5 (40)",
+    "notes": [],
+    "s": "From Ibraq's tobacco collection. Notes not confirmed.",
+    "w": [
+     "evening",
+     "winter"
+    ]
+   },
+   {
+    "n": "Blue Oud",
+    "c": "2022 · gender not confirmed",
+    "img": "p_6ba866",
+    "d": "8.2 (61)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Nude Coral Diamond",
+    "c": "2024 · unisex",
+    "img": "p_66f0d3",
+    "d": "8.6 (22)",
+    "notes": [],
+    "s": "Unisex, 2024. Few ratings. Notes not confirmed.",
+    "w": [
+     "everyday"
+    ]
+   },
+   {
+    "n": "Spanish Tobacco",
+    "c": "2023 · gender not confirmed",
+    "img": "p_7980eb",
+    "d": "8.2 (52)",
+    "notes": [],
+    "s": "",
+    "w": []
+   }
+  ],
+  "women": [
+   {
+    "n": "French Tobacco",
+    "c": "Extrait · unisex",
+    "img": "frenchtob",
+    "d": "8.7 (258)",
+    "notes": [
+     "blood orange",
+     "green apple",
+     "tobacco",
+     "cinnamon",
+     "guaiac wood"
+    ],
+    "s": "Citrus and spiced tobacco with strong projection. Best for evenings and colder months.",
+    "insp": "Customers say it smells like LV Imagination",
+    "w": [
+     "evening",
+     "winter"
+    ]
+   },
+   {
+    "n": "Black Diamond Incense",
+    "c": "2023 · unisex",
+    "img": "p_6c94fc",
+    "d": "8.7 (67)",
+    "notes": [],
+    "s": "Unisex incense scent with a top score. Notes not confirmed.",
+    "w": [
+     "evening"
+    ]
+   },
+   {
+    "n": "White Regent Diamond",
+    "c": "2025 · unisex",
+    "img": "p_ae53e0",
+    "d": "8.7 (43)",
+    "notes": [],
+    "s": "Unisex, 2025. Notes not confirmed.",
+    "w": [
+     "everyday"
+    ]
+   },
+   {
+    "n": "Nude Coral Diamond",
+    "c": "2024 · unisex",
+    "img": "p_66f0d3",
+    "d": "8.6 (22)",
+    "notes": [],
+    "s": "Unisex, 2024. Few ratings. Notes not confirmed.",
+    "w": [
+     "everyday"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "assaf",
+  "name": "Assaf / Laverne",
+  "tag": "Saudi · Tobacco focus",
+  "note": "<b>Grouped like the store:</b> Assaf and Laverne share a row. Ezz Al Oud isn't on Parfumo, so it isn't covered. Ibraq now has its own row.",
+  "src": [
+   [
+    "Parfumo: Laverne",
+    "https://www.parfumo.com/Perfumes/laverne"
+   ],
+   [
+    "Parfumo: Assaf",
+    "https://www.parfumo.com/Perfumes/assaf"
+   ],
+   [
+    "Fragrance Engine: King Tobacco",
+    "https://matelier.homura.it.com/fragrances/laverne-king-tobacco"
+   ],
+   [
+    "Fragrantica (gender labels)",
+    "https://www.fragrantica.com/"
+   ]
+  ],
+  "men": [
+   {
+    "n": "Laverne King Tobacco",
+    "c": "2024 · unisex",
+    "img": "kingtob",
+    "d": "8.3 (61)",
+    "notes": [
+     "lavender",
+     "bergamot",
+     "honey",
+     "tobacco",
+     "vanilla"
+    ],
+    "s": "A sweet honey-tobacco fougère.",
+    "w": [
+     "winter",
+     "evening"
+    ]
+   },
+   {
+    "n": "Assaf Tobacco Jam 50",
+    "c": "EDP",
+    "img": "tobjam",
+    "d": "8.6 (26)",
+    "notes": [],
+    "s": "Assaf's best-rated popular scent, but only 23 ratings. Notes not confirmed.",
+    "w": [
+     "winter"
+    ]
+   }
+  ],
+  "women": [
+   {
+    "n": "Laverne King Tobacco",
+    "c": "2024 · unisex",
+    "img": "kingtob",
+    "d": "8.3 (61)",
+    "notes": [
+     "lavender",
+     "bergamot",
+     "honey",
+     "tobacco",
+     "vanilla"
+    ],
+    "s": "A sweet honey-tobacco fougère.",
+    "w": [
+     "winter",
+     "evening"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ardalzaafaran",
+  "name": "Ard Al Zaafaran",
+  "tag": "UAE · Budget oud",
+  "src": [
+   [
+    "Parfumo brand list",
+    "https://www.parfumo.com/Perfumes/Ard_Al_Zaafaran"
+   ],
+   [
+    "Perfume.com: Midnight Oud",
+    "https://www.perfume.com/al-zaafaran/ard-al-zaafaran-midnight-oud/men-cologne"
+   ],
+   [
+    "Fragrantica (gender labels)",
+    "https://www.fragrantica.com/"
+   ]
+  ],
+  "note": "<b>Lower scores:</b> this house's popular scents average 7.4 to 8.0, below most others here.",
+  "men": [
+   {
+    "n": "Shams Al Emarat Pink Blush",
+    "c": "2025 · unisex",
+    "img": "p_36b485",
+    "d": "8.2 (59)",
+    "notes": [],
+    "s": "Unisex and the house's best score. Notes not confirmed.",
+    "w": [
+     "everyday"
+    ]
+   },
+   {
+    "n": "Saheb Intense",
+    "c": "2024",
+    "img": "p_6e53ee",
+    "d": "8.1 (91)",
+    "notes": [],
+    "s": "Notes and gender not confirmed.",
+    "w": [
+     "evening"
+    ]
+   },
+   {
+    "n": "Liwan",
+    "c": "2024 · unisex",
+    "img": "p_b92c9a",
+    "d": "8.0 (145)",
+    "notes": [],
+    "s": "Unisex 2024 release. Notes not confirmed.",
+    "w": [
+     "everyday"
+    ]
+   },
+   {
+    "n": "Oud 24 Hours Majestic Gold",
+    "c": "",
+    "img": "p_09ecfa",
+    "d": "8.0 (129)",
+    "notes": [],
+    "s": "Notes and gender not confirmed.",
+    "w": [
+     "evening"
+    ]
+   },
+   {
+    "n": "Satwa",
+    "c": "2018",
+    "img": "p_768e00",
+    "d": "8.0 (104)",
+    "notes": [],
+    "s": "Labelled for men. Notes not confirmed.",
+    "w": [
+     "everyday"
+    ]
+   },
+   {
+    "n": "Tafakhar",
+    "c": "gender not confirmed",
+    "img": "p_fb5dc7",
+    "d": "8.0 (53)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Wafa",
+    "c": "gender not confirmed",
+    "img": "p_5a20ca",
+    "d": "7.9 (76)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Oud Muataq",
+    "c": "gender not confirmed",
+    "img": "p_998995",
+    "d": "7.9 (62)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Oud Al Sayad",
+    "c": "gender not confirmed",
+    "img": "p_0affb9",
+    "d": "7.8 (124)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Sheikh Al Oud",
+    "c": "gender not confirmed",
+    "img": "p_96f4e1",
+    "d": "7.7 (73)",
+    "notes": [],
+    "s": "",
+    "w": []
+   }
+  ],
+  "women": [
+   {
+    "n": "Mousuf",
+    "c": "women",
+    "img": "p_7b2b0d",
+    "d": "8.0 (141)",
+    "notes": [],
+    "s": "The best-rated women's Ard Al Zaafaran. Notes not confirmed.",
+    "w": [
+     "everyday"
+    ]
+   },
+   {
+    "n": "Bint Hooran",
+    "c": "women",
+    "img": "p_afa228",
+    "d": "8.0 (56)",
+    "notes": [],
+    "s": "Women's-labelled scent. Notes not confirmed.",
+    "w": [
+     "everyday"
+    ]
+   },
+   {
+    "n": "Shams Al Emarat Pink Blush",
+    "c": "2025 · unisex",
+    "img": "p_36b485",
+    "d": "8.2 (59)",
+    "notes": [],
+    "s": "Unisex and the house's best score. Notes not confirmed.",
+    "w": [
+     "everyday"
+    ]
+   },
+   {
+    "n": "Liwan",
+    "c": "2024 · unisex",
+    "img": "p_b92c9a",
+    "d": "8.0 (145)",
+    "notes": [],
+    "s": "Unisex 2024 release. Notes not confirmed.",
+    "w": [
+     "everyday"
+    ]
+   },
+   {
+    "n": "Midnight Oud",
+    "c": "EDP · unisex",
+    "img": "midnightoud",
+    "d": "7.6 (636)",
+    "notes": [
+     "oregano",
+     "pimento",
+     "olibanum",
+     "labdanum",
+     "oud",
+     "leather"
+    ],
+    "s": "Spicy, balsamic and smoky oud, 6 to 8 hours. For evenings and winter.",
+    "w": [
+     "winter",
+     "evening"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "reef",
+  "name": "Reef",
+  "tag": "Saudi · Oud",
+  "src": [
+   [
+    "Parfumo brand list",
+    "https://www.parfumo.com/Perfumes/Reef"
+   ],
+   [
+    "The Scent Base: Reef 33",
+    "https://thescentbase.com/perfumes/reef-perfumes/reef-33"
+   ],
+   [
+    "The Scent Base: Abaya Arabs",
+    "https://thescentbase.com/perfumes/reef-perfumes/abaya-arabs"
+   ],
+   [
+    "Fragrantica (gender labels)",
+    "https://www.fragrantica.com/"
+   ]
+  ],
+  "note": "<b>Small numbers:</b> Reef's scents have fewer than 80 ratings each, so this order could easily change.",
+  "men": [
+   {
+    "n": "Abaya",
+    "c": "2024",
+    "img": "p_c6e66e",
+    "d": "8.8 (28)",
+    "notes": [],
+    "s": "Top score in the house, but only 28 ratings. Notes and gender not confirmed.",
+    "w": [
+     "evening"
+    ]
+   },
+   {
+    "n": "Reef 33",
+    "c": "EDP",
+    "img": "reef33",
+    "d": "8.1 (74)",
+    "notes": [
+     "saffron",
+     "rosemary",
+     "oud"
+    ],
+    "s": "A simple saffron-oud. Leans masculine, 6 to 10 hours.",
+    "insp": "Similar to Gissah Imperial Valley",
+    "w": [
+     "evening",
+     "winter"
+    ]
+   },
+   {
+    "n": "AlUla",
+    "c": "unisex",
+    "img": "p_a0d84e",
+    "d": "8.7 (16)",
+    "notes": [],
+    "s": "Unisex. Only 16 ratings. Notes not confirmed.",
+    "w": [
+     "evening"
+    ]
+   },
+   {
+    "n": "Reef 21",
+    "c": "unisex",
+    "img": "p_93ca66",
+    "d": "8.4 (23)",
+    "notes": [],
+    "s": "Unisex. Only 23 ratings. Notes not confirmed.",
+    "w": [
+     "everyday"
+    ]
+   },
+   {
+    "n": "Arab Obaya",
+    "c": "Parfum",
+    "img": "obaya",
+    "d": "8.5 (11)",
+    "notes": [
+     "pineapple",
+     "leather",
+     "oud"
+    ],
+    "s": "Fruity leather-oud. Very few ratings so far.",
+    "w": [
+     "evening"
+    ]
+   },
+   {
+    "n": "Reef 31",
+    "c": "gender not confirmed",
+    "img": "p_7a4435",
+    "d": "8.3 (12)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Reef 33 White",
+    "c": "unisex",
+    "img": "p_f3af88",
+    "d": "8.0 (36)",
+    "notes": [],
+    "s": "Unisex version of Reef 33. Notes not confirmed.",
+    "w": [
+     "everyday"
+    ]
+   },
+   {
+    "n": "Bluest",
+    "c": "2024 · gender not confirmed",
+    "img": "p_889f2b",
+    "d": "8.3 (11)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Titan",
+    "c": "2024 · unisex",
+    "img": "p_dbba22",
+    "d": "8.1 (18)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Pesca",
+    "c": "2024 · unisex",
+    "img": "p_b182b1",
+    "d": "7.9 (27)",
+    "notes": [],
+    "s": "Unisex. Few ratings. Notes not confirmed.",
+    "w": [
+     "summer"
+    ]
+   }
+  ],
+  "women": [
+   {
+    "n": "AlUla",
+    "c": "unisex",
+    "img": "p_a0d84e",
+    "d": "8.7 (16)",
+    "notes": [],
+    "s": "Unisex. Only 16 ratings. Notes not confirmed.",
+    "w": [
+     "evening"
+    ]
+   },
+   {
+    "n": "Reef 21",
+    "c": "unisex",
+    "img": "p_93ca66",
+    "d": "8.4 (23)",
+    "notes": [],
+    "s": "Unisex. Only 23 ratings. Notes not confirmed.",
+    "w": [
+     "everyday"
+    ]
+   },
+   {
+    "n": "Reef 33 White",
+    "c": "unisex",
+    "img": "p_f3af88",
+    "d": "8.0 (36)",
+    "notes": [],
+    "s": "Unisex version of Reef 33. Notes not confirmed.",
+    "w": [
+     "everyday"
+    ]
+   },
+   {
+    "n": "Titan",
+    "c": "2024 · unisex",
+    "img": "p_dbba22",
+    "d": "8.1 (18)",
+    "notes": [],
+    "s": "",
+    "w": []
+   },
+   {
+    "n": "Pesca",
+    "c": "2024 · unisex",
+    "img": "p_b182b1",
+    "d": "7.9 (27)",
+    "notes": [],
+    "s": "Unisex. Few ratings. Notes not confirmed.",
+    "w": [
+     "summer"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "almajed",
+  "name": "Al Majed Oud",
+  "tag": "Kuwait · Small data",
+  "src": [
+   [
+    "Parfumo brand list",
+    "https://www.parfumo.com/Perfumes/al-majed-oud"
+   ],
+   [
+    "Parfumo Serious review",
+    "https://www.parfumo.com/Perfumes/al-majed-oud/serious/reviews/703565"
+   ],
+   [
+    "Fragrantica (gender labels)",
+    "https://www.fragrantica.com/"
+   ]
+  ],
+  "note": "<b>Small numbers:</b> only Serious has more than 25 ratings. No Al Majed scent is confirmed as women's or unisex, so the women's tab is empty.",
+  "men": [
+   {
+    "n": "Serious",
+    "c": "2026",
+    "img": "serious",
+    "d": "8.7 (79)",
+    "notes": [
+     "petitgrain",
+     "bergamot",
+     "ginger",
+     "dark tea",
+     "akigalawood"
+    ],
+    "s": "Airy tea and woods with very long wear and strong sillage. Likely polarising.",
+    "insp": "A reviewer compares it to Bois Impérial; a commenter disagrees",
+    "w": [
+     "office",
+     "everyday"
+    ]
+   },
+   {
+    "n": "Prestige Ruby",
+    "c": "",
+    "img": "p_bd45b9",
+    "d": "8.5 (22)",
+    "notes": [],
+    "s": "Only 22 ratings. Notes and gender not confirmed.",
+    "w": [
+     "evening"
+    ]
+   },
+   {
+    "n": "Noir",
+    "c": "",
+    "img": "p_358463",
+    "d": "8.6 (15)",
+    "notes": [],
+    "s": "Only 15 ratings. Notes and gender not confirmed.",
+    "w": [
+     "evening"
+    ]
+   },
+   {
+    "n": "Elbrince",
+    "c": "",
+    "img": "p_1ccf5d",
+    "d": "8.4 (14)",
+    "notes": [],
+    "s": "Only 14 ratings. Notes and gender not confirmed.",
+    "w": [
+     "evening"
+    ]
+   }
+  ],
+  "women": []
+ },
+ {
+  "id": "dkhan",
+  "name": "Dkhan",
+  "tag": "Kuwait · Unrated",
+  "src": [
+   [
+    "Parfumo brand list",
+    "https://www.parfumo.com/Perfumes/dkhan"
+   ]
+  ],
+  "note": "<b>Too new to rank:</b> Dkhan is a Kuwaiti house. Parfumo knows 16 of its scents, but only three have a rating, each from a single person, so nothing is ranked here. The range includes Kehl, Mashaer, Tabgh, Malaky, Aneeq, Leel, 1370, 3MQ, 3SHQ and 3BAQ (mostly in Intense versions), plus Hanin, Asassi, Musk Fruit and Musk Dkhan. Type any of them in the search box and use Look up.",
+  "men": [],
+  "women": []
+ },
+ {
+  "id": "faan",
+  "name": "Faan",
+  "tag": "New house · Small data",
+  "note": "<b>Too new to judge:</b> Faan's scents are mostly 2026 releases with about 10 ratings each, and none is confirmed as women's or unisex.",
+  "src": [
+   [
+    "Parfumo brand list",
+    "https://www.parfumo.com/Perfumes/faan"
+   ],
+   [
+    "Fragrantica (gender labels)",
+    "https://www.fragrantica.com/"
+   ]
+  ],
+  "men": [
+   {
+    "n": "Honour",
+    "c": "2026",
+    "img": "honour",
+    "d": "8.9 (10)",
+    "notes": [],
+    "s": "High score from only 7 ratings. Notes not confirmed.",
+    "w": [
+     "evening"
+    ]
+   },
+   {
+    "n": "Coral",
+    "c": "2026",
+    "img": "coral",
+    "d": "8.6 (11)",
+    "notes": [],
+    "s": "The most-rated Faan scent, from just 11 ratings. Notes not confirmed.",
+    "w": [
+     "everyday"
+    ]
+   }
+  ],
+  "women": []
+ },
+ {
+  "id": "nicheemarati",
+  "name": "Niche Emarati",
+  "tag": "Lattafa sub-line",
+  "note": "<b>Not rated separately:</b> Parfumo files Niche Emarati scents (Zikra, Al Dana, Hayaam, Durrah and others) under Lattafa, and their pages there didn't give reliable data. I've left this house without picks rather than guess.",
+  "src": [
+   [
+    "Parfumo: Lattafa",
+    "https://www.parfumo.com/Perfumes/Lattafa"
+   ]
+  ],
+  "men": [],
+  "women": []
+ }
+]

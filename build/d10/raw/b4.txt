@@ -1,0 +1,158 @@
+## xerjoff
+Naxos | 2015 | 8.9 | 14113 | 87/87c77f_naxos-xerjoff
+Alexandria II | 2012 | 8.6 | 7250 | be/be4590-alexandria-ii-parfum-xerjoff
+Erba Pura | 2013 | 7.4 | 7200 | fb/fb39cb_erba-pura-xerjoff
+40 Knots | 2012 | 8.5 | 6501 | 32/32fcfa-40-knots-xerjoff
+Torino21 | 2021 | 8.5 | 6379 | 75/75f8f1_torino21-xerjoff
+Accento | 2011 | 8.2 | 5481 | 46/46c1f7_accento-xerjoff
+Tony Iommi Monkey Special | 2021 | 8.3 | 4011 | 47/4745aa_tony-iommi-monkey-special-xerjoff
+Uden | 2009 | 8.6 | 3276 | 37/37a754-uden-xerjoff
+Renaissance | 2011 | 8.1 | 2832 | 08/088077-renaissance-xerjoff
+Erba Gold | 2016 | 8.2 | 2164 | 14/144b9b_erba-gold-xerjoff
+Opera | | 8.0 | 1987 | 8a/8a901b_opera-xerjoff
+Amber Star | 2013 | 8.6 | 1810 | fd/fdccd2-amber-star-xerjoff
+La Capitale | 2019 | 8.2 | 1745 | 2c/2c7c40-la-capitale-xerjoff
+Torino22 | 2022 | 8.2 | 1693 | b5/b5c8a5-torino22-xerjoff
+Richwood | 2010 | 8.4 | 1656 | 69/6922bc-richwood-xerjoff
+Accento Overdose | 2019 | 8.0 | 1505 | 57/5705a5_accento-overdose-xerjoff
+Uden Overdose | 2018 | 8.2 | 1393 | 2f/2f261d_uden-overdose-xerjoff
+Apollonia | 2019 | 8.0 | 1281 | 75/755681-apollonia-xerjoff
+Starlight | 2019 | 8.2 | 1217 | a4/a4ec76-starlight-xerjoff
+Fars | 2012 | 8.2 | 1217 | f3/f3ed29-fars-xerjoff
+## azzaro
+The Most Wanted Parfum | 2022 | 8.3 | 1847 | 91/910c89-the-most-wanted-parfum-azzaro
+The Most Wanted EDP Intense | 2021 | 8.0 | 1352 | 93/93509c-the-most-wanted-azzaro
+Wanted by Night | 2018 | 7.7 | 1301 | 21/21b72c-wanted-by-night-azzaro
+Azzaro pour Homme | 1978 | 7.6 | 1283 | 6c/6c3749-azzaro-pour-homme-eau-de-toilette-azzaro
+Chrome Eau de Toilette | 1996 | 6.9 | 841 | 2c/2cab35-chrome-eau-de-toilette-azzaro
+Wanted Eau de Toilette | 2016 | 6.4 | 659 | e7/e7f10d-wanted-eau-de-toilette-azzaro
+Forever Wanted Elixir | 2025 | 7.6 | 386 | 59/59affa_forever-wanted-azzaro
+Visit for Men | 2003 | 7.7 | 267 | c4/c4269b-visit-for-men-eau-de-toilette-azzaro
+Wanted Eau de Parfum | 2023 | 5.9 | 262 | 31/31e557-wanted-eau-de-parfum-azzaro
+The Most Wanted EDT Intense | 2024 | 7.0 | 261 | db/db178f-the-most-wanted-eau-de-toilette-intense-azzaro
+Chrome Extrême | 2020 | 7.7 | 219 | eb/eb7194-chrome-extreme-azzaro
+Azzaro pour Homme Intense | 2015 | 7.5 | 202 | bb/bbb5b8-azzaro-pour-homme-intense-azzaro
+Azzaro pour Homme Elixir | 2009 | 7.0 | 172 | 21/21d41e-azzaro-pour-homme-elixir-azzaro
+Azzaro Sport | 2020 | 7.1 | 166 | cb/cb806b-azzaro-sport-azzaro
+Chrome Legend | 2007 | 6.8 | 164 | a5/a52ab5-chrome-legend-azzaro
+Chrome Aqua | 2019 | 7.7 | 150 | 82/8265a6-chrome-aqua-azzaro
+Acteur | 1989 | 7.9 | 144 | 64/643e0e-acteur-eau-de-toilette-azzaro
+Azzaro pour Homme L'Eau | 2011 | 7.2 | 131 | 30/30d57b-azzaro-pour-homme-l-eau-azzaro
+Forever Wanted Absolu | 2026 | 7.0 | 129 | f8/f88782_forever-wanted-absolu-azzaro
+Eau Belle | 1995 | 7.6 | 108 | 07/07b882-eau-belle-eau-de-toilette-azzaro
+## burberry
+Goddess Eau de Parfum | 2023 | 7.8 | 1793 | 9a/9a81cd-goddess-eau-de-parfum-burberry
+London for Men | 2006 | 7.9 | 1297 | bb/bbd490-london-for-men-eau-de-toilette-burberry
+Her Eau de Parfum | 2018 | 7.2 | 1116 | f0/f0831c-her-eau-de-parfum-burberry
+Hero Eau de Parfum | 2022 | 7.3 | 840 | c2/c240cd-hero-eau-de-parfum-burberry
+Hero Eau de Toilette | 2021 | 7.1 | 689 | 18/18cc70-hero-eau-de-toilette-burberry
+Touch for Men | 2000 | 7.3 | 515 | 45/451df1-touch-for-men-eau-de-toilette-burberry
+Her Elixir de Parfum | 2022 | 7.4 | 493 | 67/67babc-her-elixir-de-parfum-burberry
+Brit for Women Eau de Parfum | 2003 | 7.3 | 445 | 04/049e71-brit-for-women-eau-de-parfum-burberry
+London for Women | 2006 | 7.4 | 426 | d1/d1bef1-london-for-women-burberry
+Body Eau de Parfum | 2011 | 7.1 | 424 | d0/d0a806-body-eau-de-parfum-burberry
+Brit for Him | 2004 | 7.2 | 409 | 1f/1f30e4-brit-for-him-eau-de-toilette-burberry
+Burberry for Men | 1995 | 7.7 | 358 | da/da7858-burberry-for-men-eau-de-toilette-burberry
+My Burberry Eau de Parfum | 2014 | 6.8 | 326 | 59/596236-my-burberry-eau-de-parfum-burberry
+Burberry for Women | 1995 | 7.5 | 318 | c0/c0c583_burberry-for-women-burberry
+Hero Parfum | 2024 | 7.5 | 312 | 30/300d2a-hero-parfum-burberry
+Goddess Eau de Parfum Intense | 2024 | 6.9 | 309 | 84/84f46c-goddess-eau-de-parfum-intense-burberry
+Brit Rhythm for Her | 2014 | 7.4 | 237 | 5c/5c0040-brit-rhythm-for-her-eau-de-toilette-burberry
+Her Eau de Toilette | 2022 | 7.6 | 235 | 23/2326f1_her-eau-de-toilette-burberry
+My Burberry Black | 2016 | 7.4 | 232 | 56/564d91-my-burberry-black-parfum-burberry
+The Beat Eau de Parfum | 2008 | 7.1 | 215 | a6/a6b47a-the-beat-eau-de-parfum-burberry
+Her Intense | 2019 | 7.4 | 191 | 9b/9b0847-her-intense-burberry
+Hero Parfum Intense | 2025 | 7.6 | 173 | 91/91be07_hero-parfum-intense-burberry
+Brit for Women Eau de Toilette | 2004 | 7.8 | 171 | 16/1639fd-brit-for-women-eau-de-toilette-burberry
+My Burberry Blush | 2017 | 7.2 | 141 | e8/e85baf-my-burberry-blush-burberry
+Brit Red | 2004 | 7.3 | 121 | 6c/6c5a30-brit-red-burberry
+Sport for Men | 2010 | 7.2 | 88 | 09/09749b-sport-for-men-eau-de-toilette-burberry
+Her London Dream | 2020 | 7.3 | 84 | 56/567b44-her-london-dream-eau-de-parfum-burberry
+## zara
+Sunrise on the Red Sand Dunes | 2023 | 8.0 | 3210 | 58/58a7da-sunrise-on-the-red-sand-dunes-eau-de-parfum-zara
+Rich/Warm/Addictive | 2016 | 7.8 | 1293 | 63/638721-rich-warm-addictive-eau-de-toilette-zara
+Sunrise on the Red Sand Dunes Intense | 2024 | 8.3 | 946 | 64/64c4b5_sunrise-on-the-red-sand-dunes-intense-zara
+Vetiver Pamplemousse | 2019 | 8.2 | 892 | a0/a039dd_zara-emotions-n-01-vetiver-pamplemousse-eau-de-parfum-zara
+Sand Desert at Sunset | 2023 | 8.0 | 851 | b3/b312a8-sand-desert-at-sunset-zara
+Vibrant Leather | 2018 | 7.7 | 719 | c8/c81315-vibrant-leather-2018-eau-de-parfum-zara
+WO/01 Somewoody | 2023 | 8.1 | 503 | 63/63bcfb-wo-01-somewoody-zara
+Ebony Wood | 2019 | 7.8 | 409 | 79/796fbd_zara-emotions-n-03-ebony-wood-eau-de-parfum-zara
+Absolutely Dark | 2023 | 7.7 | 407 | 81/81d5bd-absolutely-dark-zara
+Red Temptation | | 7.0 | 384 | 4d/4dac81-red-temptation-women-eau-de-parfum-zara
+9.0 | 2015 | 7.8 | 358 | 7a/7a837a-9-0-zara
+Sand Desert at Sunset Intense | 2024 | 8.4 | 354 | 76/76894b_sand-desert-at-sunset-intense-zara
+Intense/Dark/Exclusive | 2016 | 7.1 | 345 | e5/e5fce1-intense-dark-exclusive-zara
+Golden Decade | 2021 | 8.0 | 295 | eb/eb8624_golden-decade-eau-de-parfum-chapter-no-3-golden-decade-eau-de-parfum-zara
+Rose Gourmand | | 7.6 | 292 | 03/0349cd-rose-gourmand-women-zara
+N°04 Fashionably London | 2021 | 7.1 | 258 | e5/e5aca3_n-04-fashionably-london-zara
+N°06 Elegantly Tokyo | 2021 | 7.5 | 256 | fd/fd0407_n-06-elegantly-tokyo-zara
+Cherry Smoothie | | 7.0 | 256 | 86/862c10-cherry-smoothie-zara
+Waterlily Tea Dress | 2019 | 7.7 | 247 | 80/80ead6_zara-emotions-n-02-waterlily-tea-dress-eau-de-parfum-zara
+Warm Black | | 7.6 | 243 | 81/81b48e-warm-black-zara
+For Him Red Edition | | 7.4 | 221 | 2d/2daf84-for-him-red-edition-eau-de-parfum-zara
+Supreme Vanilla | 2023 | 7.6 | 211 | 77/77a63d-supreme-vanilla-zara
+Antique Brown | 2023 | 8.1 | 203 | 26/26abd6_antique-brown-zara
+Tender Amber | 2023 | 7.1 | 197 | de/de6a2c_tender-amber-zara
+Majestic Green | 2023 | 7.8 | 174 | b7/b70a7f-majestic-green-zara
+Bohemian Oud | | 8.1 | 164 | c5/c5f896-bohemian-oud-zara
+Applejuice | 2012 | 7.1 | 152 | 85/8520e1-zara-day-collection-05-applejuice-eau-de-toilette-zara
+Vanilla Vibration | 2023 | 8.0 | 148 | d2/d2af2d-vanilla-vibration-zara
+Bogoss Vibrant Leather | 2022 | 7.9 | 148 | b3/b37f65-bogoss-vibrant-leather-zara
+Irresistible/Magnetic/Delicious | 2024 | 7.6 | 137 | f1/f19e4b-vanilla-collection-01-irresistible-magnetic-delicious-zara
+N°04 Leather Jardin | 2021 | 7.7 | 136 | 81/814996_zara-exclusive-n-04-leather-jardin-zara
+Imperial Purple | 2023 | 7.8 | 133 | f8/f88905_imperial-purple-zara
+## creed
+Aventus | 2010 | 8.4 | 8757 | 66/66dd48_aventus-creed
+Virgin Island Water | 2007 | 8.3 | 3457 | 62/62ac86_virgin-island-water-creed
+Green Irish Tweed | 1985 | 8.1 | 2754 | 83/83153c_green-irish-tweed-creed
+Silver Mountain Water | 1995 | 7.9 | 2126 | 94/9402b3_silver-mountain-water-creed
+Royal Oud | 2011 | 8.2 | 2002 | e1/e1dabc_royal-oud-creed
+Viking | 2017 | 7.8 | 1848 | b6/b67a99_viking-creed
+Millésime Impérial | 1994 | 7.9 | 1643 | 01/01367b_millesime-imperial-creed
+Aventus Cologne | 2019 | 8.4 | 1588 | 57/579fc2_aventus-cologne-creed
+Absolu Aventus | 2023 | 8.5 | 1447 | 9c/9cd3f6_absolu-aventus-creed
+Himalaya | 2002 | 7.7 | 1266 | 19/191822_himalaya-creed
+Original Vetiver | 2004 | 8.0 | 1179 | c2/c22239_original-vetiver-creed
+Bois du Portugal | 1987 | 8.0 | 1088 | 4b/4bf7bd_bois-du-portugal-creed
+Original Santal | 2005 | 7.5 | 841 | e5/e57131_original-santal-creed
+Delphinus | 2024 | 8.1 | 763 | e2/e225b0_delphinus-creed
+Erolfa | 1992 | 7.4 | 686 | fe/fec840_erolfa-creed
+Aventus for Her | 2016 | 7.0 | 629 | 7f/7f6334_aventus-for-her-creed
+Sublime Vanille | 2009 | 8.2 | 616 | 59/599173_sublime-vanille-creed
+Centaurus | 2024 | 7.7 | 563 | b6/b65342_centaurus-creed
+Wild Vetiver | 2026 | 7.6 | 494 | 94/9401e1_wild-vetiver-creed
+Viking Cologne | 2021 | 7.4 | 490 | 9e/9ed1b8_viking-cologne-creed
+Spice and Wood | 2010 | 8.2 | 454 | 3c/3c3e5e-spice-and-wood-creed
+Royal Mayfair | 2009 | 7.8 | 453 | bb/bb625b-royal-mayfair-2009-windsor-creed
+Queen of Silk | 2024 | 7.2 | 433 | e9/e97f5d-queen-of-silk-creed
+Oud Zarian | 2025 | 7.4 | 427 | bf/bf0305_oud-zarian-creed
+Love In White | 2005 | 6.6 | 366 | 5b/5bcfb6-love-in-white-creed
+Carmina | 2023 | 7.2 | 335 | 14/141173-carmina-creed
+Tabarome Millésime | 2000 | 7.2 | 291 | 69/69fc15-tabarome-millesime-creed
+Wind Flowers | 2022 | 6.9 | 277 | 39/390193-wind-flowers-creed
+Neroli Sauvage | 1994 | 7.6 | 230 | 7a/7a0527-neroli-sauvage-creed
+Royal Princess Oud | 2015 | 7.5 | 227 | 77/77a862-royal-princess-oud-creed
+Jardin d'Amalfi | 2011 | 8.2 | 203 | 77/77acec-jardin-d-amalfi-creed
+Pure White Cologne | 2012 | 8.3 | 203 | 99/99314f-pure-white-cologne-creed
+Eladaria | 2025 | 7.1 | 182 | f9/f9e3b8_eladaria-creed
+Vetiver Geranium | 2014 | 7.7 | 158 | 3e/3ee066-vetiver-geranium-creed
+Fleurissimo | 1972 | 7.4 | 106 | 20/2008ef-fleurissimo-creed
+## jomalone2
+Orange Bitters | 2016 | 7.5 | 224 | 68/688156_orange-bitters-jo-malone
+Orange Blossom | 2003 | 7.5 | 221 | 70/70fdc4-orange-blossom-cologne-jo-malone
+Blue Agava & Cacao | 2006 | 7.6 | 215 | a0/a0446a_blue-agava-cacao-jo-malone
+English Pear & Sweet Pea | 2023 | 7.6 | 204 | e4/e49e65_english-pear-sweet-pea-cologne-jo-malone
+Vetiver & Golden Vanilla | 2020 | 7.8 | 198 | 4e/4e2bca-vetiver-golden-vanilla-jo-malone
+Jasmine Sambac & Marigold | 2018 | 7.8 | 193 | 8c/8caf2a-jasmine-sambac-marigold-jo-malone
+Red Roses | 1996 | 7.2 | 192 | 07/0763c6-red-roses-jo-malone
+Red Hibiscus | 2021 | 7.4 | 172 | 49/49c963-red-hibiscus-jo-malone
+Tuberose Angelica | 2014 | 7.8 | 146 | 23/23e93a-tuberose-angelica-jo-malone
+Honeysuckle & Davana | 2018 | 7.2 | 144 | 4a/4a7bf3-honeysuckle-davana-jo-malone
+Silver Birch & Lavender | 2020 | 7.2 | 130 | bf/bfbdf9-silver-birch-lavender-jo-malone
+Vanilla & Anise | 2009 | 7.4 | 128 | 68/6837da-vanilla-anise-jo-malone
+Beach Blossom | 2025 | 7.5 | 125 | 13/13c3fa_beach-blossom-jo-malone
+White Moss & Snowdrop | 2018 | 7.4 | 124 | de/dead0c-white-moss-snowdrop-jo-malone
+Fig & Lotus Flower | 2020 | 7.5 | 115 | 26/26c09d-fig-lotus-flower-jo-malone
+Amber Labdanum | 2025 | 7.6 | 113 | 06/063704_amber-labdanum-jo-malone
+Saffron | 2013 | 7.7 | 106 | fc/fc320c-saffron-jo-malone
+Yuzu Zest | 2020 | 7.7 | 103 | 0e/0ed2dc-yuzu-zest-yuja-jo-malone

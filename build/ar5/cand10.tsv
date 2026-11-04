@@ -1,0 +1,487 @@
+#house	name	rating	count	g	path	year
+rayhaan	Aquatica	8.3	914	m	4a/4a43cb_aquatica-rayhaan	2025
+rayhaan	Terra	8.3	623	m	ed/ed10bc_terra-rayhaan	2025
+rayhaan	Pacific Aura	7.9	353	m	e3/e3592d_pacific-aura-rayhaan	2025
+rayhaan	Lion	8.5	222	m	49/492342-lion-rayhaan	2024
+rayhaan	Obsidian	8.3	211	m	05/0544ad_obsidian-rayhaan	2025
+rayhaan	Tiger Cal Cologne Edition	8.1	174	m	22/2287e9_tiger-cal-cologne-edition-rayhaan	2024
+rayhaan	Italia	8.5	173	m	78/7835e1_italia-rayhaan	2025
+rayhaan	Vantage	8.3	151	u	e9/e9ce87_vantage-rayhaan	2026
+rayhaan	Jungle Vibe	7.9	150	u	07/07e92a_jungle-vibe-rayhaan	2025
+rayhaan	Crimson	7.8	147	m	dc/dcb2ff_crimson-rayhaan	2025
+rayhaan	Azul	8.0	127	m	60/6032ee_azul-rayhaan	2026
+rayhaan	Valhalla X Legion	8.4	108	m	ea/ea7a60_valhalla-x-legion-rayhaan	2025
+rayhaan	Cedrus Blanc	8.1	96	u	95/959c8d_cedrus-blanc-rayhaan	2026
+rayhaan	Rayhaan Elixir	7.8	94	u	b8/b8bd32-rayhaan-elixir-rayhaan	2024
+rayhaan	Adonis Icarus	8.2	94	m	67/67e99f_adonis-icarus-rayhaan	2025
+rayhaan	Tropical Vibe	7.7	94	u	44/44bcf2_tropical-vibe-rayhaan	2025
+rayhaan	Nocturno Elixir	7.9	85	m	36/368f6b_nocturno-elixir-rayhaan	2026
+rayhaan	Pharaoh	7.9	78	u	54/54ae8a_pharaoh-rayhaan	2026
+rayhaan	Nava Sol	7.9	77	u	97/978d9a_nava-sol-rayhaan	2026
+rayhaan	Tonquin Giza	7.5	75	u	e9/e943e1_tonquin-giza-rayhaan	2026
+rayhaan	Wolf	8.6	60	m	cb/cb66a9_wolf-rayhaan	2026
+rayhaan	Pacific Aloha	7.7	60	u	31/31d726_pacific-aloha-rayhaan	2026
+rayhaan	Corium	8.2	49	m	bc/bc4ef0-corium-rayhaan	2022
+rayhaan	Divine	7.4	49	f	bc/bcd216_divine-rayhaan	2025
+rayhaan	Imperia	7.9	48	m	ce/ce619c-imperia-rayhaan
+rayhaan	Kiss	6.8	43	f	54/544761_kiss-rayhaan	2025
+rayhaan	Equinox	8.6	20	u	68/6886ee_equinox-rayhaan	2026
+fa	Liquid Brun	8.4	2590	m	1a/1ab109_liquid-brun-french-avenue	2024
+fa	Royal Blend	8.6	362	u	36/363335_royal-blend-french-avenue	2023
+fa	Vulcan Feu	8.0	1211	u	88/886bbb_vulcan-feu-french-avenue	2025
+fa	Spectre Ghost	8.1	507	m	f6/f6ced8_spectre-ghost-french-avenue	2024
+fa	Amber Empire	8.2	563	m	ca/ca0647_amber-empire-french-avenue	2025
+fa	Royal Blend Nero	8.4	159	u	a8/a8bdf1_royal-blend-nero-french-avenue
+fa	Fierte	8.3	151	f	44/449026_fierte-french-avenue	2024
+fa	Baie	7.5	142	u	c9/c99a85_baie-french-avenue	2025
+fa	Miraj Absolu	8.4	142	f	eb/eb5589_miraj-absolu-french-avenue	2024
+fa	Arsh	8.1	137	u	41/4139e3_arsh-french-avenue	2024
+fa	Jasmere	8.3	135	u	2d/2d4894_jasmere-french-avenue	2026
+fa	Magnetiq	7.9	126	?	19/19a4aa_magnetiq-french-avenue	2025
+fa	Marmara	7.7	115	u	e3/e3d63d_marmara-french-avenue	2026
+fa	Carnal Desire	8.0	112	?	dd/dd88ad_aromatix-carnal-desire-french-avenue	2024
+fa	Ravine Ginger	8.0	104	u	e2/e20473_ravine-ginger-french-avenue	2026
+fa	Nomad	8.3	102	u	09/094000_nomad-french-avenue
+fa	Thunder	8.3	101	m	3a/3ae46f_thunder-french-avenue	2025
+fa	Zenith Santal	8.2	95	u	81/81a9a3_zenith-santal-french-avenue
+lattafa	Khamrah	7.9	4825	u	50/5085ab_khamrah-lattafa	2022
+lattafa	Oud for Glory	7.6	2724	u	f7/f7f6d1_oud-for-glory-lattafa
+lattafa	Liam	8.1	2566	u	dd/dd4a74-liam-lattafa	2023
+lattafa	Asad	7.6	2372	m	fa/fa86a6-asad-lattafa
+lattafa	Khamrah Qahwa	7.9	1770	u	e9/e963b2-khamrah-qahwa-lattafa	2023
+lattafa	Maahir Legacy	7.5	1557	m	08/0894c3-maahir-legacy-lattafa
+lattafa	Ameer Al Oudh Intense Oud	7.7	1266	u	31/312dd9-ameer-al-oudh-intense-oud-lattafa	2021
+lattafa	Eclaire	7.7	1231	f	98/98b2e4-eclaire-lattafa	2024
+lattafa	Teriaq Intense	8.3	808	u	e8/e82815-teriaq-intense-lattafa	2024
+lattafa	Yara	7.2	758	f	3a/3aa51f-yara-eau-de-parfum-lattafa	2020
+lattafa	Amethyst	7.6	733	u	33/33e2ab-amethyst-lattafa
+lattafa	Al Nashama Caprice	8.0	694	u	07/0741f7-al-nashama-caprice-lattafa	2023
+lattafa	His Confession	8.1	617	m	5c/5c4ddd-his-confession-lattafa	2024
+lattafa	Dynasty	7.9	596	u	bc/bc4a15_dynasty-lattafa	2025
+lattafa	Her Confession	7.7	534	f	19/19f2d5-her-confession-lattafa	2024
+lattafa	Ana Abiyedh Rouge	7.4	444	u	b4/b42d6c-ana-abiyedh-rouge-lattafa
+lattafa	Mayar	7.6	144	f	78/783f0e-mayar-lattafa
+lattafa	Yara Moi	6.6	159	f	a8/a853f8_yara-moi-eau-de-parfum-lattafa	2022
+aam	Kaaf	7.8	524	u	89/899ca2-kaaf-ahmed-al-maghribi	2022
+aam	Laathani	8.5	400	u	aa/aaccc1-laathani-ahmed-al-maghribi	2024
+aam	Ignite Oud	8.2	269	?	83/83b790-ignite-oud-ahmed-al-maghribi	2024
+aam	Marj	8.3	234	u	76/765dca-marj-eau-de-parfum-ahmed-al-maghribi	2022
+aam	Azure Royal	8.3	207	?	ea/ea6ab1-azure-royal-ahmed-al-maghribi
+aam	Summer Oud	8.4	128	u	9a/9a692a-summer-oud-ahmed-al-maghribi	2022
+aam	Bin Shaikh	8.4	107	u	71/71dcf9-bin-shaikh-ahmed-al-maghribi	2017
+aam	Aqua Oud	8.2	105	?	13/1340a2-aqua-oud-ahmed-al-maghribi
+aam	Blu Oud	8.3	74	?	23/235504-blu-oud-ahmed-al-maghribi
+aam	Ahl	8.1	48	u	4d/4d67db_ahl-ahmed-al-maghribi	2025
+gissah	Imperial Valley	8.4	297	u	52/52199a_imperial-valley-eau-de-parfum-gissah	2021
+gissah	Mavro	8.5	108	m	50/508fdb_mavro-gissah	2024
+gissah	La Luna	8.4	107	u	cd/cdea0f_la-luna-gissah	2023
+gissah	Capri	7.9	65	u	9a/9a658f_capri-gissah	2023
+gissah	Hudson Valley	8.1	59	u	a0/a078cd_hudson-valley-gissah	2020
+gissah	Akoya	8.5	55	u	26/26abf0_akoya-gissah	2024
+gissah	Sava	8.6	40	u	24/2476a1_sava-gissah	2021
+gissah	Tango	8.3	27	f	9a/9a76f6_tango-gissah	2025
+afnan	Turathi Blue	8.1	3998	m	cb/cbbcf5-turathi-blue-afnan-perfumes
+afnan	9pm	7.9	2462	m	8c/8cfb97-9pm-afnan-perfumes	2015
+afnan	Supremacy Collector's Edition	8.2	1420	m	0f/0f95f8-supremacy-collector-s-edition-afnan-perfumes	2024
+afnan	Supremacy Not Only Intense	8.1	1297	m	e3/e3d649-supremacy-not-only-intense-afnan-perfumes	2021
+afnan	Supremacy in Oud	8.0	603	u	dd/ddf26d-supremacy-in-oud-afnan-perfumes	2021
+afnan	9pm Night Out	8.2	305	u	cb/cb1111_9pm-night-out-afnan-perfumes	2026
+afnan	Turathi Brown	7.9	302	m	18/189d54-turathi-brown-afnan-perfumes
+afnan	Mystique Bouquet	7.7	209	f	6c/6c2984-mystique-bouquet-afnan-perfumes	2023
+afnan	Floral Bouquet	7.5	135	f	77/77f845-souvenir-floral-bouquet-afnan-perfumes	2020
+afnan	La Fleur Bouquet	7.7	118	f	c7/c766ab-la-fleur-bouquet-afnan-perfumes	2021
+afnan	Cherry Bouquet	8.0	92	f	8a/8a4ace-cherry-bouquet-afnan-perfumes	2024
+afnan	Tobacco Rush	8.4	61	u	c3/c3561f-tobacco-rush-afnan-perfumes	2022
+afnan	Modest Deux	8.2	51	f	ef/ef5b00-modest-deux-afnan-perfumes
+afnan	Delicious Bouquet	7.8	43	f	6b/6bd866_delicious-bouquet-afnan-perfumes	2025
+afnan	Blooming Bliss	8.1	37	f	cf/cf3548-souvenir-blooming-bliss-afnan-perfumes	2024
+afnan	Desert Rose	7.9	35	f	69/698b87-souvenir-desert-rose-afnan-perfumes	2020
+afnan	Supremacy Pink	7.3	76	f	0a/0a6c8d-supremacy-pink-afnan-perfumes
+hawas	Hawas for Him	7.7	2116	m	c5/c5b91e_hawas-for-him-rasasi	2015
+hawas	La Yuqawam pour Homme	8.0	1220	m	9e/9efa96-la-yuqawam-pour-homme-rasasi	2012
+hawas	Hawas Ice	7.8	1020	m	43/436fef-hawas-ice-rasasi	2023
+hawas	Fattan pour Homme	7.7	842	m	c9/c9b215-fattan-pour-homme-rasasi
+hawas	Hawas Black	7.8	614	m	66/66bff7-hawas-black-rasasi
+hawas	Hawas Kobra	8.2	472	m	7e/7e74ff_hawas-kobra-rasasi	2025
+hawas	Rumz Al Rasasi 9325 pour Lui	7.8	423	m	8f/8fd6a7-rumz-al-rasasi-9325-pour-lui-rasasi	2014
+hawas	Hawas Tropical	8.2	300	m	4d/4d635e_hawas-tropical-rasasi	2025
+hawas	Hawas Verde	8.4	241	m	68/68bc76_hawas-verde-rasasi
+hawas	La Yuqawam Ambergris Showers	7.9	236	m	ea/eac9cd-la-yuqawam-ambergris-showers-rasasi	2016
+hawas	Hawas Fire	7.8	207	u	9f/9f746b-hawas-fire-rasasi	2025
+hawas	Qasamat Ebhar	8.2	193	u	d0/d00e2b-qasamat-ebhar-rasasi
+hawas	Hawas Elixir	8.1	170	u	af/afdde6_hawas-elixir-rasasi	2024
+hawas	Hawas for Her	8.4	34	f	8a/8a22cb-hawas-for-her-rasasi	2015
+hawas	La Yuqawam pour Femme	7.6	14	f	65/65cca6-la-yuqawam-pour-femme-rasasi	2012
+haramain	Détour Noir	8.1	2834	u	3a/3a8f6c-detour-noir-al-haramain	2021
+haramain	Amber Oud Tobacco Edition	8.1	1183	u	f1/f1531c-amber-oud-tobacco-edition-al-haramain	2019
+haramain	L'Aventure	7.8	976	m	5d/5dd9de-l-aventure-al-haramain	2016
+haramain	Amber Oud Gold Edition	8.1	789	u	19/194d1f-amber-oud-gold-edition-al-haramain	2018
+haramain	Amber Oud Aqua Dubai	8.0	498	u	b4/b44b3b_haramain-amber-oud-aqua-dubai-al-haramain	2024
+haramain	Amber Oud Ruby Edition	7.7	233	u	e4/e49c07-amber-oud-ruby-edition-al-haramain	2022
+haramain	Junoon Noir	8.1	197	f	51/517dc7-junoon-noir-al-haramain
+haramain	Portfolio Neroli Canvas	8.2	183	u	ef/ef73d7-portfolio-neroli-canvas-al-haramain	2018
+haramain	Leather Oudh	7.9	143	f	96/96618a-leather-oudh-al-haramain
+haramain	Portfolio Royale Stallion	8.5	133	u	48/48bfca-portfolio-royale-stallion-al-haramain
+haramain	L'Aventure Intense	8.1	131	m	c9/c985ca-l-aventure-intense-al-haramain	2019
+haramain	Junoon Rose	7.7	104	f	66/66ee66-junoon-rose-al-haramain	2019
+haramain	Détour Eco	8.0	97	u	0b/0b6885-detour-eco-al-haramain	2024
+haramain	L'Aventure Femme	7.4	89	f	84/84525b-l-aventure-femme-al-haramain	2017
+armaf	Club de Nuit Intense Man	7.5	4338	m	f7/f7f71f-club-de-nuit-intense-man-eau-de-toilette-armaf	2015
+armaf	CDNIM Limited Edition	8.2	1424	m	82/82c24a-club-de-nuit-intense-man-limited-edition-armaf
+armaf	CDNIM Eau de Parfum	7.6	1270	m	fe/fe6cfe-club-de-nuit-intense-man-eau-de-parfum-armaf
+armaf	Club de Nuit Sillage	7.3	1139	u	87/875b56-club-de-nuit-sillage-eau-de-parfum-armaf	2020
+armaf	Club de Nuit Precieux I	8.3	565	u	ed/edb383_club-de-nuit-precieux-i-armaf	2024
+armaf	Craze	7.6	563	m	6c/6cf050_craze-eau-de-parfum-armaf
+armaf	Club de Nuit Intense Woman	7.9	473	f	66/66647f_club-de-nuit-intense-woman-armaf	2013
+armaf	Club de Nuit Untold	7.7	406	u	c3/c3d099_club-de-nuit-untold-armaf	2022
+armaf	Club de Nuit Urban Man Elixir	7.8	382	m	1a/1a03b7_club-de-nuit-urban-man-elixir-armaf	2022
+armaf	Odyssey Homme	7.9	366	m	29/290dff-odyssey-homme-armaf
+armaf	CDNIM Parfum	7.9	316	m	b1/b14dfc_club-de-nuit-intense-man-parfum-armaf
+armaf	Niche Oud	7.9	227	u	47/478955-armaf-niche-oud-armaf
+armaf	Club de Nuit Woman	7.6	202	f	dd/dd0fc1_club-de-nuit-woman-eau-de-parfum-armaf
+armaf	Radical Brown	8.0	180	?	53/53405d-radical-brown-armaf
+armaf	Yum Yum	7.1	29	u	72/723796-yum-yum-armaf
+alhambra	Hercules	8.4	450	u	06/065a8a_hercules-maison-alhambra	2022
+alhambra	Kismet Magic	8.3	403	u	81/81fed0_kismet-magic-maison-alhambra
+alhambra	Forbidden Love (Lovely Chérie)	8.2	321	u	53/53ffac_forbidden-love-lovely-cherie-maison-alhambra
+alhambra	Azure	8.3	238	u	bc/bc3b61_azure-maison-alhambra
+alhambra	Malachite	8.2	228	u	ae/ae9fdb_malachite-maison-alhambra
+alhambra	Immortel (Jean Lowe Immortal)	8.2	207	m	c7/c7d9d2_immortel-immortal-maison-alhambra
+alhambra	Dark Aoud (Woody Oud)	8.1	205	u	d9/d9844e_dark-aoud-woody-oud-maison-alhambra
+alhambra	Winsome (The Tux)	8.1	164	u	13/13a418_winsome-the-tux-maison-alhambra
+alhambra	Vibe	8.4	159	u	8b/8b83af_vibe-maison-alhambra
+alhambra	Centro	7.6	137	f	1d/1dbb23_centro-maison-alhambra
+alhambra	Cassius	8.3	126	f	8f/8f8354_cassius-maison-alhambra
+alhambra	Fusion Intense (Fabulo Intense)	8.0	122	u	e7/e7f503_fusion-intense-fabulo-intense-maison-alhambra
+alhambra	Jorge di Profumo	7.9	120	m	7c/7cc1bd_jorge-di-profumo-maison-alhambra
+alhambra	Fantasme	8.9	107	u	80/80e474_fantasme-maison-alhambra
+alhambra	True Word	8.5	106	u	a0/a0ff25_true-word-maison-alhambra
+alhambra	Delilah	7.3	96	f	97/976208_delilah-maison-alhambra
+swiss	Shaghaf Oud	7.5	2565	u	42/426b5c-shaghaf-oud-eau-de-parfum-swiss-arabian	2016
+swiss	Shaghaf Oud Tonka	8.3	1195	u	4d/4dea1a-shaghaf-oud-tonka-swiss-arabian	2023
+swiss	Shaghaf Oud Azraq	8.0	982	u	ed/edb121-shaghaf-oud-azraq-eau-de-parfum-swiss-arabian	2022
+swiss	Shaghaf Oud Ahmar	8.1	548	u	a9/a97735-shaghaf-oud-ahmar-eau-de-parfum-swiss-arabian	2023
+swiss	Casablanca	7.8	407	u	d9/d9cbfd-casablanca-eau-de-parfum-swiss-arabian	2016
+swiss	Shaghaf Oud Elixir	8.3	353	u	d7/d76c76-shaghaf-oud-elixir-swiss-arabian	2024
+swiss	Incense 01	8.2	220	u	78/78f7d9_incense-01-swiss-arabian	2025
+swiss	Tobacco 01	8.0	135	u	ea/eaa426-tobacco-01-swiss-arabian	2024
+swiss	Essence of Casablanca	8.5	135	u	5d/5d02e6-essence-of-casablanca-swiss-arabian	2023
+swiss	Dehn el Oud Mubarak	8.4	134	u	89/89f540-dehn-el-oud-mubarak-swiss-arabian
+swiss	Opulence of Dubai	8.4	99	u	2e/2e4ce8-opulence-of-dubai-swiss-arabian	2023
+swiss	Oud 07	8.3	90	u	c6/c689be-oud-07-swiss-arabian	2021
+arabianoud	Resala	8.4	431	u	f9/f9cea6-resala-arabian-oud	2018
+arabianoud	Madawi Gold Edition	8.7	354	u	8d/8d0a85-madawi-40-years-gold-edition-arabian-oud	2022
+arabianoud	Kalemat	8.1	316	u	ec/ec1b1d_kalemat-arabian-oud
+arabianoud	Amiri	8.7	269	u	2f/2f0a15-amiri-arabian-oud	2020
+arabianoud	Sultani	8.6	267	m	be/be3aee_sultani-arabian-oud	2020
+arabianoud	Tarteel Silver	8.8	205	m	d3/d3f2df-tarteel-silver-arabian-oud	2017
+arabianoud	Majestic Woody Intense	8.7	187	u	c7/c79dab-majestic-woody-intense-arabian-oud
+arabianoud	Zumorod	8.9	157	u	9d/9d350e-zumorod-arabian-oud	2024
+arabianoud	Al Fareed	8.7	135	m	d0/d047eb-al-fareed-arabian-oud	2020
+arabianoud	Madawi	8.5	134	f	b5/b550b8-madawi-eau-de-parfum-arabian-oud	2017
+arabianoud	Taraf	8.8	77	u	59/598efe-taraf-arabian-oud	2023
+khadlaj	Shiyaaka Silver	8.0	912	m	40/40ecbf-shiyaaka-silver-khadlaj	2019
+khadlaj	Island Dreams	7.7	319	u	56/5676d9_island-dreams-khadlaj	2025
+khadlaj	Island	8.1	255	u	8d/8d1f48-island-khadlaj	2024
+khadlaj	Karus Gold Absolu	8.9	145	u	f3/f359f5_karus-gold-absolu-khadlaj	2026
+khadlaj	Empire Victor	8.2	134	u	ad/ad69b2-empire-victor-khadlaj	2024
+khadlaj	Fursan White	7.8	124	f	96/96b5a3-fursan-white-khadlaj	2024
+khadlaj	Cream Velvet	8.2	117	u	c7/c74100-cream-velvet-khadlaj	2024
+khadlaj	Island Vanilla Dunes	8.2	116	u	47/4723a1_island-vanilla-dunes-khadlaj	2025
+khadlaj	Oud Noir	8.1	108	u	46/463a3a-oud-noir-khadlaj
+khadlaj	Panache Angel Dust	8.4	87	f	3b/3b66b8_panache-angel-dust-khadlaj	2026
+khadlaj	Azure Velvet	8.6	74	u	c3/c38cb7_azure-velvet-khadlaj	2025
+khadlaj	Empire Crown	8.6	74	u	49/4902e7-empire-crown-khadlaj	2024
+pariscorner	Rifaaqat	8.1	675	u	c7/c7649f_rifaaqat-paris-corner
+pariscorner	Marshmallow Blush	8.1	273	u	5d/5db6bc_marshmallow-blush-paris-corner	2025
+pariscorner	Minya	8.0	254	u	28/28ad59_minya-paris-corner	2024
+pariscorner	Khair Felicity	7.9	202	f	72/724ecc_khair-felicity-paris-corner	2025
+pariscorner	Khair Confection	7.7	173	f	6f/6f8c1e_khair-confection-paris-corner	2024
+pariscorner	Mysterium	7.9	157	m	4e/4e3c04_mysterium-paris-corner	2025
+pariscorner	Molten Caramel	8.2	155	u	6c/6caed4_molten-caramel-paris-corner	2025
+pariscorner	December Vanilla	7.8	124	u	0e/0e5cb5_december-vanilla-paris-corner	2023
+pariscorner	Farah	8.2	113	u	9f/9ffdf8_farah-paris-corner	2025
+pariscorner	Qissa Delicious	7.9	104	f	40/40f26f_qissa-delicious-paris-corner	2024
+pariscorner	Khair Fusion	7.9	86	u	b1/b14eb8_khair-fusion-paris-corner	2024
+pariscorner	Dulzura	7.6	60	f	bc/bc0dca_dulzura-paris-corner	2025
+fw	Creme of Clouds	7.8	108	u	6e/6e09e0_creme-of-clouds-fragrance-world	2025
+fw	Soir	8.4	102	u	7a/7a8876_soir-fragrance-world	2024
+fw	Star Men Nebula	8.0	79	?	07/074dca_star-men-nebula-fragrance-world
+fw	Jack	8.3	66	?	eb/eb42f5_jack-fragrance-world	2024
+fw	Tabac n' Coke	7.9	55	?	a5/a553a7_tabac-n-coke-fragrance-world	2025
+fw	Colosseum	8.0	53	?	12/12d2b0_colosseum-fragrance-world	2026
+fw	Notes Jazz	8.0	52	?	a1/a102aa_notes-jazz-fragrance-world	2025
+fw	Olfactory - Music Fest	8.4	52	?	d9/d99d44_olfactory-music-fest-fragrance-world
+mykonos	Imperium (Empire)	8.6	89	u	52/52ca1b_imperium-mykonos-x-rrq-empire-mykonos	2026
+mykonos	Dreamscape	8.4	46	u	c5/c5fdbf_dreamscape-mykonos	2025
+mykonos	Inception	8.3	43	u	50/50b824_inception-mykonos	2025
+mykonos	Reflection Elixir	8.5	38	?	44/44b844_reflection-elixir-mykonos	2026
+mykonos	Reflection	8.3	38	u	aa/aae34b_reflection-mykonos	2025
+mykonos	Nautilus	8.8	28	u	e9/e9ad19_nautilus-mykonos	2026
+ibraq	French Tobacco	8.7	258	u	ae/aecb2d-french-tobacco-ibraheem-al-qurashi
+ibraq	Black Diamond Incense	8.7	67	u	6c/6c94fc-black-diamond-incense-ibraheem-al-qurashi	2023
+assaf	Laverne King Tobacco	8.3	61	u	f4/f4494f-king-tobacco-laverne
+ibraq	Blue Oud	8.2	61	?	6b/6ba866-blue-oud-ibraheem-al-qurashi	2022
+ibraq	Spanish Tobacco	8.2	52	u	79/7980eb-tobacco-collection-spanish-tobacco-ibraheem-al-qurashi	2023
+ibraq	White Regent Diamond	8.7	43	u	ae/ae53e0-white-regent-diamond-ibraheem-al-qurashi	2025
+ibraq	Mexican Tobacco	8.5	40	?	7a/7aefd1-tobacco-collection-mexican-tobacco-ibraheem-al-qurashi	2023
+assaf	Assaf Tobacco Jam 50	8.6	26	?	d7/d7d777_tobacco-jam-50-assaf
+ibraq	Nude Coral Diamond	8.6	22	u	66/66f0d3-nude-coral-diamond-ibraheem-al-qurashi	2024
+ardalzaafaran	Midnight Oud	7.6	636	u	e7/e7171f-midnight-oud-eau-de-parfum-ard-al-zaafaran
+ardalzaafaran	Oud 24 Hours	7.6	189	?	1d/1dfd83-oud-24-hours-eau-de-parfum-ard-al-zaafaran
+ardalzaafaran	Al Dirgham	7.7	178	?	1c/1c1e7c-al-dirgham-ard-al-zaafaran
+ardalzaafaran	Liwan	8.0	145	u	b9/b92c9a-liwan-ard-al-zaafaran	2024
+ardalzaafaran	Mousuf	8.0	141	f	7b/7b2b0d-mousuf-eau-de-parfum-ard-al-zaafaran
+ardalzaafaran	Oud 24 Hours Majestic Gold	8.0	129	?	09/09ecfa-oud-24-hours-majestic-gold-ard-al-zaafaran
+ardalzaafaran	Satwa	8.0	104	m	76/768e00-satwa-ard-al-zaafaran	2018
+ardalzaafaran	Saheb Intense	8.1	91	?	6e/6e53ee-saheb-intense-ard-al-zaafaran	2024
+ardalzaafaran	Shams Al Emarat Pink Blush	8.2	59	u	36/36b485_shams-al-emarat-khususi-pink-blush-ard-al-zaafaran	2025
+ardalzaafaran	Bint Hooran	8.0	56	f	af/afa228-bint-hooran-eau-de-parfum-ard-al-zaafaran
+reef	Reef 33	8.1	74	?	6a/6ae86b-reef-33-eau-de-parfum-reef
+reef	Reef 33 White	8.0	36	u	f3/f3af88-reef-33-white-reef
+reef	Abaya	8.8	28	?	c6/c6e66e-abaya-reef	2024
+reef	Pesca	7.9	27	u	b1/b182b1-pesca-reef	2024
+reef	Reef 21	8.4	23	u	93/93ca66-reef-21-eau-de-parfum-reef
+reef	AlUla	8.7	16	u	a0/a0d84e-alula-reef
+almajed	Serious	8.7	79	?	25/25e231_serious-al-majed-oud	2026
+almajed	Prestige Ruby	8.5	22	?	bd/bd45b9-prestige-ruby-al-majed-oud
+almajed	Noir	8.6	15	?	35/358463_noir-al-majed-oud
+almajed	Elbrince	8.4	14	?	1c/1ccf5d-elbrince-al-majed-oud
+faan	Coral	8.6	11	?	32/32b1fc_coral-faan	2026
+faan	Honour	8.9	10	?	cd/cda387_honour-faan	2026
+lattafa	Qaed Al Fursan	7.6	1269	u	35/353d81-qaed-al-fursan-lattafa	2016
+lattafa	Ana Abiyedh	7.5	1212	u	4b/4ba7da-ana-abiyedh-eau-de-parfum-lattafa	
+lattafa	Honor & Glory	7.5	1177	u	b4/b4d650-honor-glory-lattafa	2023
+lattafa	Raghba	7.6	949	u	6e/6ecec4-raghba-lattafa	
+lattafa	Fakhar Men	7.5	912	m	41/41d344-fakhar-lattafa-men-lattafa	
+lattafa	Qaed Al Fursan Unlimited	7.1	585	?	31/31e515-qaed-al-fursan-unlimited-lattafa	
+lattafa	Ramz Lattafa Silver	7.9	574	?	6e/6e0981-ramz-lattafa-silver-lattafa	2021
+lattafa	Qaa'ed	7.8	570	?	c0/c0f194-qaa-ed-lattafa	2018
+lattafa	Oud Mood	7.6	564	?	c7/c74479-oud-mood-eau-de-parfum-lattafa	
+lattafa	Ana Abiyedh Poudrée	7.8	563	?	14/14a55b-ana-abiyedh-poudree-lattafa	
+lattafa	Angham	8.4	562	u	a0/a0d8d1-angham-lattafa	2024
+lattafa	Opulent Oud	7.7	534	?	ca/ca2d11-opulent-oud-lattafa	2018
+lattafa	Nasheet	8.0	512	?	59/59dea8_nasheet-lattafa	2023
+lattafa	Atlas	7.5	472	?	d7/d7c2cf-atlas-lattafa	2023
+lattafa	Confidential Private Gold	7.7	471	?	62/626c0e-confidential-private-gold-lattafa	2020
+lattafa	The Kingdom for Men	8.2	451	m	a5/a5a363-the-kingdom-for-men-lattafa	
+lattafa	Khamrah Dukhan	7.9	412	m	20/20ff3d_khamrah-dukhan-lattafa	2025
+lattafa	Asad Bourbon	7.7	403	?	d4/d4cda7-asad-bourbon-lattafa	2024
+lattafa	Teriaq	7.4	374	?	b1/b132bf-teriaq-lattafa	2024
+lattafa	Asad Elixir	8.3	360	?	a5/a56f13_asad-elixir-elixir-lattafa	2025
+lattafa	Victoria	7.8	337	?	d9/d9f1dc_victoria-lattafa	2025
+rayhaan	Nocturno	6.7	21	m	79/79d277_nocturno-rayhaan	2025
+rayhaan	Pacific	7.3	39	?	01/0115c4-pacific-rayhaan	
+rayhaan	Wood Noir	7.7	22	?	2d/2d546a-wood-noir-rayhaan	2023
+rayhaan	Dark Leather	7.7	20	?	c1/c1fd5b-dark-leather-rayhaan	2022
+fa	Spectre Wraith	7.1	121	m	98/987b19_spectre-wraith-french-avenue	2024
+fa	Forbidden Fruit	7.8	120	?	9f/9f3e45_forbidden-fruit-french-avenue	2025
+fa	Sun Kissed	7.9	111	?	48/48906a_sun-kissed-french-avenue	2025
+fa	Frostbite	7.8	106	?	3a/3a7b31_frostbite-french-avenue	2025
+fa	X Xandal	7.7	126	?	68/684b95_x-xandal-french-avenue	2025
+fa	Lumière Garçon	7.7	91	u	ae/aebc3f_lumiere-garcon-french-avenue	2024
+afnan	Supremacy Silver	7.7	326	m	a3/a34ae4-supremacy-silver-afnan-perfumes	2013
+afnan	9pm Rebel	7.7	314	u	e5/e514e0-9pm-rebel-afnan-perfumes	2024
+afnan	9am Dive	7.3	271	u	85/8505a0-9am-dive-afnan-perfumes	2022
+afnan	Supremacy Incense	7.6	259	m	be/be2818-supremacy-incense-afnan-perfumes	
+afnan	Supremacy in Heaven	7.3	204	m	d0/d07d87_supremacy-in-heaven-afnan-perfumes	2018
+afnan	Rare Carbon	7.5	190	m	fc/fc3e8a-rare-carbon-afnan-perfumes	
+afnan	9pm Elixir	7.8	160	u	08/0857c8_9pm-elixir-afnan-perfumes	2025
+afnan	Rare Reef	7.7	402	u	84/8441ad_rare-reef-afnan-perfumes	2025
+afnan	Turathi Electric	7.6	341	u	5c/5cca84_turathi-electric-afnan-perfumes	2025
+afnan	Freedom	8.1	111	m	eb/eb66b8_freedom-afnan-perfumes	2025
+afnan	Supremacy Noir	7.5	97	u	6a/6ade59-supremacy-noir-afnan-perfumes	
+afnan	Pure Musk	7.7	78	u	e0/e06798-pure-musk-afnan-perfumes	
+afnan	Sahara	7.6	72	u	b1/b1205a_sahara-afnan-perfumes	2025
+afnan	Kiaana Angel	7.6	43	f	b4/b41fa0-kiaana-angel-afnan-perfumes	2024
+afnan	9am pour Femme	7.1	37	f	36/368d1d-9am-pour-femme-afnan-perfumes	2022
+afnan	9am	7.2	68	f	90/90c13e_9am-afnan-perfumes	2015
+afnan	Highness VI	8.1	37	m	85/8563e3-highness-vi-afnan-perfumes	
+hawas	Daarej pour Homme	7.5	1035	m	31/31133b-daarej-pour-homme-rasasi	
+hawas	Shuhrah pour Homme	7.4	522	m	e7/e7e957-shuhrah-pour-homme-rasasi	2015
+hawas	Tasmeem Men	7.2	361	m	d2/d2d9c4-tasmeem-men-rasasi	
+hawas	Entebaa pour Homme	7.7	244	m	e6/e6f096-entebaa-pour-homme-rasasi	
+hawas	Oudh al Misk	7.0	183	u	b6/b6e1e2-oudh-al-misk-rasasi	
+hawas	Faqat Lil Rijal	7.6	140	m	90/903886-faqat-lil-rijal-rasasi	
+hawas	Hawas London	7.8	118	u	73/7311b2_hawas-london-rasasi	
+hawas	Egra for Men	7.6	105	m	db/db5c44-egra-for-men-rasasi	
+hawas	Qasamat Morhaf	7.7	104	?	ee/eec7e8-qasamat-morhaf-rasasi	
+hawas	Hawas Malibu	8.1	100	u	05/05fdd2_hawas-malibu-rasasi	2025
+hawas	Rumz Al Rasasi 9325 pour Elle	7.5	100	f	d5/d53e9f-rumz-al-rasasi-9325-pour-elle-rasasi	2014
+hawas	La Yuqawam Jasmine Wisp	7.0	99	f	ef/ef3a5f-la-yuqawam-jasmine-wisp-rasasi	2016
+hawas	Rumz Al Rasasi 9453 pour Lui	7.7	93	m	b8/b8e92b-rumz-al-rasasi-9453-pour-lui-rasasi	2015
+hawas	Hawas Sapphire	8.1	80	?	a5/a5cb85_hawas-sapphire-sapphire-rasasi	2026
+hawas	Hawas Nautilus	8.2	77	?	5e/5e2cca_hawas-nautilus-nautilus-rasasi	2026
+hawas	Nebras Al Ishq Noor	8.9	76	?	88/8890c5-nebras-al-ishq-noor-rasasi	2018
+hawas	Qasamat Rasana	8.1	74	?	36/36b1f9-qasamat-rasana-rasasi	
+haramain	Excellent Men	7.2	182	m	d0/d0d4e2-excellent-men-al-haramain	
+haramain	Amber Oud Dubai Night	7.9	143	m	3d/3d7697-amber-oud-dubai-night-al-haramain	2024
+haramain	Black Oudh	7.8	129	u	e8/e805be-black-oudh-al-haramain	
+haramain	L'Aventure Knight	7.4	115	m	b8/b80eb1-l-aventure-knight-al-haramain	
+haramain	Junoon	7.5	73	f	43/4385d7-junoon-al-haramain	2016
+haramain	Amber Oud Rouge	8.5	64	u	46/469d7b-amber-oud-rouge-al-haramain	
+haramain	Junoon Oud	8.3	59	?	8d/8de611-junoon-oud-al-haramain	2022
+haramain	L'Aventure Blanche	6.9	58	f	c2/c22ab2-l-aventure-blanche-al-haramain	
+haramain	Amber Oud Black Edition	8.3	49	?	ea/ea389f-amber-oud-black-edition-al-haramain	
+haramain	Platinum Oud	7.9	49	?	67/677bca-platinum-oud-al-haramain	2021
+armaf	Club de Nuit Iconic	7.5	413	m	65/653de2_club-de-nuit-iconic-armaf	
+armaf	Odyssey Homme White Edition	7.8	178	m	dc/dc31e0-odyssey-homme-white-edition-armaf	
+armaf	Club de Nuit Impériale	8.0	204	?	29/29ccc0_club-de-nuit-imperiale-armaf	
+armaf	Legesi Men	7.8	169	m	a6/a62edb_legesi-men-eau-de-parfum-armaf	
+armaf	Hunter Killer	8.2	135	?	97/97b861-hunter-killer-armaf	2023
+armaf	Aura Fresh	8.0	106	?	de/de0bdc-aura-fresh-armaf	
+armaf	Tag-Her	7.5	93	f	c2/c2ca7a-tag-her-eau-de-parfum-armaf	
+armaf	Odyssey Aqua	7.8	92	?	72/72aa57-odyssey-aqua-armaf	2023
+armaf	CDNIM Extrait de Parfum	8.6	83	m	3f/3fb232_club-de-nuit-intense-man-extrait-de-parfum-armaf	2025
+armaf	Infinity Silver	8.6	82	?	da/da9c57-infinity-silver-armaf	2024
+armaf	Futura La Homme	7.9	74	m	62/624dbe-futura-la-homme-armaf	
+alhambra	Opus Noir	7.6	121	u	f7/f7c176_opus-noir-maison-alhambra	
+alhambra	Pacific Blue (Porto Neroli)	7.8	114	u	4a/4a0cec_pacific-blue-porto-neroli-maison-alhambra	
+alhambra	Perseus	7.1	86	m	47/47d4c0_perseus-maison-alhambra	
+alhambra	Pura	7.2	82	u	02/0269da_pura-maison-alhambra	
+alhambra	Smoky	8.0	79	?	e4/e4ba90_smoky-maison-alhambra	
+alhambra	Infini Musk	7.9	74	?	43/43bea2_infini-musk-maison-alhambra	
+alhambra	Reyna	7.9	65	f	58/58faa4_reyna-maison-alhambra	
+alhambra	Dark Door Intense	8.4	64	?	8d/8d2913_dark-door-intense-maison-alhambra	
+alhambra	Jean Lowe Noir	8.0	59	?	ad/ade23f_jean-lowe-noir-maison-alhambra	
+alhambra	Athena	8.2	58	f	70/706189_athena-maison-alhambra	
+alhambra	Delilah Blanc	7.9	56	f	81/810695_delilah-blanc-maison-alhambra	
+alhambra	Ébène	8.8	52	u	13/1329e3_ebene-maison-alhambra	
+alhambra	Carrot Cake	8.0	51	f	ba/ba25a0_carrot-cake-maison-alhambra	2025
+alhambra	Exclusif Tabac	8.1	49	?	d8/d8783b_exclusif-tabac-maison-alhambra	
+swiss	Shaghaf Oud Abyad	7.6	509	u	03/0354b0-shaghaf-oud-abyad-swiss-arabian	
+swiss	Shaghaf Oud Aswad	7.6	351	u	76/76d1f6-shaghaf-oud-aswad-swiss-arabian	
+swiss	Shawq	7.2	203	u	35/3580ac-shawq-swiss-arabian	
+swiss	Shaghaf Men	7.2	192	m	26/26406b-shaghaf-for-men-swiss-arabian	
+swiss	Shaghaf Oud Royale	7.7	147	u	9c/9c9d72-shaghaf-oud-royale-swiss-arabian	2023
+swiss	Soul of Bali	7.8	89	u	06/06d3f2_soul-of-bali-swiss-arabian	2025
+swiss	Attar al Ghutra	7.8	88	m	3d/3d34cd_attar-al-ghutra-swiss-arabian	2014
+arabianoud	Blue Oud	8.2	137	?	ac/acae33_blue-oud-arabian-oud	
+arabianoud	Aseel Special Edition	8.7	112	?	d3/d36c77-aseel-special-edition-arabian-oud	
+arabianoud	Arabian Knight Silver	8.2	96	?	9f/9ff2d8-arabian-knight-silver-arabian-oud	
+arabianoud	Jabal Tamya	8.9	88	?	3c/3c031f-arabian-blend-jabal-tamya-arabian-oud	
+arabianoud	Diwan	8.4	87	?	e4/e4bbcc-diwan-arabian-oud	
+arabianoud	Royal Oud	9.1	80	?	a2/a29efd-royal-oud-arabian-oud	
+arabianoud	Rosewood	8.5	77	?	01/01a980-rosewood-eau-de-parfum-arabian-oud	
+arabianoud	Majestic Special Oud	8.2	70	?	f5/f5a29b-majestic-special-oud-arabian-oud	
+khadlaj	Shiyaaka Snow	7.4	247	u	19/199d3e_shiyaaka-snow-snow-khadlaj	2025
+khadlaj	Caffé Latte	7.6	119	u	57/572884-caffe-latte-khadlaj	2024
+khadlaj	Shiyaaka Sky	7.9	115	m	08/0813a1_shiyaaka-sky-khadlaj	2026
+khadlaj	Stellar Musk	7.6	115	u	2d/2d2fdc-stellar-musk-khadlaj	
+khadlaj	Shiyaaka Blue	7.6	110	m	ce/ce2533-shiyaaka-blue-khadlaj	
+khadlaj	Shiyaaka Shadow	7.9	98	m	91/917e03_shiyaaka-shadow-khadlaj	2025
+khadlaj	Karus Blu Spice	7.6	82	m	85/856c4d-karus-blu-spice-khadlaj	2024
+khadlaj	Sawaar Vanille Blanc	8.4	75	u	45/45b2b8_sawaar-vanille-blanc-khadlaj	2025
+khadlaj	Rose Couture	8.7	37	f	87/8797b6-rose-couture-khadlaj	
+khadlaj	Musk pour Amber	7.5	35	f	c4/c4a7d6-musk-pour-amber-khadlaj	2024
+khadlaj	Karus Amber Gold	8.3	38	?	bc/bce386-karus-amber-gold-khadlaj	2024
+khadlaj	Lé Prestige Empress	8.3	37	?	94/944d31-le-prestige-empress-khadlaj	
+khadlaj	Titan	8.4	30	?	a3/a3a1a6_titan-khadlaj	2025
+pariscorner	Taskeen Lactéa Divina	7.6	202	u	96/96321a_taskeen-lactea-divina-paris-corner	2024
+pariscorner	Khair Pistachio	7.3	180	u	2b/2beb97_khair-pistachio-paris-corner	2023
+pariscorner	Ibisco Nirvana	7.6	69	u	55/55748c_ibisco-nirvana-paris-corner	2024
+pariscorner	Mango Bliss	7.8	62	u	6c/6ca9c5_mango-bliss-paris-corner	2024
+pariscorner	Perseviron Fig Hug	8.0	61	u	35/3550bc_perseviron-fig-hug-paris-corner	2025
+pariscorner	Rifaaqat Adorn	7.8	55	u	41/414a0e_rifaaqat-adorn-paris-corner	2024
+pariscorner	Date Caramel	7.4	54	u	58/58b73b_date-caramel-paris-corner	2025
+fw	Tabac n' Coke	7.9	55	?	a5/a553a7_tabac-n-coke-fragrance-world	2025
+fw	Vanilla	7.9	55	?	8c/8c31a0_vanilla-fragrance-world	2025
+fw	Cocktail Intense	8.0	47	?	f6/f67f7e_cocktail-intense-fragrance-world	
+fw	Varakh Silver	7.7	46	?	af/af79e4_varakh-silver-fragrance-world	2024
+fw	Tragedy	8.2	37	?	ff/fff2b2_tragedy-fragrance-world	
+fw	Elysia Vanilla Sugar	8.9	30	f	14/142028_vanilla-sugar-fragrance-world	2025
+fw	Hibiscus Magic	7.8	29	?	01/01a99f_hibiscus-magic-fragrance-world	2024
+fw	Harmony Code Absolute	8.3	28	?	18/1865ca_harmony-code-absolute-fragrance-world	
+mykonos	Slow Living	8.1	33	?	12/121393-slow-living-eau-de-parfum-mykonos	2024
+mykonos	Sorrento	8.1	29	?	3d/3dc3f4_sorrento-mykonos	2025
+mykonos	Conquer	8.3	22	?	94/94dc92_conquer-mykonos	2026
+mykonos	Glitch	8.4	20	?	25/25759c_glitch-mykonos	2025
+mykonos	Bonfire Vanilla	8.2	15	?	ce/cec100-bonfire-vanilla-mykonos	2022
+mykonos	Untamed	8.0	14	?	56/566c21_untamed-mykonos	2026
+ibraq	Arabian Tobacco	8.0	40	u	63/63da32-arabian-tobacco-ibraheem-al-qurashi	
+ibraq	Cullinan Diamond Iris	8.0	35	?	16/167432-cullinan-diamond-iris-ibraheem-al-qurashi	2023
+ibraq	Greek Tobacco	8.8	34	?	09/0923a1-greek-tobacco-ibraheem-al-qurashi	
+ibraq	Brazilian Tobacco	8.2	33	?	b2/b222dc-brazilian-tobacco-ibraheem-al-qurashi	
+ibraq	Emerald Soul Diamond	8.1	27	?	76/7630d3-emerald-soul-diamond-ibraheem-al-qurashi	2024
+ibraq	Cuban Tobacco	8.1	25	?	72/723d31-tobacco-collection-cuban-tobacco-ibraheem-al-qurashi	2023
+ibraq	Jamaican Tobacco	8.2	25	?	34/34d178-tobacco-collection-jamaican-tobacco-ibraheem-al-qurashi	2023
+ibraq	Dominican Tobacco	8.0	22	u	82/8211e9-dominican-tobacco-ibraheem-al-qurashi	2023
+assaf	Laverne Blue Laverne Bakhur	8.3	20	?	0e/0ed4ee-blue-laverne-bakhur-laverne	
+ardalzaafaran	Desert Sultan Sapphire	7.4	149	?	f7/f72884-desert-sultan-sapphire-ard-al-zaafaran	
+ardalzaafaran	Oud Al Sayad	7.8	124	?	0a/0affb9-oud-al-sayad-ard-al-zaafaran	
+ardalzaafaran	Wafa	7.9	76	?	5a/5a20ca-wafa-ard-al-zaafaran	
+ardalzaafaran	Sheikh Al Oud	7.7	73	?	96/96f4e1-sheikh-al-oud-ard-al-zaafaran	
+ardalzaafaran	Oud Muataq	7.9	62	?	99/998995-oud-muataq-ard-al-zaafaran	
+ardalzaafaran	Tafakhar	8.0	53	?	fb/fb5dc7-tafakhar-ard-al-zaafaran	
+ardalzaafaran	Dirham Wardi	7.5	68	?	58/589565_dirham-wardi-eau-de-parfum-ard-al-zaafaran	
+reef	Titan	8.1	18	u	db/dbba22-titan-reef	2024
+reef	Aurum	7.8	16	?	e6/e66979_aurom-reef	2025
+reef	Summer Yellow	7.7	13	?	9a/9a4c99-summer-yellow-reef	2024
+reef	Reef 31	8.3	12	?	7a/7a4435-reef-31-31-reef	
+reef	Bluest	8.3	11	?	88/889f2b-bluest-reef	2024
+reef	Volcano	8.0	11	?	44/44a20d-volcano-reef	2024
+reef	Arab Obaya	8.5	11	?	9d/9d963f-arab-obaya-reef	
+reef	Reef 29	7.5	11	?	29/29ce8a-reef-29-29-eau-de-parfum-reef	
+almajed	Sea	8.2	9	?	f6/f64dcd-sea-al-majed-oud	2023
+gissah	Siena Valley	8.1	14	u	ad/adfa5a_siena-valley-gissah	2025
+gissah	Legend of Valleys Imperial II	8.8	11	u	9f/9fb752_legend-of-valleys-imperial-ii-gissah	2022
+gissah	Calabria	8.2	11	u	df/dfe139_calabria-gissah	2021
+gissah	Helen Legacy	9.2	10	u	79/792a9a_helen-legacy-gissah	2025
+aam	Green Pearl	7.8	71	?	94/944914-green-pearl-ahmed-al-maghribi	
+aam	Oud Lavender	8.1	67	?	d9/d96ef4-oud-lavender-ahmed-al-maghribi	
+aam	Amiri	8.2	65	?	f4/f4497c-amiri-ahmed-al-maghribi	
+aam	Kaaf Noir	7.9	62	?	68/68b148_kaaf-noir-ahmed-al-maghribi	
+aam	Oud & Roses	7.7	59	u	dd/ddd089_oud-roses-eau-de-parfum-ahmed-al-maghribi	
+aam	Blue	7.6	52	?	17/179f05-blue-ahmed-al-maghribi	
+aam	Joud	8.4	46	?	ce/cebee9-joud-ahmed-al-maghribi	
+aam	Black Fume	8.5	45	?	5e/5e8224_black-fume-ahmed-al-maghribi	
+aam	Royal Cherry	7.6	37	?	a7/a7eb9a-royal-cherry-ahmed-al-maghribi	
+aam	Kawkab	8.1	34	?	db/db0a15_kawkab-ahmed-al-maghribi	2025
+aam	Ighra'a	8.6	32	m	5b/5bb7b4-ighra-a-ahmed-al-maghribi	
+riiffs	Momento	8.4	414	u	33/33f505_momento-riiffs	2025
+riiffs	Freeze	6.7	171	u	80/803342_freeze-riiffs	2025
+riiffs	Fareed	8.2	151	m	1f/1fd33a_fareed-riiffs	2026
+riiffs	Portofino Noir	8.4	112	m	c5/c563e9-portofino-noir-riiffs	
+riiffs	Zenith	7.7	110	u	46/4656c9_zenith-riiffs	2026
+riiffs	Aswaar	8.8	82	u	b4/b47f9f_aswaar-riiffs	2026
+riiffs	Seasons Drift	7.7	70	f	68/68521f_seasons-drift-riiffs	2025
+riiffs	Noor	8.4	48	u	71/7196ee_noor-riiffs	2025
+riiffs	Taif	8.2	46	u	5f/5f96ce_taif-riiffs	2026
+riiffs	Fleurie Emerald	8.4	43	f	53/5329d6_fleurie-emerald-riiffs	2025
+riiffs	Tahira	7.2	31	u	0f/0f4edd_tahira-riiffs	
+riiffs	Freeze in Flames	7.8	30	u	9b/9b4e32_freeze-in-flames-riiffs	2026
+riiffs	Ciao Pour Femme	8.3	30	f	58/583e74-ciao-riiffs	
+riiffs	Seasons Rise	7.9	28	u	2f/2f7b16_seasons-rise-riiffs	2025
+riiffs	Incense Gold	8.0	28	?	a2/a249ab-incense-gold-riiffs	
+riiffs	Veloce	9.0	27	u	47/47fabe_veloce-riiffs	2026
+riiffs	Golden Elixir Reserve	8.6	24	u	a5/a5ada5_golden-elixir-reserve-riiffs	2025
+riiffs	Elegant Homme	8.8	24	m	94/944612-elegant-homme-riiffs	
+riiffs	Momento Liquid Gold	8.8	22	u	54/54fda2_momento-liquid-gold-riiffs	2026
+riiffs	Privé Essence Blue	8.2	21	m	a3/a33d3a_prive-blue-riiffs	2025
+riiffs	Avant Garde	8.5	12	m	c2/c2427a-avant-garde-riiffs	
+riiffs	Celesto Turquoise	8.3	10	m	60/603937-celesto-turquoise-riiffs	
+ibraq	Blue Diamond Aqua	7.4	25	u	43/439c7a-blue-diamond-aqua-ibraheem-al-qurashi	2023
+ibraq	Sapphire Leather	7.5	21	?	19/19b8ed-sapphire-leather-ibraheem-al-qurashi	
+ibraq	Black Carbon Diamond	9.0	18	u	44/444166-black-carbon-diamond-ibraheem-al-qurashi	2025
+ibraq	Vicuña	9.1	18	?	ba/baf16c_vicuna-ibraheem-al-qurashi	2025
+ibraq	Malayan	8.7	16	?	d1/d114fb_malayan-ibraheem-al-qurashi	2025
+zimaya	Sharaf Blend	8.4	1124	u	6a/6a7478-sharaf-blend-zimaya	2023
+zimaya	Fatima	7.8	191	?	c7/c7df17-fatima-zimaya	
+zimaya	Awatif pour Homme	8.4	190	m	db/db4c74_awatif-pour-homme-zimaya	
+zimaya	Impulse Oud	8.2	145	m	a1/a10868-impulse-oud-zimaya	2023
+zimaya	Mazaaj Infused	7.6	144	m	ef/ef28ad-mazaaj-infused-zimaya	
+zimaya	Stallion	7.6	113	m	56/56fc8c-stallion-zimaya	2023
+zimaya	Reverie Aqua	8.5	88	m	6d/6de9a9_reverie-aqua-pour-homme-zimaya	2025
+zimaya	Tiramisu Coco	8.0	88	u	cc/cc15b8-tiramisu-coco-zimaya	2024
+zimaya	Sharaf Divine	8.3	87	u	af/af24bb_sharaf-divine-zimaya	2025
+zimaya	Inekas Luna	8.6	83	m	9a/9ac8e3-inekas-luna-zimaya	
+zimaya	Taraf (White)	8.0	80	?	9b/9b561e-taraf-white-zimaya	
+zimaya	Sharaf The Club	7.5	73	m	c8/c8de41-sharaf-the-club-zimaya	2023
+zimaya	Mazaaj Rhythm	7.9	67	u	96/962eeb_mazaaj-rhythm-rhythm-zimaya	2025
+zimaya	Royal Paragon	8.2	66	u	12/1228f8-royal-paragon-zimaya	2023
+zimaya	Tiramisu Caramel	7.7	65	?	8a/8ac414-tiramisu-caramel-zimaya	2024
+zimaya	Ghyoom	7.8	63	m	32/32cd56-ghyoom-zimaya	
+zimaya	Reserved Black Cedar	7.9	61	u	e7/e72711-reserved-black-cedar-zimaya	2024
+zimaya	Wujood	7.8	54	?	71/71c872-wujood-zimaya	
+zimaya	Brave Heart	7.2	53	m	d2/d23c90-brave-heart-zimaya	2023
+zimaya	Ramsh Diva	8.2	52	f	65/650d77_ramsh-diva-zimaya	2025

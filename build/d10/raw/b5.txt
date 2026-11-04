@@ -1,0 +1,71 @@
+## jomalone
+Wood Sage & Sea Salt | 2014 | 8.1 | 2011 | ee/ee5667-wood-sage-sea-salt-cologne-jo-malone
+Myrrh & Tonka | 2017 | 8.0 | 1362 | 4a/4a026f-myrrh-tonka-jo-malone
+English Pear & Freesia | 2010 | 7.1 | 767 | 4e/4e08ec-english-pear-freesia-cologne-jo-malone
+Scarlet Poppy | 2021 | 8.0 | 628 | 86/867eea-scarlet-poppy-jo-malone
+Blackberry & Bay | 2012 | 7.8 | 613 | bd/bd6d58-blackberry-bay-cologne-jo-malone
+Peony & Blush Suede | 2013 | 7.3 | 459 | 79/795118-peony-blush-suede-cologne-jo-malone
+Oud & Bergamot | 2010 | 7.6 | 452 | b8/b8d4e5-oud-bergamot-jo-malone
+Mimosa & Cardamom | 2015 | 7.7 | 434 | 45/458af0-mimosa-cardamom-cologne-jo-malone
+Velvet Rose & Oud | 2012 | 7.8 | 432 | ef/efbe43-velvet-rose-oud-cologne-intense-jo-malone
+Lime Basil & Mandarin | 1991 | 7.0 | 423 | 5b/5bb053-lime-basil-mandarin-cologne-jo-malone
+Nectarine Blossom & Honey | 2005 | 7.4 | 405 | 82/82a066-nectarine-blossom-honey-cologne-jo-malone
+Dark Amber & Ginger Lily | 2008 | 7.6 | 370 | d2/d2f4dc-dark-amber-ginger-lily-jo-malone
+Ginger Biscuit | 2013 | 7.8 | 354 | 90/90a495-ginger-biscuit-jo-malone
+Wild Bluebell | 2011 | 7.3 | 346 | 37/37200c-wild-bluebell-cologne-jo-malone
+Pomegranate Noir | 2005 | 6.9 | 315 | 7a/7ac95d-pomegranate-noir-cologne-jo-malone
+Cypress & Grapevine | 2020 | 7.5 | 308 | 5c/5cca84-cypress-grapevine-jo-malone
+Hinoki & Cedarwood | 2024 | 7.9 | 299 | 73/73a872-hinoki-cedarwood-jo-malone
+English Oak & Hazelnut | 2017 | 7.7 | 234 | 5b/5bf084-english-oak-hazelnut-jo-malone
+Earl Grey & Cucumber | 2011 | 7.4 | 227 | 04/043c32-earl-grey-cucumber-jo-malone
+Poppy & Barley | 2018 | 7.4 | 224 | 09/09f4f3-poppy-barley-jo-malone
+## lelabo
+Santal 33 | 2011 | 7.3 | 1612 | 81/818cc5-santal-33-eau-de-parfum-le-labo
+Thé Noir 29 | 2015 | 8.1 | 1228 | 30/3002f5-the-noir-29-eau-de-parfum-le-labo
+AnOther 13 | 2010 | 7.5 | 1224 | 3c/3cd55f-another-13-eau-de-parfum-le-labo
+Bergamote 22 | 2006 | 7.9 | 801 | cb/cbdc98-bergamote-22-eau-de-parfum-le-labo
+Thé Matcha 26 | 2021 | 7.9 | 705 | 4a/4abca5-the-matcha-26-le-labo
+Rose 31 | 2006 | 7.5 | 432 | 76/761a95-rose-31-eau-de-parfum-le-labo
+Baie 19 | 2019 | 7.6 | 396 | 51/5113ea-baie-19-eau-de-parfum-le-labo
+Labdanum 18 | 2006 | 7.6 | 274 | a8/a8107d-labdanum-18-ciste-18-eau-de-parfum-le-labo
+Gaiac 10 | 2008 | 8.1 | 259 | 3d/3d2b2c-gaiac-10-le-labo
+Patchouli 24 | 2006 | 6.8 | 248 | b8/b8ee15-patchouli-24-eau-de-parfum-le-labo
+Lys 41 | 2013 | 7.5 | 218 | bd/bdd659_lys-41-eau-de-parfum-le-labo
+Tonka 25 | 2018 | 7.2 | 217 | cb/cbe8be-tonka-25-eau-de-parfum-le-labo
+Vetiver 46 | 2006 | 7.5 | 203 | 03/0386c3-vetiver-46-eau-de-parfum-le-labo
+Ylang 49 | 2013 | 6.9 | 188 | 42/42533a-ylang-49-eau-de-parfum-le-labo
+Neroli 36 | 2006 | 6.8 | 173 | 6a/6ac004-neroli-36-eau-de-parfum-le-labo
+Lavande 31 | 2023 | 7.4 | 172 | 40/40b15b-lavande-31-le-labo
+Fleur d'Oranger 27 | 2006 | 7.2 | 158 | 65/6506d7-fleur-d-oranger-27-eau-de-parfum-le-labo
+Eucalyptus 20 | 2025 | 7.4 | 153 | 41/41c790-eucalyptus-20-le-labo
+Jasmin 17 | 2006 | 7.3 | 135 | 2c/2c7ccd-jasmin-17-eau-de-parfum-le-labo
+Vanille 44 | 2007 | 7.8 | 123 | b1/b161c0-vanille-44-le-labo
+Iris 39 | 2006 | 7.0 | 122 | 32/326681-iris-39-eau-de-parfum-le-labo
+Violette 30 | 2026 | 7.7 | 92 | e3/e3d6fd_violette-30-le-labo
+Tabac 28 | 2019 | 8.0 | 91 | 65/65aa76-tabac-28-le-labo
+Musc 25 | 2008 | 8.0 | 87 | eb/eb1b98-musc-25-le-labo
+Mousse de Chêne 30 | 2017 | 8.0 | 86 | 10/108b70-mousse-de-chene-30-le-labo
+Cedrat 37 | 2021 | 7.9 | 82 | 9f/9ff044-cedrat-37-le-labo
+Baie Rose 26 | 2010 | 7.8 | 64 | cf/cff392-baie-rose-26-le-labo
+Myrrhe 55 | 2023 | 7.6 | 61 | d0/d0d32e-myrrhe-55-le-labo
+## versace
+Eros Eau de Toilette | 2012 | 7.5 | 4876 | 6f/6f25f5-eros-eau-de-toilette-versace
+Dylan Blue | 2016 | 7.6 | 4703 | cd/cd27ed-versace-pour-homme-dylan-blue-eau-de-toilette-versace
+Eros Flame | 2018 | 7.7 | 2944 | fb/fb76fd-eros-flame-versace
+Versace pour Homme | 2008 | 7.8 | 2217 | f8/f80a72-versace-pour-homme-eau-de-toilette-versace
+The Dreamer | 1996 | 7.6 | 2211 | af/af3f53-the-dreamer-eau-de-toilette-versace
+Eros Eau de Parfum | 2020 | 7.7 | 1907 | cb/cb01df-eros-eau-de-parfum-versace
+Blue Jeans | 1994 | 6.8 | 1890 | 53/53f1cc-blue-jeans-versace
+Versace Man Eau Fraîche | 2005 | 7.5 | 1604 | 36/361733-versace-man-eau-fraiche-eau-de-toilette-versace
+Eros Energy | 2024 | 7.5 | 1573 | ab/ab6668-eros-energy-versace
+Crystal Noir Eau de Parfum | 2004 | 8.0 | 951 | 61/612d9d-crystal-noir-eau-de-parfum-versace
+Oud Noir | 2013 | 7.8 | 931 | 80/80d488-versace-pour-homme-oud-noir-versace
+Versense | 2009 | 7.8 | 866 | ab/ab6bbe-versense-versace
+Crystal Noir Eau de Toilette | 2004 | 7.5 | 749 | 34/349f45-crystal-noir-eau-de-toilette-versace
+Eros Parfum | 2021 | 8.1 | 742 | f9/f92e8e-eros-parfum-versace
+Bright Crystal | 2006 | 6.6 | 693 | 81/81642f-bright-crystal-eau-de-toilette-versace
+Versace L'Homme | 1984 | 7.5 | 499 | 1b/1be969-versace-l-homme-eau-de-toilette-versace
+Dylan Blue pour Femme | 2017 | 7.2 | 403 | 2a/2a58bf-versace-pour-femme-dylan-blue-versace
+Dylan Purple | 2022 | 7.6 | 392 | d9/d9071d-versace-pour-femme-dylan-purple-eau-de-parfum-versace
+Eros Najim | 2024 | 7.4 | 378 | cb/cb27ec-eros-najim-versace
+Yellow Diamond | 2011 | 6.6 | 337 | 5c/5cb425-yellow-diamond-versace

@@ -27,6 +27,7 @@ G = {
  'tommy': dict(d='m', F=["Tommy Girl","Hilfiger Woman Peach Blossom","Hilfiger Woman","Loud for Her","Hilfiger Woman Flower Violet","Hilfiger Woman Pear Blossom","Eau de Prep Tommy Girl"]),
  'jc': dict(d='f', M=["Man Ice","Man Eau de Toilette","Man Blue","Man Aqua","Man Intense","Urban Hero"]),
  'gb': dict(d='u'),
+ 'margiela': dict(d='u', F=["Lipstick On","Flower Market","Beach Walk","Funfair Evening"]),
  'versace': dict(d='m', F=["Crystal Noir Eau de Parfum","Versense","Crystal Noir Eau de Toilette","Bright Crystal","Dylan Blue pour Femme","Dylan Purple","Yellow Diamond"]),
 }
 def gender(brand,name):

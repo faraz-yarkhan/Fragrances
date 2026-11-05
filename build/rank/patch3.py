@@ -178,6 +178,9 @@ def patch(f,coll):
         if b['id'] in NOTES:
             if NOTES[b['id']] is None: b.pop('note',None)
             else: b['note']=NOTES[b['id']]
+    import sys;sys.path.insert(0,S+'rank')
+    if coll=='d':
+        from houses_extra import fix_d;B=fix_d(B);NH=len(B)
     if coll=='a':
         import sys;sys.path.insert(0,S+'rank');from houses_extra import fix;B=fix(B);NH=len(B)
     s=s[:i+8]+json.dumps(B,ensure_ascii=False)+s[j:]
@@ -186,7 +189,7 @@ def patch(f,coll):
     s=rep(s,'</label>\n  <nav class="index"','</label>'+LOOKUP_HTML+'\n  <nav class="index"')
     i=s.find('function render(){');j=s.find('\n}\n',i)+2
     s=s[:i]+RENDER+s[j:]
-    s=re.sub(r'<div class="eyebrow">Top 10 per tab · ',r'<div class="eyebrow">Every rated scent, ranked · ',s);s=re.sub(r'· \d+ houses · Middle',f'· {NH} houses · Middle',s) if coll=='a' else s
+    s=re.sub(r'<div class="eyebrow">Top 10 per tab · ',r'<div class="eyebrow">Every rated scent, ranked · ',s);s=re.sub(r'· \d+ houses ·',f'· {NH} houses ·',s,count=1)
     lede=("Switch between men's and women's, then tap a house to see every scent from it that has a Parfumo rating, ranked from best to worst. "
           "Ratings are Parfumo community scores out of 10, with the number of ratings in brackets. Scores from only a few ratings are pulled towards the average, so a 9.0 from 10 people doesn't outrank an 8.5 from 400. "
           "Men's tabs show men's and unisex scents, and women's tabs show women's and unisex, so the two overlap. "

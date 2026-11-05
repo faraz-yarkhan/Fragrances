@@ -67,3 +67,44 @@ Tiffany for Men Cologne | 1989 | 8.2 | 76 | 0d/0ddef4-tiffany-for-men-cologne-ti
 Tiffany & Co. Sheer | 2018 | 7.2 | 74 | 77/777be0-tiffany-co-sheer-tiffany-co
 Tiffany Eau de Parfum | 1987 | 7.6 | 41 | e1/e1634f-tiffany-eau-de-parfum-tiffany-co
 Tiffany & Co. Rose Gold Intense | 2023 | 6.3 | 36 | 5e/5e9dfb-tiffany-co-rose-gold-intense-tiffany-co
+## margiela
+By the Fireplace | 2015 | 7.9 | 4433 | bb/bb736c-by-the-fireplace-maison-margiela
+Jazz Club | 2013 | 7.8 | 3650 | c0/c05630-jazz-club-maison-margiela
+Lazy Sunday Morning Eau de Toilette | 2013 | 7.1 | 1232 | de/de61bf-lazy-sunday-morning-eau-de-toilette-maison-margiela
+Beach Walk | 2012 | 7.1 | 1175 | 04/047878-beach-walk-maison-margiela
+Whispers in the Library | 2019 | 7.9 | 846 | cb/cb85ff-whispers-in-the-library-maison-margiela
+Sailing Day | 2017 | 6.9 | 744 | ec/ec760c-sailing-day-maison-margiela
+Under the Lemon Trees | 2018 | 7.3 | 719 | 5c/5c0e82-under-the-lemon-trees-maison-margiela
+Bubble Bath | 2020 | 6.8 | 688 | c8/c8449d-bubble-bath-maison-margiela
+Coffee Break | 2019 | 7.4 | 658 | 62/62c6cc-coffee-break-maison-margiela
+Autumn Vibes | 2021 | 6.8 | 651 | 88/88fa27-autumn-vibes-maison-margiela
+When the Rain Stops | 2022 | 6.9 | 621 | c4/c4bca1-when-the-rain-stops-maison-margiela
+At the Barber's | 2014 | 7.5 | 555 | ce/ce1258-at-the-barber-s-maison-margiela
+From the Garden | 2023 | 7.1 | 504 | 26/262e65-from-the-garden-maison-margiela
+(untitled) | 2010 | 7.6 | 477 | 3b/3b94fe-untitled-maison-margiela
+On a Date | 2022 | 6.5 | 475 | 76/76a365-on-a-date-maison-margiela
+Lipstick On | 2015 | 7.8 | 435 | 93/93388f-lipstick-on-maison-margiela
+Matcha Meditation | 2021 | 6.8 | 413 | 9e/9e1e11-matcha-meditation-maison-margiela
+Soul of the Forest | 2016 | 7.6 | 391 | 92/926bcb-soul-of-the-forest-maison-margiela
+Never-ending Summer | 2025 | 7.4 | 362 | b4/b43688_never-ending-summer-maison-margiela
+Afternoon Delight | 2024 | 6.3 | 329 | 6b/6b47f2-afternoon-delight-maison-margiela
+Springtime in a Park | 2019 | 6.8 | 306 | e8/e8dbae-springtime-in-a-park-maison-margiela
+(untitled) l'eau | 2011 | 7.7 | 303 | 0b/0b27d4-untitled-l-eau-maison-margiela
+Under the Stars | 2023 | 6.7 | 231 | f3/f3e546-under-the-stars-maison-margiela
+Flower Market | 2012 | 6.7 | 229 | 8c/8c607b-flower-market-maison-margiela
+Music Festival | 2017 | 7.2 | 185 | 48/4885ae-music-festival-maison-margiela
+Chasing Sunsets | 2026 | 7.3 | 182 | fc/fc382c_chasing-sunsets-maison-margiela
+Mutiny | 2018 | 7.1 | 149 | b7/b7a7fe-mutiny-maison-margiela
+Dancing on the Moon | 2016 | 6.7 | 143 | 46/4692ac-dancing-on-the-moon-maison-margiela
+Up at Dawn | 2026 | 7.3 | 138 | a5/a51a78_up-at-dawn-maison-margiela
+Tea Escape | 2014 | 7.2 | 137 | 06/06207e-tea-escape-maison-margiela
+Across Sands | 2016 | 7.2 | 125 | 99/991ad4-across-sands-maison-margiela
+Funfair Evening | 2012 | 7.1 | 117 | 6c/6c9162-funfair-evening-maison-margiela
+Flying | 2016 | 6.8 | 114 | 94/9415cf-flying-maison-margiela
+Ideal One | 2025 | 5.2 | 92 | e7/e71939_ideal-one-maison-margiela
+Lost Eden | 2026 | 8.2 | 69 | 87/8701a7_lost-eden-maison-margiela
+Celestial Whispers | 2025 | 6.5 | 66 | 47/473dc1_celestial-whispers-maison-margiela
+Promenade in the Gardens | 2013 | 6.5 | 65 | 88/880726-promenade-in-the-gardens-maison-margiela
+Wicked Love | 2017 | 6.0 | 55 | ec/ec5532-wicked-love-maison-margiela
+Filter: Glow | 2016 | 7.3 | 27 | 7a/7ad0e9-filter-glow-maison-margiela
+Filter: Blur | 2016 | 7.6 | 23 | b5/b5cb19-filter-blur-maison-margiela

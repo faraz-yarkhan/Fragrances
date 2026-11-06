@@ -1,6 +1,24 @@
 import json,re
 import os; S=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))+'/'
 R=json.load(open(S+'rank/R.json')); RPHall=json.load(open(S+'rank/RPH.json'))
+
+nz=lambda t:re.sub(r'[^a-z0-9]','',t.lower())
+ALIAS={'YSL':'Yves Saint Laurent','Armani':'Giorgio Armani','JPG':'Jean Paul Gaultier','Jo Malone':'Jo Malone London','Tiffany':'Tiffany & Co.','Hugo Boss':'Hugo Boss','Boss':'Hugo Boss','Paco Rabanne':'Rabanne'}
+DBR=sorted({x['b'] for x in R if x['k']=='d'}|set(ALIAS),key=len,reverse=True)
+DIDX={(x['b'],nz(x['n'])):x for x in R if x['k']=='d'}
+def orig_img(o):
+    for br in DBR:
+        if o.startswith(br+' '):
+            b2=ALIAS.get(br,br);rest=o[len(br)+1:]
+            rest=re.sub(r'\s*\(.*?\)$','',rest)
+            for cand in (rest,re.sub(r' (Eau de Parfum|EDP|Eau de Toilette|EDT)$','',rest)):
+                x=DIDX.get((b2,nz(cand)))
+                if x and x.get('img'): return x['img']
+    return None
+TSV={}
+for l in open(S+'dupes.tsv',encoding='utf-8'):
+    if l.startswith('#') or '\t' not in l: continue
+    h,n,o,*_=l.rstrip('\n').split('\t'); TSV[(h,nz(n))]=o.strip()
 NOTES={
  'ysl':"<b>Unisex scents:</b> Tuxedo and Babycat are from YSL's unisex Le Vestiaire range, so they appear on both tabs.",
  'jc':"<b>Women-focused:</b> Jimmy Choo's range leans women's, so the men's list is short.",
@@ -30,6 +48,11 @@ NOTES={
  'fw':"<b>Same family:</b> French Avenue is a Fragrance World label and has its own row. Few Fragrance World scents are labelled women's or unisex, so the women's tab is short.",
 }
 CSS='''
+.dupe{display:flex;align-items:center;gap:8px;font-size:13.5px;color:var(--muted)}
+.dupe img{width:36px;height:36px;object-fit:contain;background:#fff;border-radius:6px;padding:2px;flex:none}
+.dupe b{color:var(--ink)}
+.dupe a{font-size:12.5px;font-weight:600;color:var(--accent);text-decoration:none;white-space:nowrap}
+.dupe a:hover{text-decoration:underline}
 .totop{align-self:flex-end;font:inherit;font-size:13px;font-weight:600;color:var(--accent);background:transparent;border:1px solid var(--line);border-radius:999px;padding:6px 14px;cursor:pointer}
 .totop:hover{border-color:var(--accent)}
 .rlist{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:10px}
@@ -63,7 +86,7 @@ RENDER=r'''function render(){
   const q=query.trim().toLowerCase();let shown=0;
   el.innerHTML=B.map(b=>{
     const all=houseRows(b);
-    const rows=all.map((x,i)=>({x,i})).filter(({x})=>!q||(b.name+" "+x.n+" "+(x.f?x.f.notes.join(" ")+" "+(x.f.insp||"")+" "+x.f.s:"")).toLowerCase().includes(q));
+    const rows=all.map((x,i)=>({x,i})).filter(({x})=>!q||(b.name+" "+x.n+" "+(x.du||"")+" "+(x.f?x.f.notes.join(" ")+" "+(x.f.insp||"")+" "+x.f.s:"")).toLowerCase().includes(q));
     if(!rows.length&&(q||!b.note))return"";shown++;
     const open=!!q||openSet.has(b.id);const tab=G==="men"?"men's":"women's";
     return `<section class="brand${open?" open":""}" id="${b.id}">
@@ -110,7 +133,7 @@ function rowHTML(b,x,i){
   return `<li class="ritem"><div class="rpic">${ph?`<img class="rimg" src="${ph}" alt="${esc(x.n)} bottle" width="72" height="72" loading="lazy">`:sketch(f&&f.fam)}<span class="rnum">No. ${i+1}</span></div>
   <div class="rbody"><h3 class="rname">${esc(x.n)}</h3>${meta?`<div class="rmeta">${esc(meta)}</div>`:""}
   <div class="rrow"><span class="data">Parfumo ${x.r} (${x.c.toLocaleString()})</span><a class="buy" href="${buyUrl(b,{n:x.n,c:x.cc})}" target="_blank" rel="noopener" aria-label="Buy ${esc(x.n)} on Google Shopping (opens in a new tab)">Buy on Google <span aria-hidden="true">↗</span></a></div>
-  ${f&&f.insp?`<div class="insp">Inspired by: <b>${esc(f.insp)}</b></div>`:""}
+  ${x.du?`<div class="dupe">${x.dui&&RPHOTO(x.dui)?`<img src="${RPHOTO(x.dui)}" alt="${esc(x.du)} bottle" width="36" height="36" loading="lazy">`:""}<span>${x.du[0]==="≈"?"Often compared to":"Dupe of"}: <b>${esc(x.du.replace(/^≈ /,""))}</b> <a href="${gq(x.du.replace(/^≈ /,"").split(" / ")[0]+" perfume")}" target="_blank" rel="noopener" aria-label="Search ${esc(x.du)} on Google (opens in a new tab)">See original ↗</a></span></div>`:(f&&f.insp?`<div class="insp">Inspired by: <b>${esc(f.insp)}</b></div>`:"")}
   ${f&&f.notes.length?`<div class="notes">${f.notes.map(n=>`<span>${esc(n)}</span>`).join("")}</div>`:""}
   ${f&&f.s?`<p class="says">${esc(f.s)}</p>`:""}
   ${f&&f.w&&f.w.length?`<div class="when">${f.w.map(w=>`<span>${OCC[w]}</span>`).join("")}</div>`:""}
@@ -184,6 +207,24 @@ def patch(f,coll):
     if coll=='a':
         import sys;sys.path.insert(0,S+'rank');from houses_extra import fix;B=fix(B);NH=len(B)
     B.sort(key=lambda b:b['name'].lower())
+    INS={}
+    for b in B:
+        for g in ('men','women'):
+            for pk in b.get(g) or []:
+                if pk.get('insp'): INS[(b['name'],nz(pk['n']))]=re.sub(r'^(Similar to|Inspired by)\s+','',pk['insp']).strip()
+    nd=0;seen=set()
+    for x in rr:
+        if coll=='d' and x['b']!='Zara': continue
+        o=TSV.get((x['b'],nz(x['n'])))
+        if o: seen.add((x['b'],nz(x['n'])))
+        o=o or INS.get((x['b'],nz(x['n'])))
+        if not o or o=='-': continue
+        x['du']=o; k=orig_img(o.lstrip('≈ ').split(' / ')[0]); nd+=1
+        if k:
+            x['dui']=k
+            if k not in PH and k in RPHall: rph[k]=RPHall[k]
+    miss=[k for k in TSV if k not in seen and (coll=='a' or k[0]=='Zara') and any(x['b']==k[0] for x in rr)]
+    print(coll,'dupes',nd,'with photo',sum('dui' in x for x in rr),'unmatched tsv',miss)
     s=s[:i+8]+json.dumps(B,ensure_ascii=False)+s[j:]
     s=rep(s,'@media (max-width:480px)',CSS.strip()+'\n@media (max-width:480px)')
     s=re.sub(r'placeholder="Search a fragrance, note or inspiration[^"]*"','placeholder="Search any fragrance, brand or note"',s)
@@ -194,7 +235,8 @@ def patch(f,coll):
     lede=("Switch between men's and women's, then tap a house to see every scent from it that has a Parfumo rating, ranked from best to worst. "
           "Ratings are Parfumo community scores out of 10, with the number of ratings in brackets. Scores from only a few ratings are pulled towards the average, so a 9.0 from 10 people doesn't outrank an 8.5 from 400. "
           "Men's tabs show men's and unisex scents, and women's tabs show women's and unisex, so the two overlap. "
-          "Lists cover each house's 20 to 40 most popular scents on Parfumo. If a fragrance isn't here, type it in the search box and press Look up.")
+          "Lists cover each house's 20 to 40 most popular scents on Parfumo. If a fragrance isn't here, type it in the search box and press Look up. "
+          "For Arabian houses and Zara, 'Dupe of' names the scent reviewers and sellers say it copies, with a photo when that original is on these pages. 'Often compared to' means a looser likeness. These are community comparisons, not official claims.")
     s=re.sub(r'<p class="lede">.*?</p>','<p class="lede">'+lede+'</p>',s,count=1,flags=re.S)
     upd=open(S+'UPDATED').read().strip()
     s=s.replace('<p class="lede">'+lede+'</p>','<p class="lede">'+lede+'</p>\n    <p class="updated">Ratings last updated: <b>'+upd+'</b> · source: Parfumo</p>',1)

@@ -63,4 +63,6 @@ def fix(B):
 def fix_d(B):
     if 'margiela' not in [b['id'] for b in B]:
         B.insert([b['id'] for b in B].index('lelabo')+1,json.load(open(S+'rank/margiela_house.json')))
+    if 'hugoboss' not in [b['id'] for b in B]:
+        B.append(json.load(open(S+'rank/hugoboss_house.json')))
     return B

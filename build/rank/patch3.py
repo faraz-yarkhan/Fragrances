@@ -21,7 +21,7 @@ NOTES={
  'creed':"<b>Women's tab:</b> Creed's women's scents rate well below its men's and unisex ones, so unisex Creeds lead that tab.",
  'jomalone':"<b>Layering house:</b> Jo Malone is officially unisex. The women's labels for its florals come from Fragrantica. Expect 3 to 5 hours from the Colognes.",
  'lelabo':"<b>All unisex:</b> every Le Labo scent is unisex, so both tabs show the same list. Santal 33 is the famous one but rates only 7.3.",
- 'burberry':None,'prada':None,
+ 'burberry':"<b>Women-focused:</b> most of Burberry's popular range is women's. The men's tab has the Hero, London and Mr. Burberry lines; the weakest are Brit Rhythm for Him (6.3) and Weekend for Men (6.5).",'prada':None,
  'rayhaan':"<b>Women's tab:</b> Rayhaan makes almost no women's-labelled scents. Divine is the only one with enough ratings, so the rest of that tab is unisex.",
  'lattafa':"<b>Partial list:</b> only Lattafa's 40 most popular scents could be read from Parfumo. Few are labelled women's, so unisex scents make up most of the women's tab.",
  'hawas':"<b>Heads up:</b> Hawas is a Rasasi line, not a separate brand. Hawas for Her's 8.4 comes from just 34 ratings.",
@@ -183,6 +183,7 @@ def patch(f,coll):
         from houses_extra import fix_d;B=fix_d(B);NH=len(B)
     if coll=='a':
         import sys;sys.path.insert(0,S+'rank');from houses_extra import fix;B=fix(B);NH=len(B)
+    B.sort(key=lambda b:b['name'].lower())
     s=s[:i+8]+json.dumps(B,ensure_ascii=False)+s[j:]
     s=rep(s,'@media (max-width:480px)',CSS.strip()+'\n@media (max-width:480px)')
     s=re.sub(r'placeholder="Search a fragrance, note or inspiration[^"]*"','placeholder="Search any fragrance, brand or note"',s)

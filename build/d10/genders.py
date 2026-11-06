@@ -18,7 +18,7 @@ G = {
  'valentino': dict(d='m', F=["Donna Born In Roma Eau de Parfum","Donna Rosa Verde","Donna Born in Roma Green Stravaganza","Valentino Donna (2015) Eau de Parfum","Voce Viva Eau de Parfum","Valentina (2011)","Donna Born In Roma Intense","Donna Born In Roma Extradose","Donna Born In Roma Coral Fantasy","Donna Born In Roma Yellow Dream","Voce Viva Intensa","Vendetta Donna","Donna Born in Roma Ivory","Valentino Donna Acqua","Valentina Assoluto","Vendetta Eau de Toilette","Very Valentino Eau de Parfum","Valentina Poudre","Valentino Donna Noir Absolu","Donna Born In Roma The Gold"], U=["Sogno in Rosso"]),
  'xerjoff': dict(d='u', M=["Homme Anniversary"]),
  'azzaro': dict(d='m', F=["Eau Belle"]),
- 'burberry': dict(d='f', M=["London for Men","Hero Eau de Parfum","Hero Eau de Toilette","Touch for Men","Brit for Him","Burberry for Men","Hero Parfum","Hero Parfum Intense","Sport for Men"]),
+ 'burberry': dict(d='f', M=["London for Men","Hero Eau de Parfum","Hero Eau de Toilette","Touch for Men","Brit for Him","Burberry for Men","Hero Parfum","Hero Parfum Intense","Sport for Men","Mr. Burberry Eau de Toilette","Mr. Burberry Eau de Parfum","Mr. Burberry Indigo","Brit Rhythm for Him","The Beat for Men","Weekend for Men"], Q=["Baby Touch"]),
  'zara': dict(d='?', F=["Red Temptation","Rose Gourmand","Cherry Smoothie","Golden Decade","Applejuice"], M=["Rich/Warm/Addictive","Vibrant Leather","9.0","Intense/Dark/Exclusive","For Him Red Edition","Bogoss Vibrant Leather"], U=["Vetiver Pamplemousse","Ebony Wood","Waterlily Tea Dress","N°04 Fashionably London","N°06 Elegantly Tokyo","N°04 Leather Jardin"]),
  'creed': dict(d='m', F=["Aventus for Her","Queen of Silk","Love In White","Carmina","Wind Flowers","Royal Princess Oud","Fleurissimo","Eladaria"], U=["Virgin Island Water","Silver Mountain Water","Royal Oud","Millésime Impérial","Original Santal","Sublime Vanille","Spice and Wood","Royal Mayfair","Oud Zarian","Neroli Sauvage","Jardin d'Amalfi","Pure White Cologne"]),
  'jomalone': dict(d='u', F=["English Pear & Freesia","Peony & Blush Suede","Nectarine Blossom & Honey","Wild Bluebell","Red Roses","Honeysuckle & Davana","Tuberose Angelica","English Pear & Sweet Pea","Red Hibiscus","Poppy & Barley"], M=["Cypress & Grapevine"]),
@@ -28,6 +28,7 @@ G = {
  'jc': dict(d='f', M=["Man Ice","Man Eau de Toilette","Man Blue","Man Aqua","Man Intense","Urban Hero"]),
  'gb': dict(d='u'),
  'margiela': dict(d='u', F=["Lipstick On","Flower Market","Beach Walk","Funfair Evening"]),
+ 'hugoboss': dict(d='m', F=["The Scent for Her Eau de Parfum", "Boss Alive Eau de Parfum", "Hugo Deep Red", "Boss Orange Eau de Toilette", "Boss Ma Vie pour Femme", "The Scent Private Accord for Her", "Boss Nuit pour Femme", "Femme", "The Scent Absolute for Her", "Hugo Woman Eau de Toilette", "The Scent Elixir for Her", "Boss Woman"], Q=["Hugo Reversed"]),
  'versace': dict(d='m', F=["Crystal Noir Eau de Parfum","Versense","Crystal Noir Eau de Toilette","Bright Crystal","Dylan Blue pour Femme","Dylan Purple","Yellow Diamond"]),
 }
 def gender(brand,name):

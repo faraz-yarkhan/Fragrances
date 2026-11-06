@@ -33,6 +33,6 @@ for a,b in R:
     s=s.replace(a,b)
 k=s.find('<style>');headbits=s[:k].replace('<title>Designer Fragrance Shortlist</title>\n','').replace('<meta name="claude:viewport-fit-sides" content="cover">\n','')
 rest=s[k:];e=rest.find('</style>')+8
-out=('<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">\n<title>Fragrance Shortlists</title>\n<meta name="description" content="Ranked men\'s and women\'s fragrance rankings of every rated scent for 29 designer and niche houses and 32 Arabian houses, with Parfumo ratings, notes and bottle photos.">\n'+headbits+rest[:e]+'\n</head>\n<body>\n'+rest[e:].lstrip('\n')+'\n</body>\n</html>\n')
+out=('<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">\n<title>Fragrance Shortlists</title>\n<meta name="description" content="Ranked men\'s and women\'s fragrance rankings of every rated scent for 32 designer and niche houses and 32 Arabian houses, with Parfumo ratings, notes and bottle photos.">\n'+headbits+rest[:e]+'\n</head>\n<body>\n'+rest[e:].lstrip('\n')+'\n</body>\n</html>\n')
 open('share/fragrance-shortlists.html','w').write(out)
 print(len(out)//1024,'KB')

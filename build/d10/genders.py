@@ -31,6 +31,9 @@ G = {
  'hugoboss': dict(d='m', F=["The Scent for Her Eau de Parfum", "Boss Alive Eau de Parfum", "Hugo Deep Red", "Boss Orange Eau de Toilette", "Boss Ma Vie pour Femme", "The Scent Private Accord for Her", "Boss Nuit pour Femme", "Femme", "The Scent Absolute for Her", "Hugo Woman Eau de Toilette", "The Scent Elixir for Her", "Boss Woman"], Q=["Hugo Reversed"]),
  'versace': dict(d='m', F=["Crystal Noir Eau de Parfum","Versense","Crystal Noir Eau de Toilette","Bright Crystal","Dylan Blue pour Femme","Dylan Purple","Yellow Diamond"]),
 }
+G['ateliercologne']=dict(d='u')
+G['amouage']=dict(d='u', M=["Reflection Man","Jubilation XXV Man","Interlude Man","Reflection 45","Sunshine Man","Epic Man","Beach Hut Man","Interlude Black Iris","Memoir Man","Lyric Man","Journey Man","Dia Man","Purpose 50","Interlude 53","Overture Man","Jubilation 40","Gold Man","Bracken Man","Myths Man","Beloved Man","Portrayal Man","Honour Man"], F=["Sunshine Woman","Dia Woman Eau de Parfum","Lilac Love Eau de Parfum","Honour Woman Eau de Parfum","Epic Woman Eau de Parfum","Lyric Woman Eau de Parfum","Blossom Love Eau de Parfum"])
+G['moltonbrown']=dict(d='u', F=["Jasmine & Sun Rose Eau de Toilette"])
 def gender(brand,name):
     g=G[brand]
     for k,c in (('F','f'),('U','u'),('M','m'),('Q','?')):

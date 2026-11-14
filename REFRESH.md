@@ -23,3 +23,6 @@ Score = (count × rating + 100 × 7.8) / (count + 100). Men's tabs show men's, u
 
 ## Dupe notes
 `build/dupes.tsv` maps Arabian and Zara scents to the original they copy (house, scent, original, source). Names must match the page exactly; the build prints any rows it couldn't match. Start the original with `≈ ` for a loose comparison, or put `-` to show nothing. Scents without a row fall back to the older "Similar to" notes. The original's photo shows when it's one of the designer scents on the pages; otherwise only the "See original" search link shows.
+
+## Scent tags
+Type, season and time-of-day tags live in `build/tags.tsv`; see TAGGING.md. The monthly refresh doesn't touch them.

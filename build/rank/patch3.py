@@ -19,6 +19,34 @@ TSV={}
 for l in open(S+'dupes.tsv',encoding='utf-8'):
     if l.startswith('#') or '\t' not in l: continue
     h,n,o,*_=l.rstrip('\n').split('\t'); TSV[(h,nz(n))]=o.strip()
+
+WARM={'amber','vanilla','gourmand','sweet','oud','leather','tobacco','incense','smoky','coffee','boozy','warm spicy','spicy','balsamic','animalic','honey','chocolate','caramel','oriental','cinnamon','resinous'}
+FRESH={'citrus','aquatic','marine','green','fresh','aromatic','fresh spicy','ozonic','fougere','fougère','herbal','lavender','mint','salty','metallic'}
+def tagify(a,v):
+    acc=[t.strip() for t in a.split(',') if t.strip()][:3]
+    lab=' · '.join(t[:1].upper()+t[1:] for t in acc)
+    w=sum(t.lower() in WARM for t in acc[:2]); fr=sum(t.lower() in FRESH for t in acc[:2])
+    eS,eD=('Autumn · Winter','Evening') if w>fr else ('Spring · Summer','Day') if fr>w else ('All year','Day or evening')
+    wi,sp,su,fa,dy,ni=v
+    est=not any(v[:4]) or not any(v[4:])
+    if any(v[:4]):
+        S=[('Spring',sp),('Summer',su),('Autumn',fa),('Winter',wi)]
+        top=max(x for _,x in S)
+        keep=[n for n,x in S if x>=0.7*top]
+        seas='All year' if len(keep)==4 else ' · '.join(keep)
+    else: seas=eS
+    if any(v[4:]): tod='Day' if dy>=ni+15 else 'Evening' if ni>=dy+15 else 'Day or evening'
+    else: tod=eD
+    return dict(a=lab,s=seas,d=tod,es=0 if any(v[:4]) else 1,ed=0 if any(v[4:]) else 1)
+TAGS={}
+try:
+    for l in open(S+'tags.tsv',encoding='utf-8'):
+        if l.startswith('#') or l.startswith('house\t') or not l.strip(): continue
+        f=l.rstrip('\n').split('\t')
+        if len(f)<9 or f[2].strip() in ('','?'): continue
+        v=[int(x) if x.strip().isdigit() else 0 for x in f[3:9]]
+        TAGS[(f[0],nz(f[1]))]=tagify(f[2],v)
+except FileNotFoundError: pass
 NOTES={
  'ysl':"<b>Unisex scents:</b> Tuxedo and Babycat are from YSL's unisex Le Vestiaire range, so they appear on both tabs.",
  'jc':"<b>Women-focused:</b> Jimmy Choo's range leans women's, so the men's list is short.",
@@ -48,6 +76,13 @@ NOTES={
  'fw':"<b>Same family:</b> French Avenue is a Fragrance World label and has its own row. Few Fragrance World scents are labelled women's or unisex, so the women's tab is short.",
 }
 CSS='''
+.tags{display:flex;flex-wrap:wrap;gap:6px;margin:4px 0 6px}
+.tags span{font-size:12px;line-height:1.2;padding:3px 8px;border-radius:999px;border:1px solid var(--line);color:var(--ink);background:var(--surface)}
+.tags .tg-a{font-weight:600}
+.tags .tg-s::before{content:'◐ ';opacity:.6}
+.tags .tg-d::before{content:'◷ ';opacity:.6}
+.tags span.est{border-style:dashed;color:var(--muted)}
+.tags span.est::after{content:' (est.)';opacity:.8}
 .dupe{display:flex;align-items:center;gap:8px;font-size:13.5px;color:var(--muted)}
 .dupe img{width:36px;height:36px;object-fit:contain;background:#fff;border-radius:6px;padding:2px;flex:none}
 .dupe b{color:var(--ink)}
@@ -86,7 +121,7 @@ RENDER=r'''function render(){
   const q=query.trim().toLowerCase();let shown=0;
   el.innerHTML=B.map(b=>{
     const all=houseRows(b);
-    const rows=all.map((x,i)=>({x,i})).filter(({x})=>!q||(b.name+" "+x.n+" "+(x.du||"")+" "+(x.f?x.f.notes.join(" ")+" "+(x.f.insp||"")+" "+x.f.s:"")).toLowerCase().includes(q));
+    const rows=all.map((x,i)=>({x,i})).filter(({x})=>!q||(b.name+" "+x.n+" "+(x.du||"")+" "+(x.t?x.t.a+" "+x.t.s+" "+x.t.d:"")+" "+(x.f?x.f.notes.join(" ")+" "+(x.f.insp||"")+" "+x.f.s:"")).toLowerCase().includes(q));
     if(!rows.length&&(q||!b.note))return"";shown++;
     const open=!!q||openSet.has(b.id);const tab=G==="men"?"men's":"women's";
     return `<section class="brand${open?" open":""}" id="${b.id}">
@@ -132,6 +167,7 @@ function rowHTML(b,x,i){
   const meta=[x.cc,x.y,GL[x.g]].filter(Boolean).join(" · ");
   return `<li class="ritem"><div class="rpic">${ph?`<img class="rimg" src="${ph}" alt="${esc(x.n)} bottle" width="72" height="72" loading="lazy">`:sketch(f&&f.fam)}<span class="rnum">No. ${i+1}</span></div>
   <div class="rbody"><h3 class="rname">${esc(x.n)}</h3>${meta?`<div class="rmeta">${esc(meta)}</div>`:""}
+  ${x.t?`<div class="tags"><span class="tg-a">${esc(x.t.a)}</span><span class="tg-s${x.t.es?" est":""}"${x.t.es?' title="Estimated from the scent type: no community season votes found"':""}>${esc(x.t.s)}</span><span class="tg-d${x.t.ed?" est":""}"${x.t.ed?' title="Estimated from the scent type: no community day/night votes found"':""}>${esc(x.t.d)}</span></div>`:""}
   <div class="rrow"><span class="data">Parfumo ${x.r} (${x.c.toLocaleString()})</span><a class="buy" href="${buyUrl(b,{n:x.n,c:x.cc})}" target="_blank" rel="noopener" aria-label="Buy ${esc(x.n)} on Google Shopping (opens in a new tab)">Buy on Google <span aria-hidden="true">↗</span></a></div>
   ${x.du?`<div class="dupe">${x.dui&&RPHOTO(x.dui)?`<img src="${RPHOTO(x.dui)}" alt="${esc(x.du)} bottle" width="36" height="36" loading="lazy">`:""}<span>${x.du[0]==="≈"?"Often compared to":"Dupe of"}: <b>${esc(x.du.replace(/^≈ /,""))}</b> <a href="${gq(x.du.replace(/^≈ /,"").split(" / ")[0]+" perfume")}" target="_blank" rel="noopener" aria-label="Search ${esc(x.du)} on Google (opens in a new tab)">See original ↗</a></span></div>`:(f&&f.insp?`<div class="insp">Inspired by: <b>${esc(f.insp)}</b></div>`:"")}
   ${f&&f.notes.length?`<div class="notes">${f.notes.map(n=>`<span>${esc(n)}</span>`).join("")}</div>`:""}
@@ -223,6 +259,11 @@ def patch(f,coll):
         if k:
             x['dui']=k
             if k not in PH and k in RPHall: rph[k]=RPHall[k]
+    nt=0
+    for x in rr:
+        t=TAGS.get((x['b'],nz(x['n'])))
+        if t: x['t']=t; nt+=1
+    print(coll,'tagged',nt,'of',len(rr))
     miss=[k for k in TSV if k not in seen and (coll=='a' or k[0]=='Zara') and any(x['b']==k[0] for x in rr)]
     print(coll,'dupes',nd,'with photo',sum('dui' in x for x in rr),'unmatched tsv',miss)
     s=s[:i+8]+json.dumps(B,ensure_ascii=False)+s[j:]

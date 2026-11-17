@@ -1470,3 +1470,33 @@ Riiffs	Golden Elixir Reserve	Gourmand, Sweet, Oriental							parfumo riiffs/gold
 Bujairami	Dominus	Fruity, Green, Sweet							parfumo bujairami/dominus (accords only, fruity-green); no votes found
 Maison Margiela	Filter: Blur	?							no reliable accords or votes found
 Ibraheem Al Qurashi (Ibraq)	Nude Coral Diamond	?							no reliable accords or votes found
+Ibraheem Al Qurashi (Ibraq)	Dominican Tobacco	Spicy, Woody							parfumo ibraheem-al-qurashi/dominican-tobacco (accords only, 'spicy-woody'); fragrantica blocked; no votes found
+Jo Milano Paris (Game of Spades)	Game of Spades Royale	Gourmand, Creamy							parfumo Jo_Milano/game-of-spades-royale (accords only, 'gourmand-creamy'); fragrantica blocked; no votes found
+Maison Asrar	Rey	Citrus, Fresh Spicy, Vanilla							beta.fragrantica MAISON-ASRAR/Rey-97915 (accords; When To Wear had no values); no votes found
+Maison Asrar	Coffee Blend	Gourmand, Spicy							parfumo maison-asrar/coffee-blend (accords only, 'gourmand-spicy'); fragrantica blocked; no votes found
+Mykonos	Conquer	?							no reliable accords or votes found (parfumo + fragrantica Conquer-139182 fetch failed)
+Rayhaan	Wood Noir	Green, Woody							parfumo rayhaan/wood-noir (accords only, 'green-woody'); fragrantica blocked; no votes found
+Riiffs	Momento Liquid Gold	?							no reliable accords or votes found (parfumo page has no scent line; fragrantica blocked)
+Bujairami	NonStop	Fresh, Fruity							parfumo bujairami/nonstop (accords only, 'fresh-fruity'); fragrantica blocked; no votes found
+Bujairami	Ya Habibi	?							parfumo bujairami/ya-habibi (accords only, 'citrusy-fresh'; page possibly mixed with Avon L'Eau, low confidence); no votes found; accords not used (unverified source/possible mismatch)
+Ibraheem Al Qurashi (Ibraq)	Sapphire Leather	?							no reliable accords or votes found (parfumo page has no scent line; fragrantica blocked)
+Rayhaan	Nocturno	Fresh, Citrus	59	91	97	81	100	86	parfumo rayhaan/nocturno (accords: fresh-citrusy); votes from fraganty.ai/perfume/nocturno (Rayhaan Nocturno EDP 2025)
+Riiffs	Privé Essence Blue	?							fragrantica Riiffs-Perfumes/Prive-Essence-Blue-107086 exists but fetch blocked; no reliable accords or votes found
+Velixir Parfums	Persephone	?							whatscent.app/perfume/persephone (accords, non-Fragrantica source); fragrantica Velixir/Persephone-127601 fetch blocked; no votes found; accords not used (unverified source/possible mismatch)
+Velixir Parfums	Demeter	?							parfumo velixir/demeter has no scent line; fragrantica Velixir/Demeter-127590 fetch blocked; no reliable accords or votes found
+Atralia	Amazonas Avalanche	Powdery, Floral							parfumo atralia/avalanche (Amazonas collection, 2023; accords only); no votes found
+Maison Asrar	Imperial	?							parfumo maison-asrar/imperial no scent line; fragrantica MAISON-ASRAR/Imperial-103719 fetch blocked; no reliable accords or votes found
+Mykonos	Glitch	?	50	50	100	58	92	75	fraganty.ai/perfume/glitch (votes only; accords not shown)
+Rayhaan	Equinox	?							fragrantica Rayhaan/Equinox-145035 fetch blocked; no reliable accords or votes found
+Rayhaan	Dark Leather	?							fraganty.ai/perfume/dark-leather fetch failed; no reliable accords or votes found
+Ibraheem Al Qurashi (Ibraq)	Vicuña	Warm Spicy, Amber, Aromatic							fragrantica Ibrahim-Al-Qurashi/Vicuna-LTHR-132651 (accords only; listed as 'Vicuña LTHR'); no votes shown
+Ibraheem Al Qurashi (Ibraq)	Black Carbon Diamond	?	100	43	24	59	37	85	fraganty.ai/perfume/black-carbon-diamond (votes only; accords not named)
+Reef	Titan	Floral, Fresh, Powdery							parfumo Reef/titan-perfume (accords only); no votes found
+Ibraheem Al Qurashi (Ibraq)	Malayan	?							parfumo ibraheem-al-qurashi/malayan (notes only, no accords); no votes found
+Jo Milano Paris (Game of Spades)	Game of Spades Double Bonus	?							fraganty.ai/perfume/game-of-spades-double-bonus gave inconsistent votes across fetches; not used; no accords
+Reef	Aurum	Fresh, Citrus, Green							parfumo Reef/aurum (accords only); no votes found
+Velixir Parfums	Morpheus	?							no reliable accords or votes found (parfumo velixir/morpheus is a different, older listing with no data)
+Velixir Parfums	Ares	?							no reliable accords or votes found (parfumo velixir/ares is a 2004 women's scent, different perfume)
+Atralia	Matcha Latte	Woody, Oriental, Spicy	100	60	30	95	86	77	parfumo atralia/matcha-latte (accords); fraganty.ai/perfume/matcha-latte (votes)
+Jo Milano Paris (Game of Spades)	Game of Spades All-In	?							whatscent.app/perfume/game-of-spades-all-in (non-Fragrantica community accords); no Fragrantica votes found; accords not used (unverified source/possible mismatch)
+Jo Milano Paris (Game of Spades)	Game of Spades Opal	?	83	100	91	87	87	96	fraganty.ai/perfume/game-of-spades-opal (votes only; accords not named)

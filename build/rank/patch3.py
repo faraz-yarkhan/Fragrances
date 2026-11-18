@@ -90,7 +90,7 @@ CSS='''
 .dupe a:hover{text-decoration:underline}
 .totop{align-self:flex-end;font:inherit;font-size:13px;font-weight:600;color:var(--accent);background:transparent;border:1px solid var(--line);border-radius:999px;padding:6px 14px;cursor:pointer}
 .totop:hover{border-color:var(--accent)}
-.totop.fab{position:fixed;right:max(16px,env(safe-area-inset-right));bottom:max(16px,env(safe-area-inset-bottom));z-index:50;background:var(--surface);box-shadow:0 4px 14px rgba(0,0,0,.18);padding:10px 16px;font-size:14px;opacity:0;transform:translateY(12px);pointer-events:none;transition:opacity .2s,transform .2s}
+.totop.fab{position:fixed;right:16px;bottom:16px;right:max(16px,env(safe-area-inset-right));bottom:max(16px,env(safe-area-inset-bottom));z-index:9999;background:var(--accent);color:var(--bg,#fff);border-color:var(--accent);box-shadow:0 4px 14px rgba(0,0,0,.18);padding:10px 16px;font-size:14px;opacity:0;transform:translateY(12px);pointer-events:none;transition:opacity .2s,transform .2s}
 body{padding-bottom:64px}
 .totop.fab.show{opacity:1;transform:none;pointer-events:auto}
 @media (prefers-reduced-motion: reduce){.totop.fab{transition:none}}
@@ -180,7 +180,7 @@ function rowHTML(b,x,i){
   </div></li>`;
 }
 if(!document.getElementById("fabtop")){const fb=document.createElement("button");fb.id="fabtop";fb.className="totop fab";fb.type="button";fb.setAttribute("aria-label","Back to top");fb.innerHTML='<span aria-hidden="true">↑</span> Top';document.body.appendChild(fb);
-const fbu=()=>fb.classList.toggle("show",scrollY>500);addEventListener("scroll",fbu,{passive:true});fbu();}
+const fbu=()=>{const y=window.pageYOffset||document.documentElement.scrollTop||document.body.scrollTop||0;if(y>300)fb.classList.add("show");else fb.classList.remove("show")};addEventListener("touchmove",fbu,{passive:true});addEventListener("scroll",fbu,{passive:true});fbu();}
 document.addEventListener("click",e=>{if(!e.target.closest(".totop"))return;window.scrollTo({top:0,behavior:matchMedia("(prefers-reduced-motion: reduce)").matches?"auto":"smooth"})});
 /* ---- look up a fragrance that isn't listed ---- */
 const lk=document.getElementById("lookup"),lkBtn=document.getElementById("lkbtn"),lkMsg=document.getElementById("lkmsg"),lkOut=document.getElementById("lkout");

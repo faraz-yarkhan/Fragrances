@@ -35,6 +35,7 @@ G['ateliercologne']=dict(d='u')
 G['amouage']=dict(d='u', M=["Reflection Man","Jubilation XXV Man","Interlude Man","Reflection 45","Sunshine Man","Epic Man","Beach Hut Man","Interlude Black Iris","Memoir Man","Lyric Man","Journey Man","Dia Man","Purpose 50","Interlude 53","Overture Man","Jubilation 40","Gold Man","Bracken Man","Myths Man","Beloved Man","Portrayal Man","Honour Man"], F=["Sunshine Woman","Dia Woman Eau de Parfum","Lilac Love Eau de Parfum","Honour Woman Eau de Parfum","Epic Woman Eau de Parfum","Lyric Woman Eau de Parfum","Blossom Love Eau de Parfum"])
 G['moltonbrown']=dict(d='u', F=["Jasmine & Sun Rose Eau de Toilette"])
 G['calvinklein']=dict(d='u', M=["CK One Shock for Him","Obsession for Men Eau de Toilette","Eternity for Men Eau de Toilette","Escape for Men Eau de Toilette","Eternity for Men Eau de Parfum","Euphoria Men Intense Eau de Toilette","Defy Eau de Toilette","Defy Parfum"], F=["Eternity Eau de Parfum","Euphoria Eau de Parfum","Obsession Eau de Parfum","Beauty Eau de Parfum","Escape Eau de Parfum","Eternity for Women Aromatic Essence","Eternity for Women Eau Fresh"])
+G['lancome']=dict(d='f', M=["Hypnôse Homme Eau de Toilette"], U=["Ôud Bouquet","Jasmins Marzipane","Iris Dragées","Figues & Agrumes","Lavandes Trianon","Oranges Bigarades","Tubéreuses Castane"])
 def gender(brand,name):
     g=G[brand]
     for k,c in (('F','f'),('U','u'),('M','m'),('Q','?')):

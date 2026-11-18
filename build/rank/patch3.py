@@ -2,7 +2,8 @@ import json,re
 import os; S=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))+'/'
 R=json.load(open(S+'rank/R.json')); RPHall=json.load(open(S+'rank/RPH.json'))
 
-nz=lambda t:re.sub(r'[^a-z0-9]','',t.lower())
+import unicodedata
+nz=lambda t:re.sub(r'[^a-z0-9]','',unicodedata.normalize('NFKD',t).encode('ascii','ignore').decode().lower())
 ALIAS={'YSL':'Yves Saint Laurent','Armani':'Giorgio Armani','JPG':'Jean Paul Gaultier','Jo Malone':'Jo Malone London','Tiffany':'Tiffany & Co.','Hugo Boss':'Hugo Boss','Boss':'Hugo Boss','Paco Rabanne':'Rabanne'}
 DBR=sorted({x['b'] for x in R if x['k']=='d'}|set(ALIAS),key=len,reverse=True)
 DIDX={(x['b'],nz(x['n'])):x for x in R if x['k']=='d'}

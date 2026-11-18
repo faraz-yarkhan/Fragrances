@@ -1,5 +1,5 @@
 # Refresh November 2026
-1575 scents ranked (was 1575).
+1615 scents ranked (was 1615).
 
 ## New (0)
 
